@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/7/2026, 5:09:23 PM
+Last Updated: 6/7/2026, 5:13:23 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -8,7 +8,17 @@ Size:
 Price: 14.00
 Geneva Stock: 4
 Glen Ellyn Stock: 100
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -19,7 +29,17 @@ Size: 2 oz
 Price: 32.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -30,7 +50,17 @@ Size: 5 oz
 Price: 32.00
 Geneva Stock: 5
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -41,7 +71,17 @@ Size:
 Price: 34.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -52,7 +92,17 @@ Size: 8 oz
 Price: 34.00
 Geneva Stock: 11
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -63,7 +113,17 @@ Size: 1.7 oz
 Price: 40.00
 Geneva Stock: 16
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -74,7 +134,17 @@ Size: 2 oz
 Price: 40.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -85,7 +155,17 @@ Size: 0.5 oz
 Price: 60.00
 Geneva Stock: 1
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -96,7 +176,17 @@ Size: 0.5 oz
 Price: 70.00
 Geneva Stock: 4
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -107,7 +197,17 @@ Size: 0.5 oz
 Price: 30.00
 Geneva Stock: 1
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -118,7 +218,17 @@ Size: 8 oz
 Price: 38.00
 Geneva Stock: 24
 Glen Ellyn Stock: 5
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -129,7 +239,17 @@ Size: 16 oz
 Price: 52.00
 Geneva Stock: 13
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -140,7 +260,17 @@ Size: 8 oz
 Price: 34.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -151,7 +281,17 @@ Size: 2 oz
 Price: 49.60
 Geneva Stock: 1
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -162,7 +302,17 @@ Size: 1.7 oz
 Price: 36.80
 Geneva Stock: 1
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -173,7 +323,17 @@ Size: 2 oz
 Price: 40.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -184,7 +344,17 @@ Size: 1 oz
 Price: 66.00
 Geneva Stock: 4
 Glen Ellyn Stock: 5
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -195,7 +365,17 @@ Size: 1.7 oz
 Price: 46.00
 Geneva Stock: 11
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -206,7 +386,17 @@ Size: 2 oz
 Price: 36.00
 Geneva Stock: 2
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -217,7 +407,17 @@ Size: 1.7 oz
 Price: 35.00
 Geneva Stock: 4
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -228,7 +428,17 @@ Size:
 Price: 8.00
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -239,7 +449,17 @@ Size: 5 oz
 Price: 30.00
 Geneva Stock: 11
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -250,7 +470,17 @@ Size: 4.4 oz
 Price: 30.00
 Geneva Stock: 1
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -261,7 +491,17 @@ Size: 2 oz
 Price: 40.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -272,7 +512,17 @@ Size: 0.5 oz
 Price: 20.00
 Geneva Stock: 19
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -283,7 +533,17 @@ Size: 8 oz
 Price: 34.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -294,7 +554,17 @@ Size: 1 oz
 Price: 25.00
 Geneva Stock: 4
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -305,7 +575,17 @@ Size: 4 oz
 Price: 22.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -316,7 +596,17 @@ Size:
 Price: 8.00
 Geneva Stock: 4
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -327,7 +617,17 @@ Size: 4 oz
 Price: 26.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -338,7 +638,17 @@ Size: 4 oz
 Price: 30.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -349,7 +659,17 @@ Size:
 Price: 26.00
 Geneva Stock: 3
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -360,7 +680,17 @@ Size: 1 oz
 Price: 42.00
 Geneva Stock: 9
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -371,7 +701,17 @@ Size:
 Price: 28.00
 Geneva Stock: 5
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -382,7 +722,17 @@ Size: 1 oz
 Price: 38.00
 Geneva Stock: 6
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -393,7 +743,17 @@ Size: 4 oz
 Price: 34.00
 Geneva Stock: 3
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -404,7 +764,17 @@ Size:
 Price: 10.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -415,7 +785,17 @@ Size: 1.7 oz
 Price: 30.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -426,7 +806,17 @@ Size: 2 oz
 Price: 30.00
 Geneva Stock: 2
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -437,7 +827,17 @@ Size: 1.7 oz
 Price: 40.00
 Geneva Stock: 13
 Glen Ellyn Stock: 7
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -448,7 +848,17 @@ Size: 1.7 oz
 Price: 40.00
 Geneva Stock: 6
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -459,7 +869,17 @@ Size: 1.7 oz
 Price: 40.00
 Geneva Stock: 7
 Glen Ellyn Stock: 6
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -470,7 +890,17 @@ Size: 1.7 oz
 Price: 40.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -481,7 +911,17 @@ Size: 4 oz
 Price: 48.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -492,7 +932,17 @@ Size: 8 oz
 Price: 80.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -503,7 +953,17 @@ Size: 1.7 oz
 Price: 11.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -514,7 +974,17 @@ Size: 0.5 oz
 Price: 14.00
 Geneva Stock: 7
 Glen Ellyn Stock: 7
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -525,7 +995,17 @@ Size: 0.5 oz
 Price: 14.00
 Geneva Stock: 7
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -536,7 +1016,17 @@ Size: 0.5 oz
 Price: 14.00
 Geneva Stock: 6
 Glen Ellyn Stock: 7
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -547,7 +1037,17 @@ Size: 0.5 oz
 Price: 14.00
 Geneva Stock: 7
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -558,7 +1058,17 @@ Size: 1.7 oz
 Price: 8.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -569,7 +1079,17 @@ Size:
 Price: 34.00
 Geneva Stock: 2
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -580,7 +1100,17 @@ Size:
 Price: 12.00
 Geneva Stock: 2
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -591,7 +1121,17 @@ Size:
 Price: 75.00
 Geneva Stock: 6
 Glen Ellyn Stock: 8
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -602,7 +1142,17 @@ Size:
 Price: 30.00
 Geneva Stock: 1
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -613,7 +1163,17 @@ Size:
 Price: 28.00
 Geneva Stock: 4
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -624,7 +1184,17 @@ Size:
 Price: 18.00
 Geneva Stock: 2
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -635,7 +1205,17 @@ Size:
 Price: 40.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -646,7 +1226,17 @@ Size:
 Price: 40.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -657,7 +1247,17 @@ Size:
 Price: 32.00
 Geneva Stock: 1
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -668,7 +1268,17 @@ Size:
 Price: 32.00
 Geneva Stock: 29
 Glen Ellyn Stock: 12
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -679,7 +1289,17 @@ Size:
 Price: 12.00
 Geneva Stock: 5
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -690,7 +1310,17 @@ Size:
 Price: 10.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -701,7 +1331,17 @@ Size:
 Price: 28.00
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -712,7 +1352,17 @@ Size:
 Price: 10.00
 Geneva Stock: 0
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -723,7 +1373,17 @@ Size:
 Price: 10.00
 Geneva Stock: 3
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -734,7 +1394,17 @@ Size:
 Price: 35.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -745,7 +1415,17 @@ Size:
 Price: 24.00
 Geneva Stock: 12
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -756,7 +1436,17 @@ Size:
 Price: 24.00
 Geneva Stock: 8
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -767,7 +1457,17 @@ Size:
 Price: 24.00
 Geneva Stock: 0
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -778,7 +1478,17 @@ Size:
 Price: 24.00
 Geneva Stock: 7
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -789,7 +1499,17 @@ Size:
 Price: 24.00
 Geneva Stock: 5
 Glen Ellyn Stock: 6
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -800,7 +1520,17 @@ Size:
 Price: 24.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -811,7 +1541,17 @@ Size:
 Price: 20.00
 Geneva Stock: 1
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -822,7 +1562,17 @@ Size:
 Price: 20.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -833,7 +1583,17 @@ Size:
 Price: 20.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -844,7 +1604,17 @@ Size:
 Price: 16.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -855,7 +1625,17 @@ Size:
 Price: 10.00
 Geneva Stock: 0
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -866,7 +1646,17 @@ Size:
 Price: 9.60
 Geneva Stock: 2
 Glen Ellyn Stock: 6
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -877,7 +1667,17 @@ Size: 0.15 oz
 Price: 4.00
 Geneva Stock: 0
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -888,7 +1688,17 @@ Size: 2.65 oz
 Price: 14.50
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -899,7 +1709,17 @@ Size: 0.5 oz
 Price: 7.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -910,7 +1730,17 @@ Size: 2.65 oz
 Price: 14.50
 Geneva Stock: 1
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -921,7 +1751,17 @@ Size: 0.5 oz
 Price: 7.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -932,7 +1772,17 @@ Size: 0.5 oz
 Price: 7.00
 Geneva Stock: 1
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -943,7 +1793,17 @@ Size: 0.74 oz
 Price: 16.48
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -954,7 +1814,17 @@ Size: 0.74 oz
 Price: 16.48
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -965,7 +1835,17 @@ Size: 0.15 oz
 Price: 4.00
 Geneva Stock: 0
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -976,7 +1856,17 @@ Size: 1.69 oz
 Price: 155.00
 Geneva Stock: 2
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -987,7 +1877,17 @@ Size: 1.69 oz
 Price: 160.00
 Geneva Stock: 3
 Glen Ellyn Stock: 5
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -998,7 +1898,17 @@ Size: 1 oz
 Price: 74.00
 Geneva Stock: 2
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1009,7 +1919,17 @@ Size: 4 oz
 Price: 50.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1020,7 +1940,17 @@ Size: 1 oz
 Price: 100.00
 Geneva Stock: 3
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1031,7 +1961,17 @@ Size: 1.69 oz
 Price: 90.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1042,7 +1982,17 @@ Size: 1 oz
 Price: 60.00
 Geneva Stock: 2
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1053,7 +2003,17 @@ Size: 3.3 oz
 Price: 136.00
 Geneva Stock: 3
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1064,7 +2024,17 @@ Size: 0.3 oz
 Price: 70.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1075,7 +2045,17 @@ Size: 4 oz
 Price: 84.00
 Geneva Stock: 3
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1086,7 +2066,17 @@ Size: 2 oz
 Price: 31.00
 Geneva Stock: 3
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1097,7 +2087,17 @@ Size: 2 oz
 Price: 57.00
 Geneva Stock: 3
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1108,7 +2108,17 @@ Size: 1.69 oz
 Price: 88.00
 Geneva Stock: 0
 Glen Ellyn Stock: 5
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1119,7 +2129,17 @@ Size: 6 oz
 Price: 38.00
 Geneva Stock: 3
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1130,7 +2150,17 @@ Size: 0.5 oz
 Price: 16.00
 Geneva Stock: 3
 Glen Ellyn Stock: 6
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1141,7 +2171,17 @@ Size: 8 oz
 Price: 39.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1152,7 +2192,17 @@ Size: 6.75 oz
 Price: 41.00
 Geneva Stock: 5
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1163,7 +2213,17 @@ Size: 1.6 oz
 Price: 66.00
 Geneva Stock: 4
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1174,7 +2234,17 @@ Size: 1.69 oz
 Price: 58.00
 Geneva Stock: 6
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1185,7 +2255,17 @@ Size: 2 oz
 Price: 68.00
 Geneva Stock: 1
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1196,7 +2276,17 @@ Size: 1 oz
 Price: 98.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1207,7 +2297,17 @@ Size: 2 oz
 Price: 48.00
 Geneva Stock: 3
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1218,7 +2318,17 @@ Size: 1.69 oz
 Price: 84.00
 Geneva Stock: 2
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1229,7 +2339,17 @@ Size: 1 oz
 Price: 64.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1240,7 +2360,17 @@ Size: 1.69 oz
 Price: 68.00
 Geneva Stock: 2
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1251,7 +2381,17 @@ Size: 1 oz
 Price: 114.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1262,7 +2402,17 @@ Size: 4 oz
 Price: 44.00
 Geneva Stock: 4
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1273,7 +2423,17 @@ Size: 2.6 oz
 Price: 28.00
 Geneva Stock: 3
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1284,7 +2444,17 @@ Size: 1 oz
 Price: 12.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1295,7 +2465,17 @@ Size: 8 oz
 Price: 44.00
 Geneva Stock: 3
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1306,7 +2486,17 @@ Size: 2 oz
 Price: 94.00
 Geneva Stock: 2
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1317,7 +2507,17 @@ Size:
 Price: 25.00
 Geneva Stock: 0
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1328,7 +2528,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1339,7 +2549,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1350,7 +2570,17 @@ Size:
 Price: 8.00
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1361,7 +2591,17 @@ Size:
 Price: 9.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1372,7 +2612,17 @@ Size:
 Price: 30.00
 Geneva Stock: 1
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1383,7 +2633,17 @@ Size: 9 oz
 Price: 30.00
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1394,7 +2654,17 @@ Size: 8 oz
 Price: 29.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1405,7 +2675,17 @@ Size: 8 oz
 Price: 29.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1416,7 +2696,17 @@ Size: 9 oz
 Price: 30.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1427,7 +2717,17 @@ Size: 1 oz
 Price: 63.00
 Geneva Stock: 4
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1438,7 +2738,17 @@ Size: 3 oz
 Price: 14.00
 Geneva Stock: 4
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1449,7 +2759,17 @@ Size: 0.88 oz
 Price: 39.00
 Geneva Stock: 2
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1460,7 +2780,17 @@ Size: 1 oz
 Price: 17.00
 Geneva Stock: 3
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1471,7 +2801,17 @@ Size:
 Price: 6.00
 Geneva Stock: 3
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1482,7 +2822,17 @@ Size:
 Price: 6.00
 Geneva Stock: 3
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1493,7 +2843,17 @@ Size: 9 oz
 Price: 44.00
 Geneva Stock: 0
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1504,7 +2864,17 @@ Size: 4 oz
 Price: 27.00
 Geneva Stock: 3
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1515,7 +2885,17 @@ Size: 4 oz
 Price: 17.00
 Geneva Stock: 2
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1526,7 +2906,17 @@ Size:
 Price: 35.00
 Geneva Stock: 3
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1537,7 +2927,17 @@ Size:
 Price: 22.50
 Geneva Stock: 16
 Glen Ellyn Stock: 7
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1548,7 +2948,17 @@ Size:
 Price: 22.50
 Geneva Stock: 11
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1559,7 +2969,17 @@ Size:
 Price: 24.00
 Geneva Stock: 3
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1570,7 +2990,17 @@ Size:
 Price: 12.00
 Geneva Stock: 6
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1581,7 +3011,17 @@ Size: 1.6 oz
 Price: 48.00
 Geneva Stock: 4
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1592,7 +3032,17 @@ Size: 6 oz
 Price: 32.00
 Geneva Stock: 7
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1603,7 +3053,17 @@ Size: 6 oz
 Price: 32.00
 Geneva Stock: 5
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1614,7 +3074,17 @@ Size: 6 oz
 Price: 36.00
 Geneva Stock: 4
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1625,7 +3095,17 @@ Size: 1 oz
 Price: 62.00
 Geneva Stock: 0
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1636,7 +3116,17 @@ Size: 1.7 oz
 Price: 62.00
 Geneva Stock: 3
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1647,7 +3137,17 @@ Size: 1 oz
 Price: 44.00
 Geneva Stock: 0
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1658,7 +3158,17 @@ Size: 1 oz
 Price: 36.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1669,7 +3179,17 @@ Size: 1 oz
 Price: 44.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1680,7 +3200,17 @@ Size: 6 oz
 Price: 38.00
 Geneva Stock: 3
 Glen Ellyn Stock: 2
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1691,7 +3221,17 @@ Size: 6 oz
 Price: 38.00
 Geneva Stock: 1
 Glen Ellyn Stock: 1
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1702,7 +3242,17 @@ Size: 2 oz
 Price: 52.00
 Geneva Stock: 3
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1713,7 +3263,17 @@ Size: 2 oz
 Price: 52.00
 Geneva Stock: 5
 Glen Ellyn Stock: 3
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1724,7 +3284,17 @@ Size: 1.6 oz
 Price: 72.00
 Geneva Stock: 6
 Glen Ellyn Stock: 6
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1735,7 +3305,17 @@ Size: 1 oz
 Price: 62.00
 Geneva Stock: 4
 Glen Ellyn Stock: 4
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1746,7 +3326,17 @@ Size: 1.6 oz
 Price: 66.00
 Geneva Stock: 5
 Glen Ellyn Stock: 9
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1757,7 +3347,17 @@ Size:
 Price: 10.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1768,7 +3368,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1779,7 +3389,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1790,7 +3410,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1801,7 +3431,17 @@ Size:
 Price: 12.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1812,7 +3452,17 @@ Size:
 Price: 8.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1823,7 +3473,17 @@ Size:
 Price: 16.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1834,7 +3494,17 @@ Size:
 Price: 10.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1845,7 +3515,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1856,7 +3536,17 @@ Size:
 Price: 6.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1867,7 +3557,17 @@ Size:
 Price: 8.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1878,7 +3578,17 @@ Size:
 Price: 8.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1889,7 +3599,17 @@ Size:
 Price: 8.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1900,7 +3620,17 @@ Size:
 Price: 14.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1911,7 +3641,17 @@ Size:
 Price: 24.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1922,7 +3662,17 @@ Size:
 Price: 22.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1933,7 +3683,17 @@ Size:
 Price: 20.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1944,7 +3704,17 @@ Size:
 Price: 13.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
@@ -1955,7 +3725,17 @@ Size:
 Price: 20.00
 Geneva Stock: 0
 Glen Ellyn Stock: 0
-Online: ?
+const onlineValue = row[col['Online']] || '';
+
+let online = 'No';
+
+if (
+  onlineValue === '?' ||
+  onlineValue === '??' ||
+  onlineValue === '??'
+) {
+  online = 'Yes';
+}
 
 ----------------------------------------
 
