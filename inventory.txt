@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/8/2026, 12:45:48 PM
+Last Updated: 6/8/2026, 4:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -545,9 +545,9 @@ Brand: BiON
 Barcode: Bion-Travel-med1
 Size: 0.5 oz
 Price: 14.00
-Geneva Stock: 7
+Geneva Stock: 6
 Glen Ellyn Stock: 3
-Total Stock: 10
+Total Stock: 9
 
 ----------------------------------------
 
@@ -1139,9 +1139,9 @@ Brand: Glymed
 Barcode: US-GM-74ER
 Size: 8 oz
 Price: 39.00
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 2
-Total Stock: 4
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1590,9 +1590,9 @@ Brand: Skin For Life
 Barcode: 819069013261
 Size: 6 oz
 Price: 32.00
-Geneva Stock: 7
+Geneva Stock: 6
 Glen Ellyn Stock: 4
-Total Stock: 11
+Total Stock: 10
 
 ----------------------------------------
 
@@ -1744,9 +1744,9 @@ Brand: Skin For Life
 Barcode: 819069010093
 Size: 1.6 oz
 Price: 66.00
-Geneva Stock: 5
+Geneva Stock: 4
 Glen Ellyn Stock: 9
-Total Stock: 14
+Total Stock: 13
 
 ----------------------------------------
 
