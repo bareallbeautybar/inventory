@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/9/2026, 4:45:48 PM
+Last Updated: 6/9/2026, 8:45:47 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -1697,7 +1697,7 @@ Total Stock: 10
 
 Product: Sol Defense Medium
 Brand: Skin For Life
-Barcode: unkown5859
+Barcode: 819069013230
 Size: 2 oz
 Price: 52.00
 Geneva Stock: 3
