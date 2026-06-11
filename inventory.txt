@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/11/2026, 8:45:47 AM
+Last Updated: 6/11/2026, 12:45:49 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -64,17 +64,6 @@ Price: 40.00
 Geneva Stock: 16
 Glen Ellyn Stock: 2
 Total Stock: 18
-
-----------------------------------------
-
-Product: Detox Clay Mask
-Brand: Berodin/Tuel
-Barcode: 7d5bb004-3726-430f-a8cc-a1cc82556625
-Size: 2 oz
-Price: 40.00
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
@@ -251,17 +240,6 @@ Price: 30.00
 Geneva Stock: 1
 Glen Ellyn Stock: 1
 Total Stock: 2
-
-----------------------------------------
-
-Product: Super Soothe Mask
-Brand: Berodin/Tuel
-Barcode: 
-Size: 2 oz
-Price: 40.00
-Geneva Stock: 0
-Glen Ellyn Stock: 1
-Total Stock: 1
 
 ----------------------------------------
 
@@ -1557,9 +1535,9 @@ Brand: S. Jolie Spray Tan
 Barcode: 851397008021
 Size: 
 Price: 24.00
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 1
-Total Stock: 4
+Total Stock: 3
 
 ----------------------------------------
 
