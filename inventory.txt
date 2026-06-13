@@ -1,11 +1,11 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/13/2026, 4:45:47 AM
+Last Updated: 6/13/2026, 8:45:47 AM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
 Barcode: BABBM-FCM-1
 Size: 
-Price: 14.00
+Price: 14
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -16,7 +16,7 @@ Product: Balance Superfood Mask
 Brand: Berodin/Tuel
 Barcode: 252a482f-cb80-4ad0-8362-e9cb69bacc3c
 Size: 2 oz
-Price: 32.00
+Price: 32
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -27,7 +27,7 @@ Product: Beat The Clock Cleanser
 Brand: Berodin/Tuel
 Barcode: 844206001160
 Size: 5 oz
-Price: 32.00
+Price: 32
 Geneva Stock: 5
 Glen Ellyn Stock: 1
 Total Stock: 6
@@ -38,7 +38,7 @@ Product: Body Travel Kit
 Brand: Berodin/Tuel
 Barcode: 844206001849
 Size: 
-Price: 34.00
+Price: 34
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -49,7 +49,7 @@ Product: Botanical Blast Body Lotion
 Brand: Berodin/Tuel
 Barcode: 844206001450
 Size: 8 oz
-Price: 34.00
+Price: 34
 Geneva Stock: 11
 Glen Ellyn Stock: 2
 Total Stock: 13
@@ -60,7 +60,7 @@ Product: Clear It Blemish Control Gel
 Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
-Price: 40.00
+Price: 40
 Geneva Stock: 15
 Glen Ellyn Stock: 2
 Total Stock: 17
@@ -71,7 +71,7 @@ Product: Eye Corrector Firm & Lighten Gel
 Brand: Berodin/Tuel
 Barcode: 844206000200
 Size: 0.5 oz
-Price: 60.00
+Price: 60
 Geneva Stock: 1
 Glen Ellyn Stock: 1
 Total Stock: 2
@@ -82,7 +82,7 @@ Product: Eye Revive
 Brand: Berodin/Tuel
 Barcode: 844206001320
 Size: 0.5 oz
-Price: 70.00
+Price: 70
 Geneva Stock: 4
 Glen Ellyn Stock: 1
 Total Stock: 5
@@ -93,7 +93,7 @@ Product: Fresh Eyes
 Brand: Berodin/Tuel
 Barcode: 844206000330
 Size: 0.5 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
@@ -104,7 +104,7 @@ Product: Green Clean Body Polish Kit
 Brand: Berodin/Tuel
 Barcode: 844206000811
 Size: 8 oz
-Price: 38.00
+Price: 38
 Geneva Stock: 24
 Glen Ellyn Stock: 5
 Total Stock: 29
@@ -115,7 +115,7 @@ Product: Green Clean Body Wash LG
 Brand: Berodin/Tuel
 Barcode: 844206000170
 Size: 16 oz
-Price: 52.00
+Price: 52
 Geneva Stock: 12
 Glen Ellyn Stock: 1
 Total Stock: 13
@@ -126,7 +126,7 @@ Product: Green Clean Body Wash SM
 Brand: Berodin/Tuel
 Barcode: 844206000705
 Size: 8 oz
-Price: 34.00
+Price: 34
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -137,7 +137,7 @@ Product: Lift Up Firming Mask
 Brand: Berodin/Tuel
 Barcode: 844206000453
 Size: 2 oz
-Price: 49.60
+Price: 49.6
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
@@ -148,7 +148,7 @@ Product: Make Amends Healing Moisture Cream
 Brand: Berodin/Tuel
 Barcode: 844206001498
 Size: 1.7 oz
-Price: 36.80
+Price: 36.8
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -159,7 +159,7 @@ Product: Moisture Plus Mask
 Brand: Berodin/Tuel
 Barcode: 844206000446
 Size: 2 oz
-Price: 40.00
+Price: 40
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -170,7 +170,7 @@ Product: Post Wax Essential Oil
 Brand: Berodin/Tuel
 Barcode: 844206001290
 Size: 1 oz
-Price: 66.00
+Price: 66
 Geneva Stock: 4
 Glen Ellyn Stock: 5
 Total Stock: 9
@@ -181,7 +181,7 @@ Product: Post Wax Soothing Cream
 Brand: Berodin/Tuel
 Barcode: 844206001337
 Size: 1.7 oz
-Price: 46.00
+Price: 46
 Geneva Stock: 11
 Glen Ellyn Stock: 2
 Total Stock: 13
@@ -192,7 +192,7 @@ Product: Power Peel Serum
 Brand: Berodin/Tuel
 Barcode: 844206000248
 Size: 2 oz
-Price: 36.00
+Price: 36
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -203,7 +203,7 @@ Product: Power Scrub
 Brand: Berodin/Tuel
 Barcode: 844206000439
 Size: 1.7 oz
-Price: 35.00
+Price: 35
 Geneva Stock: 4
 Glen Ellyn Stock: 1
 Total Stock: 5
@@ -214,7 +214,7 @@ Product: Pumice Gloves
 Brand: Berodin/Tuel
 Barcode: 
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -225,7 +225,7 @@ Product: Say Goodbye To Dry Cleanser
 Brand: Berodin/Tuel
 Barcode: 844206000521
 Size: 5 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 11
 Glen Ellyn Stock: 2
 Total Stock: 13
@@ -236,7 +236,7 @@ Product: Shape Shifter
 Brand: Berodin/Tuel
 Barcode: 844206001030
 Size: 4.4 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 1
 Glen Ellyn Stock: 1
 Total Stock: 2
@@ -247,7 +247,7 @@ Product: TRAVEL Clear It Blemish Control
 Brand: Berodin/Tuel
 Barcode: 844206002167
 Size: 0.5 oz
-Price: 20.00
+Price: 20
 Geneva Stock: 19
 Glen Ellyn Stock: 3
 Total Stock: 22
@@ -258,7 +258,7 @@ Product: Triple Splash Hydrating Body Serum
 Brand: Berodin/Tuel
 Barcode: 844206000712
 Size: 8 oz
-Price: 34.00
+Price: 34
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -269,7 +269,7 @@ Product: Bio-Essense Nighttime Calcium Complex
 Brand: BiON
 Barcode: 837654648100
 Size: 1 oz
-Price: 25.00
+Price: 25
 Geneva Stock: 4
 Glen Ellyn Stock: 3
 Total Stock: 7
@@ -280,7 +280,7 @@ Product: Cleanser for Normal Skin
 Brand: BiON
 Barcode: 658580350017
 Size: 4 oz
-Price: 22.00
+Price: 22
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
@@ -291,7 +291,7 @@ Product: Cocoa Mango Body Butter
 Brand: BiON
 Barcode: 658580350215
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -302,7 +302,7 @@ Product: Gentle Cream Cleanser
 Brand: BiON
 Barcode: 658580349967
 Size: 4 oz
-Price: 26.00
+Price: 26
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -313,7 +313,7 @@ Product: Glycolic Cleanser
 Brand: BiON
 Barcode: 658580349950
 Size: 4 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -324,7 +324,7 @@ Product: Intense Eye Moisturizing Cream
 Brand: BiON
 Barcode: 658580350178
 Size: 
-Price: 26.00
+Price: 26
 Geneva Stock: 3
 Glen Ellyn Stock: 3
 Total Stock: 6
@@ -335,7 +335,7 @@ Product: Mandelic 15%
 Brand: BiON
 Barcode: 837654648117
 Size: 1 oz
-Price: 42.00
+Price: 42
 Geneva Stock: 9
 Glen Ellyn Stock: 4
 Total Stock: 13
@@ -346,7 +346,7 @@ Product: Mandelic 5% Toner Pads
 Brand: BiON
 Barcode: 658580350123
 Size: 
-Price: 28.00
+Price: 28
 Geneva Stock: 5
 Glen Ellyn Stock: 3
 Total Stock: 8
@@ -357,7 +357,7 @@ Product: Mandelic 8%
 Brand: BiON
 Barcode: 837654648131
 Size: 1 oz
-Price: 38.00
+Price: 38
 Geneva Stock: 5
 Glen Ellyn Stock: 3
 Total Stock: 8
@@ -368,7 +368,7 @@ Product: Mineral Cream Exfoliating Cleanser
 Brand: BiON
 Barcode: 658580349998
 Size: 4 oz
-Price: 34.00
+Price: 34
 Geneva Stock: 3
 Glen Ellyn Stock: 1
 Total Stock: 4
@@ -379,7 +379,7 @@ Product: Mini Bion Seaweed Mask
 Brand: BiON
 Barcode: 
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -390,7 +390,7 @@ Product: Pure Mineral Sunscreen SPF 30 SM
 Brand: BiON
 Barcode: 669185519440
 Size: 1.7 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -401,7 +401,7 @@ Product: Restorative Balm
 Brand: BiON
 Barcode: 658580350208
 Size: 2 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -412,7 +412,7 @@ Product: Tinted Dark/Tan Mineral SPF 35
 Brand: BiON
 Barcode: 837654648001
 Size: 1.7 oz
-Price: 40.00
+Price: 40
 Geneva Stock: 13
 Glen Ellyn Stock: 7
 Total Stock: 20
@@ -423,7 +423,7 @@ Product: Tinted Fair Mineral SPF 35
 Brand: BiON
 Barcode: Bion-Fair1
 Size: 1.7 oz
-Price: 40.00
+Price: 40
 Geneva Stock: 6
 Glen Ellyn Stock: 1
 Total Stock: 7
@@ -434,7 +434,7 @@ Product: Tinted Light Mineral SPF 35
 Brand: BiON
 Barcode: 658580350239
 Size: 1.7 oz
-Price: 40.00
+Price: 40
 Geneva Stock: 6
 Glen Ellyn Stock: 6
 Total Stock: 12
@@ -445,7 +445,7 @@ Product: Tinted Medium Mineral SPF 35
 Brand: BiON
 Barcode: 658580350246
 Size: 1.7 oz
-Price: 40.00
+Price: 40
 Geneva Stock: 3
 Glen Ellyn Stock: 2
 Total Stock: 5
@@ -456,7 +456,7 @@ Product: Titanium Dioxide SPF 35 LG
 Brand: BiON
 Barcode: 837654648018
 Size: 4 oz
-Price: 48.00
+Price: 48
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -467,7 +467,7 @@ Product: Titanium Dioxide SPF 35 PRO
 Brand: BiON
 Barcode: unknown57
 Size: 8 oz
-Price: 80.00
+Price: 80
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -478,7 +478,7 @@ Product: TRAVEL Cleanser for Normal Skin
 Brand: BiON
 Barcode: 
 Size: 1.7 oz
-Price: 11.00
+Price: 11
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -489,7 +489,7 @@ Product: TRAVEL Dark/Tan Tinted Mineral SPF 35
 Brand: BiON
 Barcode: Bion-Travel-dark1
 Size: 0.5 oz
-Price: 14.00
+Price: 14
 Geneva Stock: 7
 Glen Ellyn Stock: 7
 Total Stock: 14
@@ -500,7 +500,7 @@ Product: TRAVEL Fair Tinted Mineral SPF 35
 Brand: BiON
 Barcode: Bion-Travel-fair1
 Size: 0.5 oz
-Price: 14.00
+Price: 14
 Geneva Stock: 7
 Glen Ellyn Stock: 2
 Total Stock: 9
@@ -511,7 +511,7 @@ Product: TRAVEL Light Tinted Mineral SPF 35
 Brand: BiON
 Barcode: Bion-Travel-light1
 Size: 0.5 oz
-Price: 14.00
+Price: 14
 Geneva Stock: 6
 Glen Ellyn Stock: 7
 Total Stock: 13
@@ -522,7 +522,7 @@ Product: TRAVEL Medium Tinted Mineral SPF 35
 Brand: BiON
 Barcode: Bion-Travel-med1
 Size: 0.5 oz
-Price: 14.00
+Price: 14
 Geneva Stock: 6
 Glen Ellyn Stock: 3
 Total Stock: 9
@@ -533,7 +533,7 @@ Product: TRAVEL Naturally Soft Body Lotion
 Brand: BiON
 Barcode: 
 Size: 1.7 oz
-Price: 8.00
+Price: 8
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -544,7 +544,7 @@ Product: Youthful Eyes Peptide Cream 1oz
 Brand: BiON
 Barcode: 837654648049
 Size: 
-Price: 34.00
+Price: 34
 Geneva Stock: 2
 Glen Ellyn Stock: 3
 Total Stock: 5
@@ -555,7 +555,7 @@ Product: Borboleta Angled Cleansing Brush
 Brand: Borboleta
 Barcode: 850013444144
 Size: 
-Price: 12.00
+Price: 12
 Geneva Stock: 2
 Glen Ellyn Stock: 3
 Total Stock: 5
@@ -566,7 +566,7 @@ Product: Borboleta Lash Serum
 Brand: Borboleta
 Barcode: 850013444090
 Size: 
-Price: 75.00
+Price: 75
 Geneva Stock: 5
 Glen Ellyn Stock: 8
 Total Stock: 13
@@ -577,7 +577,7 @@ Product: Clean Swoop Cleansing Brush
 Brand: Borboleta
 Barcode: 850013444038
 Size: 
-Price: 30.00
+Price: 30
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -588,7 +588,7 @@ Product: Lash Bath Foam Cleanser 1.7oz
 Brand: Borboleta
 Barcode: 850013444045
 Size: 
-Price: 28.00
+Price: 28
 Geneva Stock: 4
 Glen Ellyn Stock: 4
 Total Stock: 8
@@ -599,7 +599,7 @@ Product: Lash Bath Gel Cleanser 15ml
 Brand: Borboleta
 Barcode: 850013444069
 Size: 
-Price: 18.00
+Price: 18
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -610,7 +610,7 @@ Product: ULTRA Slant Tip Tweezers
 Brand:    Salon Centric
 Barcode: unknown123
 Size: 
-Price: 40.00
+Price: 40
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -621,7 +621,7 @@ Product: Ultra Tweezers
 Brand:    Salon Centric
 Barcode: unknown127
 Size: 
-Price: 40.00
+Price: 40
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -632,7 +632,7 @@ Product: Bomb Mascara
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224885
 Size: 
-Price: 32.00
+Price: 32
 Geneva Stock: 1
 Glen Ellyn Stock: 1
 Total Stock: 2
@@ -643,7 +643,7 @@ Product: Brow and Lash Toxx Serum
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
-Price: 32.00
+Price: 32
 Geneva Stock: 28
 Glen Ellyn Stock: 12
 Total Stock: 40
@@ -654,7 +654,7 @@ Product: Lash Cleanser - Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354220610
 Size: 
-Price: 12.00
+Price: 12
 Geneva Stock: 5
 Glen Ellyn Stock: 2
 Total Stock: 7
@@ -665,7 +665,7 @@ Product: Lash Cleanser mini
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224427
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -676,7 +676,7 @@ Product: BrowCode Define & Line 122
 Brand: Browcode
 Barcode: 6206589021301
 Size: 
-Price: 28.00
+Price: 28
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -687,7 +687,7 @@ Product: BrowGal Mini Cherub Highlighter
 Brand: BrowGal
 Barcode: 857374004048
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 0
 Glen Ellyn Stock: 3
 Total Stock: 3
@@ -698,7 +698,7 @@ Product: BrowGal Mini Gold Shimmer Highlighter
 Brand: BrowGal
 Barcode: 857374004598
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 3
 Glen Ellyn Stock: 3
 Total Stock: 6
@@ -709,7 +709,7 @@ Product: Convertible Brow 01
 Brand: BrowGal
 Barcode: 857374004864
 Size: 
-Price: 35.00
+Price: 35
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -720,7 +720,7 @@ Product: Eyebrow Pencil Black 01
 Brand: BrowGal
 Barcode: 857374004062
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 12
 Glen Ellyn Stock: 3
 Total Stock: 15
@@ -731,7 +731,7 @@ Product: Eyebrow Pencil Chocolate 03
 Brand: BrowGal
 Barcode: 857374004086
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 8
 Glen Ellyn Stock: 4
 Total Stock: 12
@@ -742,7 +742,7 @@ Product: Eyebrow Pencil Espresso 02
 Brand: BrowGal
 Barcode: 857374004079
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 0
 Glen Ellyn Stock: 4
 Total Stock: 4
@@ -753,7 +753,7 @@ Product: Eyebrow Pencil Golden Blonde 06
 Brand: BrowGal
 Barcode: 857374004116
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 7
 Glen Ellyn Stock: 3
 Total Stock: 10
@@ -764,7 +764,7 @@ Product: Eyebrow Pencil Medium Brown 04
 Brand: BrowGal
 Barcode: 857374004093
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 5
 Glen Ellyn Stock: 6
 Total Stock: 11
@@ -775,7 +775,7 @@ Product: Eyebrow Pencil Taupe 05
 Brand: BrowGal
 Barcode: 857374004109
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -786,7 +786,7 @@ Product: Highlighter Pencil 01
 Brand: BrowGal
 Barcode: BG-55
 Size: 
-Price: 20.00
+Price: 20
 Geneva Stock: 1
 Glen Ellyn Stock: 1
 Total Stock: 2
@@ -797,7 +797,7 @@ Product: Highlighter Pencil 02
 Brand: BrowGal
 Barcode: 857374004055
 Size: 
-Price: 20.00
+Price: 20
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -808,7 +808,7 @@ Product: Brow Definer Brush
 Brand: Faire.com
 Barcode: unknown126
 Size: 
-Price: 20.00
+Price: 20
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -819,7 +819,7 @@ Product: Eye Am Complete Brow Gel
 Brand: Faire.com
 Barcode: unknown125
 Size: 
-Price: 16.00
+Price: 16
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -830,7 +830,7 @@ Product: Makeup Removing Towel
 Brand: Faire.com
 Barcode: unknown124
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 0
 Glen Ellyn Stock: 3
 Total Stock: 3
@@ -841,7 +841,7 @@ Product: Dry Brush
 Brand: Massage Warehouse
 Barcode: 
 Size: 
-Price: 9.60
+Price: 9.6
 Geneva Stock: 2
 Glen Ellyn Stock: 6
 Total Stock: 8
@@ -852,7 +852,7 @@ Product: Coconut Smoothie lip balm
 Brand: EarthMama
 Barcode: 
 Size: 0.15 oz
-Price: 4.00
+Price: 4
 Geneva Stock: 0
 Glen Ellyn Stock: 3
 Total Stock: 3
@@ -863,7 +863,7 @@ Product: EarthMama Bright Citrus Deodorant
 Brand: EarthMama
 Barcode: 857249001806
 Size: 2.65 oz
-Price: 14.50
+Price: 14.5
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -874,7 +874,7 @@ Product: EarthMama Bright Citrus mini
 Brand: EarthMama
 Barcode: 
 Size: 0.5 oz
-Price: 7.00
+Price: 7
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -885,7 +885,7 @@ Product: EarthMama Ginger Fresh Deodorant
 Brand: EarthMama
 Barcode: 857249001813
 Size: 2.65 oz
-Price: 14.50
+Price: 14.5
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -896,7 +896,7 @@ Product: EarthMama Ginger Fresh mini
 Brand: EarthMama
 Barcode: 
 Size: 0.5 oz
-Price: 7.00
+Price: 7
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -907,7 +907,7 @@ Product: EarthMama Simply Non-Scents mini
 Brand: EarthMama
 Barcode: 859220010456
 Size: 0.5 oz
-Price: 7.00
+Price: 7
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -940,7 +940,7 @@ Product: Mint Herbal lip balm
 Brand: EarthMama
 Barcode: 859220000150
 Size: 0.15 oz
-Price: 4.00
+Price: 4
 Geneva Stock: 0
 Glen Ellyn Stock: 3
 Total Stock: 3
@@ -951,7 +951,7 @@ Product: Age Delay Cream
 Brand: Glymed
 Barcode: US-GM-38ER
 Size: 1.69 oz
-Price: 155.00
+Price: 155
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -962,7 +962,7 @@ Product: Atraxi Peptide
 Brand: Glymed
 Barcode: US-GM-41ER
 Size: 1.69 oz
-Price: 160.00
+Price: 160
 Geneva Stock: 3
 Glen Ellyn Stock: 5
 Total Stock: 8
@@ -973,7 +973,7 @@ Product: Beauty Oil
 Brand: Glymed
 Barcode: US-GM-031R
 Size: 1 oz
-Price: 74.00
+Price: 74
 Geneva Stock: 2
 Glen Ellyn Stock: 3
 Total Stock: 5
@@ -984,7 +984,7 @@ Product: Beta Gel with 10% Glycolic Acid
 Brand: Glymed
 Barcode: US-GM-002R
 Size: 4 oz
-Price: 50.00
+Price: 50
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
@@ -995,7 +995,7 @@ Product: Bio Renewal Serum
 Brand: Glymed
 Barcode: US-GM-39ER
 Size: 1 oz
-Price: 100.00
+Price: 100
 Geneva Stock: 3
 Glen Ellyn Stock: 3
 Total Stock: 6
@@ -1006,7 +1006,7 @@ Product: Cbd Age Delay Dew
 Brand: Glymed
 Barcode: US-GM-404R
 Size: 1.69 oz
-Price: 90.00
+Price: 90
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
@@ -1017,7 +1017,7 @@ Product: Cbd Hydratherapy Masque with Micro-Silver
 Brand: Glymed
 Barcode: US-GM-407R
 Size: 1 oz
-Price: 60.00
+Price: 60
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -1028,7 +1028,7 @@ Product: Cbd Massage Cream
 Brand: Glymed
 Barcode: US-GM-405R
 Size: 3.3 oz
-Price: 136.00
+Price: 136
 Geneva Stock: 3
 Glen Ellyn Stock: 2
 Total Stock: 5
@@ -1039,7 +1039,7 @@ Product: Cbd Regenerative Eye Cream 0.3oz
 Brand: Glymed
 Barcode: US-GM-401R
 Size: 0.3 oz
-Price: 70.00
+Price: 70
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
@@ -1050,7 +1050,7 @@ Product: CBD Skin Mist
 Brand: Glymed
 Barcode: US-GM-403R
 Size: 4 oz
-Price: 84.00
+Price: 84
 Geneva Stock: 3
 Glen Ellyn Stock: 2
 Total Stock: 5
@@ -1061,7 +1061,7 @@ Product: Cell Protection Balm
 Brand: Glymed
 Barcode: US-GM-088R
 Size: 2 oz
-Price: 31.00
+Price: 31
 Geneva Stock: 3
 Glen Ellyn Stock: 4
 Total Stock: 7
@@ -1072,7 +1072,7 @@ Product: Chocolate Masque with Enzymes
 Brand: Glymed
 Barcode: US-GM-089R
 Size: 2 oz
-Price: 57.00
+Price: 57
 Geneva Stock: 3
 Glen Ellyn Stock: 1
 Total Stock: 4
@@ -1083,7 +1083,7 @@ Product: Daily Repair Cream
 Brand: Glymed
 Barcode: US-GM-058R
 Size: 1.69 oz
-Price: 88.00
+Price: 88
 Geneva Stock: 0
 Glen Ellyn Stock: 5
 Total Stock: 5
@@ -1094,7 +1094,7 @@ Product: Foaming Cleanser with Amino Acids
 Brand: Glymed
 Barcode: US-GM-27ER
 Size: 6 oz
-Price: 38.00
+Price: 38
 Geneva Stock: 3
 Glen Ellyn Stock: 4
 Total Stock: 7
@@ -1105,7 +1105,7 @@ Product: Hydrating Lip Balm
 Brand: Glymed
 Barcode: US-GM-035R
 Size: 0.5 oz
-Price: 16.00
+Price: 16
 Geneva Stock: 2
 Glen Ellyn Stock: 6
 Total Stock: 8
@@ -1116,7 +1116,7 @@ Product: Idyllic Cleanser with 3% Mandelic Acid
 Brand: Glymed
 Barcode: US-GM-74ER
 Size: 8 oz
-Price: 39.00
+Price: 39
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
@@ -1127,7 +1127,7 @@ Product: Mega Cream Cleanser
 Brand: Glymed
 Barcode: US-GM-057R
 Size: 6.75 oz
-Price: 41.00
+Price: 41
 Geneva Stock: 4
 Glen Ellyn Stock: 3
 Total Stock: 7
@@ -1138,7 +1138,7 @@ Product: Oxygen Cream
 Brand: Glymed
 Barcode: US-GM-029R
 Size: 1.6 oz
-Price: 66.00
+Price: 66
 Geneva Stock: 4
 Glen Ellyn Stock: 1
 Total Stock: 5
@@ -1149,7 +1149,7 @@ Product: Oxygen Deep Pore Masque
 Brand: Glymed
 Barcode: US-GM-016R
 Size: 1.69 oz
-Price: 58.00
+Price: 58
 Geneva Stock: 6
 Glen Ellyn Stock: 3
 Total Stock: 9
@@ -1160,7 +1160,7 @@ Product: Peptide Micro Scrub
 Brand: Glymed
 Barcode: US-GM-28ER
 Size: 2 oz
-Price: 68.00
+Price: 68
 Geneva Stock: 1
 Glen Ellyn Stock: 3
 Total Stock: 4
@@ -1171,7 +1171,7 @@ Product: Peptide Serum
 Brand: Glymed
 Barcode: US-GM-40ER
 Size: 1 oz
-Price: 98.00
+Price: 98
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -1182,7 +1182,7 @@ Product: Pigment Brightening Serum
 Brand: Glymed
 Barcode: US-GM-026R
 Size: 2 oz
-Price: 48.00
+Price: 48
 Geneva Stock: 3
 Glen Ellyn Stock: 3
 Total Stock: 6
@@ -1193,7 +1193,7 @@ Product: Radiant Serum with 1% Mandelic Acid
 Brand: Glymed
 Barcode: US-GM-73ER
 Size: 1.69 oz
-Price: 84.00
+Price: 84
 Geneva Stock: 2
 Glen Ellyn Stock: 3
 Total Stock: 5
@@ -1204,7 +1204,7 @@ Product: Restoring Fulvic Elixir
 Brand: Glymed
 Barcode: US-GM-032R
 Size: 1 oz
-Price: 64.00
+Price: 64
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -1215,7 +1215,7 @@ Product: Resurfacing Night Cream with 15% Glycolic Acid
 Brand: Glymed
 Barcode: US-GM-003R
 Size: 1.69 oz
-Price: 68.00
+Price: 68
 Geneva Stock: 2
 Glen Ellyn Stock: 3
 Total Stock: 5
@@ -1226,7 +1226,7 @@ Product: Retinol Rejuvination Serum
 Brand: Glymed
 Barcode: US-GM-091R
 Size: 1 oz
-Price: 114.00
+Price: 114
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
@@ -1237,7 +1237,7 @@ Product: Skin Recovery Mist
 Brand: Glymed
 Barcode: US-GM-121R
 Size: 4 oz
-Price: 44.00
+Price: 44
 Geneva Stock: 4
 Glen Ellyn Stock: 4
 Total Stock: 8
@@ -1248,7 +1248,7 @@ Product: TRAVEL Skin Recovery Mist
 Brand: Glymed
 Barcode: Gl24232
 Size: 2.6 oz
-Price: 28.00
+Price: 28
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -1259,7 +1259,7 @@ Product: TRAVEL Vitamin C Cleanser
 Brand: Glymed
 Barcode: GI126R
 Size: 1 oz
-Price: 12.00
+Price: 12
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -1270,7 +1270,7 @@ Product: Vitamin C Cleanser
 Brand: Glymed
 Barcode: US-GM-126R
 Size: 8 oz
-Price: 44.00
+Price: 44
 Geneva Stock: 3
 Glen Ellyn Stock: 3
 Total Stock: 6
@@ -1281,7 +1281,7 @@ Product: Vitamin C Cream
 Brand: Glymed
 Barcode: US-GM-125R
 Size: 2 oz
-Price: 94.00
+Price: 94
 Geneva Stock: 2
 Glen Ellyn Stock: 1
 Total Stock: 3
@@ -1292,7 +1292,7 @@ Product: Masked Up Trio (Holiday)
 Brand: BiON
 Barcode: 
 Size: 
-Price: 25.00
+Price: 25
 Geneva Stock: 0
 Glen Ellyn Stock: 4
 Total Stock: 4
@@ -1303,7 +1303,7 @@ Product: HEMPZ  2.25oz Sweet Pineapple & Honey sanitizer
 Brand: Hempz
 Barcode: 
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -1314,7 +1314,7 @@ Product: HEMPZ 2.25oz Triple Moisture sanitizer
 Brand: Hempz
 Barcode: 
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -1325,7 +1325,7 @@ Product: Hempz Apple Cinnamon Shortbread moisturizer
 Brand: Hempz
 Barcode: 676280047143
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -1336,7 +1336,7 @@ Product: HEMPZ mini c b d lotion 2.25oz
 Brand: Hempz
 Barcode: 
 Size: 
-Price: 9.00
+Price: 9
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -1347,7 +1347,7 @@ Product: Beeswax Candle | Christmas Cheer
 Brand: Rowe Casa Organics
 Barcode: 850015728358
 Size: 
-Price: 30.00
+Price: 30
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -1358,7 +1358,7 @@ Product: Body Butter | Vanilla + Coca
 Brand: Rowe Casa Organics
 Barcode: 850040293531
 Size: 9 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -1369,7 +1369,7 @@ Product: Body Lotion | Cucumber + Lime
 Brand: Rowe Casa Organics
 Barcode: 810167450866
 Size: 8 oz
-Price: 29.00
+Price: 29
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -1380,7 +1380,7 @@ Product: Body Lotion | Rose + Jasmine
 Brand: Rowe Casa Organics
 Barcode: 810167450804
 Size: 8 oz
-Price: 29.00
+Price: 29
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -1391,7 +1391,7 @@ Product: Body Scrub | Himalayan Salt + Frankinsence
 Brand: Rowe Casa Organics
 Barcode: 850008995798
 Size: 9 oz
-Price: 30.00
+Price: 30
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1402,7 +1402,7 @@ Product: Copper Peptide Face Serum
 Brand: Rowe Casa Organics
 Barcode: 810167451283
 Size: 1 oz
-Price: 63.00
+Price: 63
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -1413,7 +1413,7 @@ Product: Deodorant | Teat Tree + Lemongrass
 Brand: Rowe Casa Organics
 Barcode: 850050558118
 Size: 3 oz
-Price: 14.00
+Price: 14
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -1424,7 +1424,7 @@ Product: Depuffing Face Oil
 Brand: Rowe Casa Organics
 Barcode: 810167451306
 Size: 0.88 oz
-Price: 39.00
+Price: 39
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
@@ -1435,7 +1435,7 @@ Product: Exfoliating Lip Scrub
 Brand: Rowe Casa Organics
 Barcode: 810167451399
 Size: 1 oz
-Price: 17.00
+Price: 17
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -1446,7 +1446,7 @@ Product: Lip Balm | Clear
 Brand: Rowe Casa Organics
 Barcode: 810167451511
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -1457,7 +1457,7 @@ Product: Lip Balm | Shimmer
 Brand: Rowe Casa Organics
 Barcode: 810167450972
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -1468,7 +1468,7 @@ Product: Lymphatic Cream
 Brand: Rowe Casa Organics
 Barcode: 850015728464
 Size: 9 oz
-Price: 44.00
+Price: 44
 Geneva Stock: 0
 Glen Ellyn Stock: 1
 Total Stock: 1
@@ -1479,7 +1479,7 @@ Product: Magnesium Cream
 Brand: Rowe Casa Organics
 Barcode: 850008995811
 Size: 4 oz
-Price: 27.00
+Price: 27
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -1490,7 +1490,7 @@ Product: Sun Shield
 Brand: Rowe Casa Organics
 Barcode: 810167450934
 Size: 4 oz
-Price: 17.00
+Price: 17
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -1501,7 +1501,7 @@ Product: S.Jolie Amplify Bronzing Mousse
 Brand: S. Jolie Spray Tan
 Barcode: 851397008687
 Size: 
-Price: 35.00
+Price: 35
 Geneva Stock: 3
 Glen Ellyn Stock: 1
 Total Stock: 4
@@ -1512,7 +1512,7 @@ Product: S.Jolie Shower Gel
 Brand: S. Jolie Spray Tan
 Barcode: 851397008038
 Size: 
-Price: 22.50
+Price: 22.5
 Geneva Stock: 16
 Glen Ellyn Stock: 7
 Total Stock: 23
@@ -1523,7 +1523,7 @@ Product: S.Jolie Sugar Scrub
 Brand: S. Jolie Spray Tan
 Barcode: 851397008052
 Size: 
-Price: 22.50
+Price: 22.5
 Geneva Stock: 11
 Glen Ellyn Stock: 4
 Total Stock: 15
@@ -1534,7 +1534,7 @@ Product: S.Jolie Tan Extender Lotion
 Brand: S. Jolie Spray Tan
 Barcode: 851397008021
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 2
 Glen Ellyn Stock: 1
 Total Stock: 3
@@ -1545,7 +1545,7 @@ Product: S.Jolie Tanning Mitt
 Brand: S. Jolie Spray Tan
 Barcode: unknown-129
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 6
 Glen Ellyn Stock: 1
 Total Stock: 7
@@ -1556,7 +1556,7 @@ Product: Antibac Essentials
 Brand: Skin For Life
 Barcode: Custom-126
 Size: 1.6 oz
-Price: 48.00
+Price: 48
 Geneva Stock: 8
 Glen Ellyn Stock: 3
 Total Stock: 11
@@ -1567,7 +1567,7 @@ Product: Gentle Gel Cleanser
 Brand: Skin For Life
 Barcode: 819069013261
 Size: 6 oz
-Price: 32.00
+Price: 32
 Geneva Stock: 6
 Glen Ellyn Stock: 4
 Total Stock: 10
@@ -1578,7 +1578,7 @@ Product: Gentle Milk Cleanser
 Brand: Skin For Life
 Barcode: 819069013254
 Size: 6 oz
-Price: 32.00
+Price: 32
 Geneva Stock: 4
 Glen Ellyn Stock: 4
 Total Stock: 8
@@ -1589,7 +1589,7 @@ Product: Instant Soothing Toner
 Brand: Skin For Life
 Barcode: 819069013285
 Size: 6 oz
-Price: 36.00
+Price: 36
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
@@ -1600,7 +1600,7 @@ Product: Moisture Booster
 Brand: Skin For Life
 Barcode: 819069013162
 Size: 1 oz
-Price: 62.00
+Price: 62
 Geneva Stock: 0
 Glen Ellyn Stock: 2
 Total Stock: 2
@@ -1611,7 +1611,7 @@ Product: Moisture Complex
 Brand: Skin For Life
 Barcode: 819069013056
 Size: 1.7 oz
-Price: 62.00
+Price: 62
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -1622,7 +1622,7 @@ Product: Renewal Serum
 Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
-Price: 44.00
+Price: 44
 Geneva Stock: 39
 Glen Ellyn Stock: 4
 Total Stock: 43
@@ -1633,7 +1633,7 @@ Product: Retinol Level 1 .25%
 Brand: Skin For Life
 Barcode: 820240139106
 Size: 1 oz
-Price: 36.00
+Price: 36
 Geneva Stock: 8
 Glen Ellyn Stock: 0
 Total Stock: 8
@@ -1644,7 +1644,7 @@ Product: Retinol Level 2 .35%
 Brand: Skin For Life
 Barcode: 820240139113
 Size: 1 oz
-Price: 44.00
+Price: 44
 Geneva Stock: 8
 Glen Ellyn Stock: 0
 Total Stock: 8
@@ -1655,7 +1655,7 @@ Product: Salicylic Gel Cleanser
 Brand: Skin For Life
 Barcode: 819069013278
 Size: 6 oz
-Price: 38.00
+Price: 38
 Geneva Stock: 3
 Glen Ellyn Stock: 2
 Total Stock: 5
@@ -1666,7 +1666,7 @@ Product: Salicylic Toner
 Brand: Skin For Life
 Barcode: 819069013292
 Size: 6 oz
-Price: 38.00
+Price: 38
 Geneva Stock: 9
 Glen Ellyn Stock: 1
 Total Stock: 10
@@ -1677,7 +1677,7 @@ Product: Sol Defense Medium
 Brand: Skin For Life
 Barcode: 819069013230
 Size: 2 oz
-Price: 52.00
+Price: 52
 Geneva Stock: 3
 Glen Ellyn Stock: 3
 Total Stock: 6
@@ -1688,7 +1688,7 @@ Product: Sol Defense Natural
 Brand: Skin For Life
 Barcode: 819069013223
 Size: 2 oz
-Price: 52.00
+Price: 52
 Geneva Stock: 5
 Glen Ellyn Stock: 3
 Total Stock: 8
@@ -1699,7 +1699,7 @@ Product: Ultra Performing Complex
 Brand: Skin For Life
 Barcode: 819069013186
 Size: 1.6 oz
-Price: 72.00
+Price: 72
 Geneva Stock: 6
 Glen Ellyn Stock: 6
 Total Stock: 12
@@ -1710,7 +1710,7 @@ Product: Vita C Peptide Serum
 Brand: Skin For Life
 Barcode: 819069013148
 Size: 1 oz
-Price: 62.00
+Price: 62
 Geneva Stock: 4
 Glen Ellyn Stock: 4
 Total Stock: 8
@@ -1721,7 +1721,7 @@ Product: Vital Recovery Concentrate
 Brand: Skin For Life
 Barcode: 819069010093
 Size: 1.6 oz
-Price: 66.00
+Price: 66
 Geneva Stock: 54
 Glen Ellyn Stock: 9
 Total Stock: 63
@@ -1732,7 +1732,7 @@ Product: 10ml Antibac Essentials
 Brand: Skin For Life
 Barcode: 2766be65-6097-4150-b868-5be385b57591
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1743,7 +1743,7 @@ Product: 10ml Gentle Gel Cleanser Travel
 Brand: Skin For Life
 Barcode: 73e44e9e-3972-43a9-874a-8bb7f562a3a0
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1754,7 +1754,7 @@ Product: 10ml Gentle Milk Cleanser Travel
 Brand: Skin For Life
 Barcode: 8d493c70-0cee-4b8c-a196-c0a10e588c9b
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1765,7 +1765,7 @@ Product: 10ml Instant Soothing Toner
 Brand: Skin For Life
 Barcode: 1dee4863-9414-40f5-8fab-1fc7e813e541
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1776,7 +1776,7 @@ Product: 10ml Moisture Complex
 Brand: Skin For Life
 Barcode: dbffe001-88bd-461c-a1e4-cfecd3f2bc2c
 Size: 
-Price: 12.00
+Price: 12
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1787,7 +1787,7 @@ Product: 10ml papaya enzyme
 Brand: Skin For Life
 Barcode: custom-125
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1798,7 +1798,7 @@ Product: 10ml Renewal Serum
 Brand: Skin For Life
 Barcode: 787b915a-0d98-4b62-adb4-5fdc4c6d6454
 Size: 
-Price: 16.00
+Price: 16
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1809,7 +1809,7 @@ Product: 10ml revitalizing mint mask
 Brand: Skin For Life
 Barcode: custom-124
 Size: 
-Price: 10.00
+Price: 10
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1820,7 +1820,7 @@ Product: 10ml Salicylic Gel Cleanser Travel
 Brand: Skin For Life
 Barcode: 38746e63-3132-4fe6-9658-42a0397349bf
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1831,7 +1831,7 @@ Product: 10ml Salicylic Toner
 Brand: Skin For Life
 Barcode: ac9c8ed4-d070-473c-b2cd-dd90f09bd4e5
 Size: 
-Price: 6.00
+Price: 6
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1842,7 +1842,7 @@ Product: 10ml skin scrub
 Brand: Skin For Life
 Barcode: custom-123
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1853,7 +1853,7 @@ Product: 10ml Sol Defense Medium
 Brand: Skin For Life
 Barcode: 54ef22ea-367c-4788-a2d8-e07327fa82c6
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1864,7 +1864,7 @@ Product: 10ml Sol Defense Natural
 Brand: Skin For Life
 Barcode: f0453fb7-623b-4eed-9e56-7e4d07a9923f
 Size: 
-Price: 8.00
+Price: 8
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1875,7 +1875,7 @@ Product: 10ml Ultra Performing Complex
 Brand: Skin For Life
 Barcode: 1b182b84-8c20-459e-b072-47f4f424c03f
 Size: 
-Price: 14.00
+Price: 14
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1886,7 +1886,7 @@ Product: 10ml Vita A Lift
 Brand: Skin For Life
 Barcode: e363e311-f353-4cb7-824e-7e7f6ab117fd
 Size: 
-Price: 24.00
+Price: 24
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1897,7 +1897,7 @@ Product: 10ml Vita A+C
 Brand: Skin For Life
 Barcode: dbc4167e-40a7-4135-9d7d-83cbf8afd62f
 Size: 
-Price: 22.00
+Price: 22
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1908,7 +1908,7 @@ Product: 10ml Vita C Peptide Serum
 Brand: Skin For Life
 Barcode: a3585818-f7ac-41ea-b4be-0377d7b277bc
 Size: 
-Price: 20.00
+Price: 20
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1919,7 +1919,7 @@ Product: 10ml Vital Recovery Concentrate
 Brand: Skin For Life
 Barcode: a0d5b8b2-a2e3-4f69-ba44-ac8ce556b725
 Size: 
-Price: 13.00
+Price: 13
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -1930,7 +1930,7 @@ Product: 7ml Moisture Booster
 Brand: Skin For Life
 Barcode: e424b21a-34ef-40a4-9dd2-0d32c658819b
 Size: 
-Price: 20.00
+Price: 20
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
