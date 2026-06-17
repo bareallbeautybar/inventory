@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/17/2026, 12:45:48 PM
+Last Updated: 6/17/2026, 4:45:50 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -12,7 +12,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Balance Superfood Mask
+Product: Balance Superfood Mask | Tuel
 Brand: Berodin/Tuel
 Barcode: 252a482f-cb80-4ad0-8362-e9cb69bacc3c
 Size: 2 oz
@@ -23,7 +23,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Beat The Clock Cleanser
+Product: Beat The Clock Cleanser | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001160
 Size: 5 oz
@@ -34,7 +34,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Body Travel Kit
+Product: Body Travel Kit | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001849
 Size: 
@@ -45,7 +45,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Botanical Blast Body Lotion
+Product: Botanical Blast Body Lotion | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001450
 Size: 8 oz
@@ -56,7 +56,7 @@ Total Stock: 12
 
 ----------------------------------------
 
-Product: Clear It Blemish Control Gel
+Product: Clear It Blemish Control Gel | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
@@ -67,7 +67,7 @@ Total Stock: 20
 
 ----------------------------------------
 
-Product: Eye Corrector Firm & Lighten Gel
+Product: Eye Corrector Firm & Lighten Gel | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000200
 Size: 0.5 oz
@@ -78,7 +78,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Eye Revive
+Product: Eye Revive | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001320
 Size: 0.5 oz
@@ -89,7 +89,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Fresh Eyes
+Product: Fresh Eyes | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000330
 Size: 0.5 oz
@@ -100,7 +100,7 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Green Clean Body Polish Kit
+Product: Green Clean Body Polish Kit | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000811
 Size: 8 oz
@@ -111,7 +111,7 @@ Total Stock: 29
 
 ----------------------------------------
 
-Product: Green Clean Body Wash LG 
+Product: Green Clean Body Wash LG  | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000170
 Size: 16 oz
@@ -122,7 +122,7 @@ Total Stock: 13
 
 ----------------------------------------
 
-Product: Green Clean Body Wash SM
+Product: Green Clean Body Wash SM | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000705
 Size: 8 oz
@@ -133,7 +133,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Lift Up Firming Mask
+Product: Lift Up Firming Mask | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000453
 Size: 2 oz
@@ -144,7 +144,7 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Make Amends Healing Moisture Cream
+Product: Make Amends Healing Moisture Cream | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001498
 Size: 1.7 oz
@@ -155,7 +155,7 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Moisture Plus Mask
+Product: Moisture Plus Mask | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000446
 Size: 2 oz
@@ -166,7 +166,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Post Wax Essential Oil
+Product: Post Wax Essential Oil | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001290
 Size: 1 oz
@@ -177,7 +177,7 @@ Total Stock: 9
 
 ----------------------------------------
 
-Product: Post Wax Soothing Cream
+Product: Post Wax Soothing Cream | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001337
 Size: 1.7 oz
@@ -188,7 +188,7 @@ Total Stock: 13
 
 ----------------------------------------
 
-Product: Power Peel Serum
+Product: Power Peel Serum | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000248
 Size: 2 oz
@@ -199,7 +199,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Power Scrub
+Product: Power Scrub | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000439
 Size: 1.7 oz
@@ -210,9 +210,9 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Pumice Gloves
+Product: Pumice Gloves | Tuel
 Brand: Berodin/Tuel
-Barcode: 
+Barcode: unknown-155
 Size: 
 Price: 8
 Geneva Stock: 2
@@ -221,7 +221,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Say Goodbye To Dry Cleanser
+Product: Say Goodbye To Dry Cleanser | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000521
 Size: 5 oz
@@ -232,7 +232,7 @@ Total Stock: 13
 
 ----------------------------------------
 
-Product: Shape Shifter
+Product: Shape Shifter | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001030
 Size: 4.4 oz
@@ -243,7 +243,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: TRAVEL Clear It Blemish Control
+Product: TRAVEL Clear It Blemish Control | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206002167
 Size: 0.5 oz
@@ -254,7 +254,7 @@ Total Stock: 22
 
 ----------------------------------------
 
-Product: Triple Splash Hydrating Body Serum
+Product: Triple Splash Hydrating Body Serum | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000712
 Size: 8 oz
@@ -265,7 +265,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Bio-Essense Nighttime Calcium Complex
+Product: Bio-Essense Nighttime Calcium Complex | Bion
 Brand: BiON
 Barcode: 837654648100
 Size: 1 oz
@@ -276,7 +276,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Cleanser for Normal Skin
+Product: Cleanser for Normal Skin | Bion
 Brand: BiON
 Barcode: 658580350017
 Size: 4 oz
@@ -298,7 +298,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Gentle Cream Cleanser
+Product: Gentle Cream Cleanser | Bion
 Brand: BiON
 Barcode: 658580349967
 Size: 4 oz
@@ -309,7 +309,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Glycolic Cleanser
+Product: Glycolic Cleanser | Bion
 Brand: BiON
 Barcode: 658580349950
 Size: 4 oz
@@ -320,7 +320,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Intense Eye Moisturizing Cream
+Product: Intense Eye Moisturizing Cream | Bion
 Brand: BiON
 Barcode: 658580350178
 Size: 
@@ -331,7 +331,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Mandelic 15%
+Product: Mandelic 15% | Bion
 Brand: BiON
 Barcode: 837654648117
 Size: 1 oz
@@ -342,7 +342,7 @@ Total Stock: 13
 
 ----------------------------------------
 
-Product: Mandelic 5% Toner Pads
+Product: Mandelic 5% Toner Pads | Bion
 Brand: BiON
 Barcode: 658580350123
 Size: 
@@ -353,7 +353,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Mandelic 8%
+Product: Mandelic 8% | Bion
 Brand: BiON
 Barcode: 837654648131
 Size: 1 oz
@@ -364,7 +364,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Mineral Cream Exfoliating Cleanser
+Product: Mineral Cream Exfoliating Cleanser | Bion
 Brand: BiON
 Barcode: 658580349998
 Size: 4 oz
@@ -375,7 +375,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Mini Bion Seaweed Mask
+Product: Mini Bion Seaweed Mask | Bion
 Brand: BiON
 Barcode: 
 Size: 
@@ -386,7 +386,29 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Restorative Balm
+Product: Pure Mineral Sunscreen SPF 30 LG | Bion
+Brand: BiON
+Barcode: unknown-150
+Size: 4 oz
+Price: 61
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Pure Mineral Sunscreen SPF 30 SM | Bion
+Brand: BiON
+Barcode: unknown-142
+Size: 1.7 oz
+Price: 33
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Restorative Balm | Bion
 Brand: BiON
 Barcode: 658580350208
 Size: 2 oz
@@ -397,7 +419,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Tinted Dark/Tan Mineral SPF 35
+Product: Tinted Dark/Tan Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: Bion-dark1
 Size: 1.7 oz
@@ -408,9 +430,9 @@ Total Stock: 20
 
 ----------------------------------------
 
-Product: Tinted Fair Mineral SPF 35
+Product: Tinted Fair Mineral SPF 35 | Bion
 Brand: BiON
-Barcode: Bion-Fair1
+Barcode: 837654648001
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 6
@@ -419,7 +441,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Tinted Light Mineral SPF 35
+Product: Tinted Light Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: 658580350239
 Size: 1.7 oz
@@ -430,7 +452,7 @@ Total Stock: 12
 
 ----------------------------------------
 
-Product: Tinted Medium Mineral SPF 35
+Product: Tinted Medium Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: 658580350246
 Size: 1.7 oz
@@ -441,7 +463,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Titanium Dioxide SPF 35 LG
+Product: Titanium Dioxide SPF 35 LG | Bion
 Brand: BiON
 Barcode: 837654648018
 Size: 4 oz
@@ -452,7 +474,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Titanium Dioxide SPF 35 PRO
+Product: Titanium Dioxide SPF 35 PRO | Bion
 Brand: BiON
 Barcode: unknown57
 Size: 8 oz
@@ -463,7 +485,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Titanium Dioxide SPF 35 SM
+Product: Titanium Dioxide SPF 35 SM | Bion
 Brand: BiON
 Barcode: 669185519440
 Size: 1.7 oz
@@ -474,18 +496,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: TRAVEL Cleanser for Normal Skin 
-Brand: BiON
-Barcode: 
-Size: 1.7 oz
-Price: 11
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: TRAVEL Dark/Tan Tinted Mineral SPF 35
+Product: TRAVEL Dark/Tan Tinted Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: Bion-Travel-dark1
 Size: 0.5 oz
@@ -496,7 +507,7 @@ Total Stock: 14
 
 ----------------------------------------
 
-Product: TRAVEL Fair Tinted Mineral SPF 35
+Product: TRAVEL Fair Tinted Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: Bion-Travel-fair1
 Size: 0.5 oz
@@ -507,7 +518,7 @@ Total Stock: 9
 
 ----------------------------------------
 
-Product: TRAVEL Light Tinted Mineral SPF 35
+Product: TRAVEL Light Tinted Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: Bion-Travel-light1
 Size: 0.5 oz
@@ -518,7 +529,7 @@ Total Stock: 13
 
 ----------------------------------------
 
-Product: TRAVEL Medium Tinted Mineral SPF 35
+Product: TRAVEL Medium Tinted Mineral SPF 35 | Bion
 Brand: BiON
 Barcode: Bion-Travel-med1
 Size: 0.5 oz
@@ -529,7 +540,7 @@ Total Stock: 9
 
 ----------------------------------------
 
-Product: TRAVEL Naturally Soft Body Lotion
+Product: TRAVEL Naturally Soft Body Lotion | Bion
 Brand: BiON
 Barcode: 
 Size: 1.7 oz
@@ -540,10 +551,10 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Youthful Eyes Peptide Cream 1oz
+Product: Youthful Eyes Peptide Cream | Bion
 Brand: BiON
 Barcode: 837654648049
-Size: 
+Size: 1 oz
 Price: 34
 Geneva Stock: 2
 Glen Ellyn Stock: 3
@@ -577,7 +588,7 @@ Product: Lash Cleanser | Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354220610
 Size: 
-Price: 12
+Price: 20
 Geneva Stock: 5
 Glen Ellyn Stock: 2
 Total Stock: 7
@@ -595,7 +606,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Borboleta Angled Cleansing Brush
+Product: Angled Cleansing Brush | Borboleta 
 Brand: Borboleta
 Barcode: 850013444144
 Size: 
@@ -606,18 +617,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Borboleta Lash Serum
-Brand: Borboleta
-Barcode: 850013444090
-Size: 
-Price: 75
-Geneva Stock: 5
-Glen Ellyn Stock: 8
-Total Stock: 13
-
-----------------------------------------
-
-Product: Clean Swoop Cleansing Brush
+Product: Clean Swoop Cleansing Brush  | Borboleta 
 Brand: Borboleta
 Barcode: 850013444038
 Size: 
@@ -628,10 +628,10 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Lash Bath Foam Cleanser 1.7oz
+Product: Lash Bath Foam Cleanser | Borboleta 
 Brand: Borboleta
 Barcode: 850013444045
-Size: 
+Size: 50 ml
 Price: 28
 Geneva Stock: 4
 Glen Ellyn Stock: 4
@@ -639,10 +639,10 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Lash Bath Gel Cleanser 15ml
+Product: Lash Bath Gel Cleanser | Borboleta 
 Brand: Borboleta
 Barcode: 850013444069
-Size: 
+Size: 15 ml
 Price: 18
 Geneva Stock: 2
 Glen Ellyn Stock: 4
@@ -650,7 +650,18 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: BrowCode Define & Line 122
+Product: Lash Serum | Borboleta 
+Brand: Borboleta
+Barcode: 850013444090
+Size: 
+Price: 75
+Geneva Stock: 5
+Glen Ellyn Stock: 8
+Total Stock: 13
+
+----------------------------------------
+
+Product: Define & Line Brush  | BrowCode
 Brand: Browcode
 Barcode: 6206589021301
 Size: 
@@ -661,7 +672,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Convertible Brow 01
+Product: Convertible Brow 01 | BrowGal
 Brand: BrowGal
 Barcode: 857374004864
 Size: 
@@ -672,7 +683,7 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Eyebrow Pencil Black 01
+Product: Eyebrow Pencil Black 01 | BrowGal
 Brand: BrowGal
 Barcode: 857374004062
 Size: 
@@ -683,7 +694,7 @@ Total Stock: 15
 
 ----------------------------------------
 
-Product: Eyebrow Pencil Chocolate 03
+Product: Eyebrow Pencil Chocolate 03  | BrowGal
 Brand: BrowGal
 Barcode: 857374004086
 Size: 
@@ -694,7 +705,7 @@ Total Stock: 12
 
 ----------------------------------------
 
-Product: Eyebrow Pencil Espresso 02
+Product: Eyebrow Pencil Espresso 02 | BrowGal
 Brand: BrowGal
 Barcode: 857374004079
 Size: 
@@ -705,7 +716,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Eyebrow Pencil Golden Blonde 06
+Product: Eyebrow Pencil Golden Blonde 06 | BrowGal
 Brand: BrowGal
 Barcode: 857374004116
 Size: 
@@ -716,7 +727,7 @@ Total Stock: 10
 
 ----------------------------------------
 
-Product: Eyebrow Pencil Medium Brown 04
+Product: Eyebrow Pencil Medium Brown 04 | BrowGal
 Brand: BrowGal
 Barcode: 857374004093
 Size: 
@@ -727,7 +738,7 @@ Total Stock: 11
 
 ----------------------------------------
 
-Product: Eyebrow Pencil Taupe 05
+Product: Eyebrow Pencil Taupe 05 | BrowGal
 Brand: BrowGal
 Barcode: 857374004109
 Size: 
@@ -738,7 +749,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Highlighter Pencil 01
+Product: Highlighter Pencil 01 | BrowGal
 Brand: BrowGal
 Barcode: BG-55
 Size: 
@@ -749,7 +760,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Highlighter Pencil 02
+Product: Highlighter Pencil 02 | BrowGal
 Brand: BrowGal
 Barcode: 857374004055
 Size: 
@@ -925,7 +936,7 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Age Delay Cream
+Product: Age Delay Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-38ER
 Size: 1.69 oz
@@ -936,7 +947,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Atraxi Peptide
+Product: Atraxi Peptide | Glymed+
 Brand: Glymed
 Barcode: US-GM-41ER
 Size: 1.69 oz
@@ -947,7 +958,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Beauty Oil
+Product: Beauty Oil | Glymed+
 Brand: Glymed
 Barcode: US-GM-031R
 Size: 1 oz
@@ -958,7 +969,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Beta Gel with 10% Glycolic Acid
+Product: Beta Gel with 10% Glycolic Acid | Glymed+
 Brand: Glymed
 Barcode: US-GM-002R
 Size: 4 oz
@@ -969,7 +980,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Bio Renewal Serum
+Product: Bio Renewal Serum | Glymed+
 Brand: Glymed
 Barcode: US-GM-39ER
 Size: 1 oz
@@ -980,7 +991,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Cbd Age Delay Dew
+Product: Cbd Age Delay Dew | Glymed+
 Brand: Glymed
 Barcode: US-GM-404R
 Size: 1.69 oz
@@ -991,7 +1002,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Cbd Hydratherapy Masque with Micro-Silver
+Product: Cbd Hydratherapy Masque with Micro-Silver | Glymed+
 Brand: Glymed
 Barcode: US-GM-407R
 Size: 1 oz
@@ -1002,7 +1013,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Cbd Massage Cream
+Product: Cbd Massage Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-405R
 Size: 3.3 oz
@@ -1013,7 +1024,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Cbd Regenerative Eye Cream 0.3oz
+Product: Cbd Regenerative Eye Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-401R
 Size: 0.3 oz
@@ -1024,7 +1035,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: CBD Skin Mist
+Product: CBD Skin Mist | Glymed+
 Brand: Glymed
 Barcode: US-GM-403R
 Size: 4 oz
@@ -1035,7 +1046,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Cell Protection Balm
+Product: Cell Protection Balm | Glymed+
 Brand: Glymed
 Barcode: US-GM-088R
 Size: 2 oz
@@ -1046,7 +1057,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Chocolate Masque with Enzymes
+Product: Chocolate Masque with Enzymes | Glymed+
 Brand: Glymed
 Barcode: US-GM-089R
 Size: 2 oz
@@ -1057,7 +1068,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Daily Repair Cream
+Product: Daily Repair Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-058R
 Size: 1.69 oz
@@ -1068,7 +1079,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Foaming Cleanser with Amino Acids
+Product: Foaming Cleanser with Amino Acids | Glymed+
 Brand: Glymed
 Barcode: US-GM-27ER
 Size: 6 oz
@@ -1079,7 +1090,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Hydrating Lip Balm
+Product: Hydrating Lip Balm | Glymed+
 Brand: Glymed
 Barcode: US-GM-035R
 Size: 0.5 oz
@@ -1090,7 +1101,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Idyllic Cleanser with 3% Mandelic Acid 
+Product: Idyllic Cleanser with 3% Mandelic Acid | Glymed+
 Brand: Glymed
 Barcode: US-GM-74ER
 Size: 8 oz
@@ -1101,7 +1112,7 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Mega Cream Cleanser
+Product: Mega Cream Cleanser | Glymed+
 Brand: Glymed
 Barcode: US-GM-057R
 Size: 6.75 oz
@@ -1112,7 +1123,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Oxygen Cream
+Product: Oxygen Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-029R
 Size: 1.6 oz
@@ -1123,7 +1134,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Oxygen Deep Pore Masque
+Product: Oxygen Deep Pore Masque | Glymed+
 Brand: Glymed
 Barcode: US-GM-016R
 Size: 1.69 oz
@@ -1134,7 +1145,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Peptide Micro Scrub
+Product: Peptide Micro Scrub | Glymed+
 Brand: Glymed
 Barcode: US-GM-28ER
 Size: 2 oz
@@ -1145,7 +1156,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Peptide Serum
+Product: Peptide Serum | Glymed+
 Brand: Glymed
 Barcode: US-GM-40ER
 Size: 1 oz
@@ -1156,7 +1167,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Pigment Brightening Serum
+Product: Pigment Brightening Serum | Glymed+
 Brand: Glymed
 Barcode: US-GM-026R
 Size: 2 oz
@@ -1167,7 +1178,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Radiant Serum with 1% Mandelic Acid
+Product: Radiant Serum with 1% Mandelic Acid | Glymed+
 Brand: Glymed
 Barcode: US-GM-73ER
 Size: 1.69 oz
@@ -1178,7 +1189,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Restoring Fulvic Elixir
+Product: Restoring Fulvic Elixir | Glymed+
 Brand: Glymed
 Barcode: US-GM-032R
 Size: 1 oz
@@ -1189,7 +1200,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Resurfacing Night Cream with 15% Glycolic Acid
+Product: Resurfacing Night Cream with 15% Glycolic Acid | Glymed+
 Brand: Glymed
 Barcode: US-GM-003R
 Size: 1.69 oz
@@ -1200,7 +1211,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Retinol Rejuvination Serum
+Product: Retinol Rejuvination Serum | Glymed+
 Brand: Glymed
 Barcode: US-GM-091R
 Size: 1 oz
@@ -1211,7 +1222,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Skin Recovery Mist
+Product: Skin Recovery Mist | Glymed+
 Brand: Glymed
 Barcode: US-GM-121R
 Size: 4 oz
@@ -1222,7 +1233,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: TRAVEL Skin Recovery Mist
+Product: TRAVEL Skin Recovery Mist | Glymed+
 Brand: Glymed
 Barcode: Gl24232
 Size: 2.6 oz
@@ -1233,7 +1244,7 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: TRAVEL Vitamin C Cleanser
+Product: TRAVEL Vitamin C Cleanser | Glymed+
 Brand: Glymed
 Barcode: GI126R
 Size: 1 oz
@@ -1244,7 +1255,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Vitamin C Cleanser
+Product: Vitamin C Cleanser | Glymed+
 Brand: Glymed
 Barcode: US-GM-126R
 Size: 8 oz
@@ -1255,7 +1266,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Vitamin C Cream
+Product: Vitamin C Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-125R
 Size: 2 oz
@@ -1321,7 +1332,51 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Beeswax Candle | Christmas Cheer
+Product: Age Defying Eye Cream | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknow-137
+Size: 
+Price: 27
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Age Defying Nourishing Face Cleanser | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-133
+Size: 
+Price: 39
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Age Defying Nutrient Face Mist | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-134
+Size: 
+Price: 29
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Bakuchiol + Frankincense Body Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-140
+Size: 
+Price: 29
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Christmas Cheer Beeswax Candle | Rowe Casa Organics
 Brand: Rowe Casa Organics
 Barcode: 850015728358
 Size: 
@@ -1332,95 +1387,7 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Body Butter | Vanilla + Coca
-Brand: Rowe Casa Organics
-Barcode: 850040293531
-Size: 9 oz
-Price: 30
-Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
-
-----------------------------------------
-
-Product: Body Lotion | Cucumber + Lime
-Brand: Rowe Casa Organics
-Barcode: 810167450866
-Size: 8 oz
-Price: 29
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Body Lotion | Rose + Jasmine
-Brand: Rowe Casa Organics
-Barcode: 810167450804
-Size: 8 oz
-Price: 29
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
-Product: Body Scrub | Himalayan Salt + Frankinsence
-Brand: Rowe Casa Organics
-Barcode: 850008995798
-Size: 9 oz
-Price: 30
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Copper Peptide Face Serum
-Brand: Rowe Casa Organics
-Barcode: 810167451283
-Size: 1 oz
-Price: 63
-Geneva Stock: 4
-Glen Ellyn Stock: 0
-Total Stock: 4
-
-----------------------------------------
-
-Product: Deodorant | Teat Tree + Lemongrass
-Brand: Rowe Casa Organics
-Barcode: 850050558118
-Size: 3 oz
-Price: 14
-Geneva Stock: 4
-Glen Ellyn Stock: 0
-Total Stock: 4
-
-----------------------------------------
-
-Product: Depuffing Face Oil
-Brand: Rowe Casa Organics
-Barcode: 810167451306
-Size: 0.88 oz
-Price: 39
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
-
-----------------------------------------
-
-Product: Exfoliating Lip Scrub
-Brand: Rowe Casa Organics
-Barcode: 810167451399
-Size: 1 oz
-Price: 17
-Geneva Stock: 3
-Glen Ellyn Stock: 0
-Total Stock: 3
-
-----------------------------------------
-
-Product: Lip Balm | Clear
+Product: Clear Lip Balm | Rowe Casa Organics
 Brand: Rowe Casa Organics
 Barcode: 810167451511
 Size: 
@@ -1431,18 +1398,84 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Lip Balm | Shimmer
+Product: Copper Peptide Face Serum | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: 810167450972
-Size: 
-Price: 6
+Barcode: 810167451283
+Size: 1 oz
+Price: 63
+Geneva Stock: 4
+Glen Ellyn Stock: 0
+Total Stock: 4
+
+----------------------------------------
+
+Product: Cucumber + Lime Body Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450866
+Size: 8 oz
+Price: 29
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Depuffing Face Oil | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451306
+Size: 0.88 oz
+Price: 39
+Geneva Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
+
+----------------------------------------
+
+Product: Exfoliating Lip Scrub | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451399
+Size: 1 oz
+Price: 17
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
 
 ----------------------------------------
 
-Product: Lymphatic Cream
+Product: Exfoliating Microderm Scrub | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-135
+Size: 
+Price: 33
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Himalayan Salt + Frankinsence Body Scrub | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850008995798
+Size: 9 oz
+Price: 30
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Lavender + Vanilla Beeswax Candle | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-132
+Size: 
+Price: 32
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Lymphatic Cream | Rowe Casa Organics
 Brand: Rowe Casa Organics
 Barcode: 850015728464
 Size: 9 oz
@@ -1453,7 +1486,7 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Magnesium Cream
+Product: Magnesium Cream | Rowe Casa Organics
 Brand: Rowe Casa Organics
 Barcode: 850008995811
 Size: 4 oz
@@ -1464,18 +1497,95 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Sun Shield
+Product: Moisturizing Face Cream | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: 810167450934
-Size: 4 oz
-Price: 17
+Barcode: unknown-136
+Size: 
+Price: 29
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
 
 ----------------------------------------
 
-Product: S.Jolie Amplify Bronzing Mousse
+Product: Pink Shimmer Lip Balm | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450972
+Size: 
+Price: 6
+Geneva Stock: 3
+Glen Ellyn Stock: 0
+Total Stock: 3
+
+----------------------------------------
+
+Product: Rose + Jasmine Body Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450804
+Size: 8 oz
+Price: 29
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Sun Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450934
+Size: 4 oz
+Price: 18
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Tea Tree + Lemongrass Deodorant | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850050558118
+Size: 3 oz
+Price: 14
+Geneva Stock: 4
+Glen Ellyn Stock: 0
+Total Stock: 4
+
+----------------------------------------
+
+Product: Unscented Deodorant | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-148
+Size: 
+Price: 14
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Vanilla + Cocoa Body Butter | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850040293531
+Size: 9 oz
+Price: 30
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Body Renew Indulgent Moisturizer | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: unknown-130
+Size: 
+Price: 25
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Bronzing Mousse | SJolie 
 Brand: S. Jolie Spray Tan
 Barcode: 851397008687
 Size: 
@@ -1486,7 +1596,18 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: S.Jolie Shower Gel
+Product: Mineral Defense SPF 30 | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: unknown-127
+Size: 
+Price: 30
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Shower Gel  | SJolie
 Brand: S. Jolie Spray Tan
 Barcode: 851397008038
 Size: 
@@ -1497,7 +1618,7 @@ Total Stock: 23
 
 ----------------------------------------
 
-Product: S.Jolie Sugar Scrub
+Product: Sugar Scrub | SJolie
 Brand: S. Jolie Spray Tan
 Barcode: 851397008052
 Size: 
@@ -1508,7 +1629,7 @@ Total Stock: 15
 
 ----------------------------------------
 
-Product: S.Jolie Tan Extender Lotion
+Product: Tan Extender Lotion | SJolie
 Brand: S. Jolie Spray Tan
 Barcode: 851397008021
 Size: 
@@ -1519,7 +1640,18 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: S.Jolie Tanning Mitt
+Product: Tan Water | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: unknown-128
+Size: 
+Price: 22
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Tanning Mitt | SJolie
 Brand: S. Jolie Spray Tan
 Barcode: unknown-129
 Size: 
@@ -1530,7 +1662,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Antibac Essentials
+Product: Antibac Essentials | Skin for Life
 Brand: Skin For Life
 Barcode: Custom-126
 Size: 1.6 oz
@@ -1541,7 +1673,7 @@ Total Stock: 11
 
 ----------------------------------------
 
-Product: Gentle Gel Cleanser
+Product: Gentle Gel Cleanser | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013261
 Size: 6 oz
@@ -1552,7 +1684,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Gentle Milk Cleanser
+Product: Gentle Milk Cleanser | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013254
 Size: 6 oz
@@ -1563,7 +1695,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Instant Soothing Toner
+Product: Instant Soothing Toner | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013285
 Size: 6 oz
@@ -1574,7 +1706,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Moisture Booster
+Product: Moisture Booster | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013162
 Size: 1 oz
@@ -1585,7 +1717,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Moisture Complex
+Product: Moisture Complex | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013056
 Size: 1.7 oz
@@ -1596,7 +1728,7 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Renewal Serum
+Product: Renewal Serum | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
@@ -1607,7 +1739,7 @@ Total Stock: 43
 
 ----------------------------------------
 
-Product: Retinol Level 1 .25%
+Product: Retinol Level 1 .25% | Skin for Life
 Brand: Skin For Life
 Barcode: 820240139106
 Size: 1 oz
@@ -1618,7 +1750,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Retinol Level 2 .35%
+Product: Retinol Level 2 .35% | Skin for Life
 Brand: Skin For Life
 Barcode: 820240139113
 Size: 1 oz
@@ -1629,7 +1761,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Salicylic Gel Cleanser
+Product: Salicylic Gel Cleanser | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013278
 Size: 6 oz
@@ -1640,7 +1772,7 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Salicylic Toner
+Product: Salicylic Toner | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013292
 Size: 6 oz
@@ -1651,7 +1783,7 @@ Total Stock: 10
 
 ----------------------------------------
 
-Product: Sol Defense Medium
+Product: Sol Defense Medium | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013230
 Size: 2 oz
@@ -1662,7 +1794,7 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Sol Defense Natural 
+Product: Sol Defense Natural | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013223
 Size: 2 oz
@@ -1673,7 +1805,7 @@ Total Stock: 8
 
 ----------------------------------------
 
-Product: Ultra Performing Complex
+Product: Ultra Performing Complex | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013186
 Size: 1.6 oz
@@ -1684,7 +1816,7 @@ Total Stock: 10
 
 ----------------------------------------
 
-Product: Vita C Peptide Serum
+Product: Vita C Peptide Serum | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013148
 Size: 1 oz
@@ -1695,7 +1827,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Vital Recovery Concentrate
+Product: Vital Recovery Concentrate | Skin for Life
 Brand: Skin For Life
 Barcode: 819069010093
 Size: 1.6 oz
