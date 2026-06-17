@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/16/2026, 8:45:47 PM
+Last Updated: 6/17/2026, 12:45:48 AM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -628,7 +628,7 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Bomb Mascara
+Product: Bomb Mascara | Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224885
 Size: 
@@ -639,7 +639,7 @@ Total Stock: 2
 
 ----------------------------------------
 
-Product: Brow and Lash Toxx Serum
+Product: Brow and Lash Toxx Serum | Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
@@ -650,7 +650,7 @@ Total Stock: 40
 
 ----------------------------------------
 
-Product: Lash Cleanser - Beautiful Brows & Lashes
+Product: Lash Cleanser | Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354220610
 Size: 
@@ -661,7 +661,7 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Lash Cleanser mini 
+Product: Lash Cleanser Mini | Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224427
 Size: 
@@ -680,28 +680,6 @@ Price: 28
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
-
-----------------------------------------
-
-Product: BrowGal Mini Cherub Highlighter
-Brand: BrowGal
-Barcode: 857374004048
-Size: 
-Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 3
-Total Stock: 3
-
-----------------------------------------
-
-Product: BrowGal Mini Gold Shimmer Highlighter
-Brand: BrowGal
-Barcode: 857374004598
-Size: 
-Price: 10
-Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
 
 ----------------------------------------
 
@@ -801,6 +779,28 @@ Price: 20
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
+
+----------------------------------------
+
+Product: Mini Cherub Highlighter | BrowGal
+Brand: BrowGal
+Barcode: 857374004048
+Size: 
+Price: 10
+Geneva Stock: 0
+Glen Ellyn Stock: 3
+Total Stock: 3
+
+----------------------------------------
+
+Product: Mini Gold Shimmer Highlighter | BrowGal
+Brand: BrowGal
+Barcode: 857374004598
+Size: 
+Price: 10
+Geneva Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 6
 
 ----------------------------------------
 
