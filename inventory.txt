@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 6/17/2026, 8:45:48 AM
+Last Updated: 6/17/2026, 12:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -61,9 +61,9 @@ Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
 Price: 40
-Geneva Stock: 15
+Geneva Stock: 18
 Glen Ellyn Stock: 2
-Total Stock: 17
+Total Stock: 20
 
 ----------------------------------------
 
@@ -380,20 +380,9 @@ Brand: BiON
 Barcode: 
 Size: 
 Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 1
-Total Stock: 1
-
-----------------------------------------
-
-Product: Pure Mineral Sunscreen SPF 30 SM
-Brand: BiON
-Barcode: 669185519440
-Size: 1.7 oz
-Price: 30
-Geneva Stock: 0
+Geneva Stock: 1
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 1
 
 ----------------------------------------
 
@@ -410,7 +399,7 @@ Total Stock: 6
 
 Product: Tinted Dark/Tan Mineral SPF 35
 Brand: BiON
-Barcode: 837654648001
+Barcode: Bion-dark1
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 13
@@ -468,6 +457,17 @@ Brand: BiON
 Barcode: unknown57
 Size: 8 oz
 Price: 80
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Titanium Dioxide SPF 35 SM
+Brand: BiON
+Barcode: 669185519440
+Size: 1.7 oz
+Price: 30
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -551,13 +551,57 @@ Total Stock: 5
 
 ----------------------------------------
 
+Product: Bomb Mascara | Beautiful Brows & Lashes
+Brand: Beautiful Brows & Lashes
+Barcode: 5060354224885
+Size: 
+Price: 32
+Geneva Stock: 1
+Glen Ellyn Stock: 1
+Total Stock: 2
+
+----------------------------------------
+
+Product: Brow and Lash Toxx Serum | Beautiful Brows & Lashes
+Brand: Beautiful Brows & Lashes
+Barcode: 5060354224892
+Size: 
+Price: 32
+Geneva Stock: 26
+Glen Ellyn Stock: 12
+Total Stock: 38
+
+----------------------------------------
+
+Product: Lash Cleanser | Beautiful Brows & Lashes
+Brand: Beautiful Brows & Lashes
+Barcode: 5060354220610
+Size: 
+Price: 12
+Geneva Stock: 5
+Glen Ellyn Stock: 2
+Total Stock: 7
+
+----------------------------------------
+
+Product: Lash Cleanser Mini | Beautiful Brows & Lashes
+Brand: Beautiful Brows & Lashes
+Barcode: 5060354224427
+Size: 
+Price: 10
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
 Product: Borboleta Angled Cleansing Brush
 Brand: Borboleta
 Barcode: 850013444144
 Size: 
 Price: 12
-Geneva Stock: 2
-Glen Ellyn Stock: 3
+Geneva Stock: 5
+Glen Ellyn Stock: 0
 Total Stock: 5
 
 ----------------------------------------
@@ -606,72 +650,6 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: ULTRA Slant Tip Tweezers
-Brand:    Salon Centric
-Barcode: unknown123
-Size: 
-Price: 40
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Ultra Tweezers
-Brand:    Salon Centric
-Barcode: unknown127
-Size: 
-Price: 40
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Bomb Mascara | Beautiful Brows & Lashes
-Brand: Beautiful Brows & Lashes
-Barcode: 5060354224885
-Size: 
-Price: 32
-Geneva Stock: 1
-Glen Ellyn Stock: 1
-Total Stock: 2
-
-----------------------------------------
-
-Product: Brow and Lash Toxx Serum | Beautiful Brows & Lashes
-Brand: Beautiful Brows & Lashes
-Barcode: 5060354224892
-Size: 
-Price: 32
-Geneva Stock: 28
-Glen Ellyn Stock: 12
-Total Stock: 40
-
-----------------------------------------
-
-Product: Lash Cleanser | Beautiful Brows & Lashes
-Brand: Beautiful Brows & Lashes
-Barcode: 5060354220610
-Size: 
-Price: 12
-Geneva Stock: 5
-Glen Ellyn Stock: 2
-Total Stock: 7
-
-----------------------------------------
-
-Product: Lash Cleanser Mini | Beautiful Brows & Lashes
-Brand: Beautiful Brows & Lashes
-Barcode: 5060354224427
-Size: 
-Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
 Product: BrowCode Define & Line 122
 Brand: Browcode
 Barcode: 6206589021301
@@ -688,8 +666,8 @@ Brand: BrowGal
 Barcode: 857374004864
 Size: 
 Price: 35
-Geneva Stock: 0
-Glen Ellyn Stock: 1
+Geneva Stock: 1
+Glen Ellyn Stock: 0
 Total Stock: 1
 
 ----------------------------------------
@@ -787,8 +765,8 @@ Brand: BrowGal
 Barcode: 857374004048
 Size: 
 Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 3
+Geneva Stock: 3
+Glen Ellyn Stock: 0
 Total Stock: 3
 
 ----------------------------------------
@@ -798,8 +776,8 @@ Brand: BrowGal
 Barcode: 857374004598
 Size: 
 Price: 10
-Geneva Stock: 3
-Glen Ellyn Stock: 3
+Geneva Stock: 6
+Glen Ellyn Stock: 0
 Total Stock: 6
 
 ----------------------------------------
@@ -820,8 +798,8 @@ Brand: Faire.com
 Barcode: unknown125
 Size: 
 Price: 16
-Geneva Stock: 0
-Glen Ellyn Stock: 2
+Geneva Stock: 2
+Glen Ellyn Stock: 0
 Total Stock: 2
 
 ----------------------------------------
@@ -831,8 +809,8 @@ Brand: Faire.com
 Barcode: unknown124
 Size: 
 Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 3
+Geneva Stock: 3
+Glen Ellyn Stock: 0
 Total Stock: 3
 
 ----------------------------------------
@@ -853,8 +831,8 @@ Brand: EarthMama
 Barcode: 
 Size: 0.15 oz
 Price: 4
-Geneva Stock: 0
-Glen Ellyn Stock: 3
+Geneva Stock: 3
+Glen Ellyn Stock: 0
 Total Stock: 3
 
 ----------------------------------------
@@ -875,8 +853,8 @@ Brand: EarthMama
 Barcode: 
 Size: 0.5 oz
 Price: 7
-Geneva Stock: 0
-Glen Ellyn Stock: 2
+Geneva Stock: 2
+Glen Ellyn Stock: 0
 Total Stock: 2
 
 ----------------------------------------
@@ -897,8 +875,8 @@ Brand: EarthMama
 Barcode: 
 Size: 0.5 oz
 Price: 7
-Geneva Stock: 0
-Glen Ellyn Stock: 2
+Geneva Stock: 2
+Glen Ellyn Stock: 0
 Total Stock: 2
 
 ----------------------------------------
@@ -941,8 +919,8 @@ Brand: EarthMama
 Barcode: 859220000150
 Size: 0.15 oz
 Price: 4
-Geneva Stock: 0
-Glen Ellyn Stock: 3
+Geneva Stock: 3
+Glen Ellyn Stock: 0
 Total Stock: 3
 
 ----------------------------------------
@@ -1293,8 +1271,8 @@ Brand: BiON
 Barcode: 
 Size: 
 Price: 25
-Geneva Stock: 0
-Glen Ellyn Stock: 4
+Geneva Stock: 4
+Glen Ellyn Stock: 0
 Total Stock: 4
 
 ----------------------------------------
@@ -1304,8 +1282,8 @@ Brand: Hempz
 Barcode: 
 Size: 
 Price: 6
-Geneva Stock: 0
-Glen Ellyn Stock: 1
+Geneva Stock: 1
+Glen Ellyn Stock: 0
 Total Stock: 1
 
 ----------------------------------------
@@ -1315,8 +1293,8 @@ Brand: Hempz
 Barcode: 
 Size: 
 Price: 6
-Geneva Stock: 0
-Glen Ellyn Stock: 1
+Geneva Stock: 1
+Glen Ellyn Stock: 0
 Total Stock: 1
 
 ----------------------------------------
@@ -1337,8 +1315,8 @@ Brand: Hempz
 Barcode: 
 Size: 
 Price: 9
-Geneva Stock: 0
-Glen Ellyn Stock: 1
+Geneva Stock: 1
+Glen Ellyn Stock: 0
 Total Stock: 1
 
 ----------------------------------------
@@ -1370,8 +1348,8 @@ Brand: Rowe Casa Organics
 Barcode: 810167450866
 Size: 8 oz
 Price: 29
-Geneva Stock: 0
-Glen Ellyn Stock: 1
+Geneva Stock: 1
+Glen Ellyn Stock: 0
 Total Stock: 1
 
 ----------------------------------------
@@ -1569,8 +1547,8 @@ Barcode: 819069013261
 Size: 6 oz
 Price: 32
 Geneva Stock: 4
-Glen Ellyn Stock: 4
-Total Stock: 8
+Glen Ellyn Stock: 2
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1612,9 +1590,9 @@ Brand: Skin For Life
 Barcode: 819069013056
 Size: 1.7 oz
 Price: 62
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 4
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1656,9 +1634,9 @@ Brand: Skin For Life
 Barcode: 819069013278
 Size: 6 oz
 Price: 38
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 2
-Total Stock: 5
+Total Stock: 4
 
 ----------------------------------------
 
@@ -1701,8 +1679,8 @@ Barcode: 819069013186
 Size: 1.6 oz
 Price: 72
 Geneva Stock: 6
-Glen Ellyn Stock: 6
-Total Stock: 12
+Glen Ellyn Stock: 4
+Total Stock: 10
 
 ----------------------------------------
 
@@ -1712,8 +1690,8 @@ Barcode: 819069013148
 Size: 1 oz
 Price: 62
 Geneva Stock: 4
-Glen Ellyn Stock: 4
-Total Stock: 8
+Glen Ellyn Stock: 3
+Total Stock: 7
 
 ----------------------------------------
 
