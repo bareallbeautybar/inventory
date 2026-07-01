@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/1/2026, 8:45:48 AM
+Last Updated: 7/1/2026, 12:45:47 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -523,9 +523,9 @@ Brand: BiON
 Barcode: Bion-Travel-light1
 Size: 0.5 oz
 Price: 14
-Geneva Stock: 5
+Geneva Stock: 4
 Glen Ellyn Stock: 7
-Total Stock: 12
+Total Stock: 11
 
 ----------------------------------------
 
@@ -853,9 +853,9 @@ Brand: EarthMama
 Barcode: 857249001806
 Size: 2.65 oz
 Price: 14.5
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 0
-Total Stock: 2
+Total Stock: 1
 
 ----------------------------------------
 
@@ -1095,9 +1095,9 @@ Brand: Glymed
 Barcode: US-GM-035R
 Size: 0.5 oz
 Price: 16
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 6
-Total Stock: 7
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1623,9 +1623,9 @@ Brand: S. Jolie Spray Tan
 Barcode: 851397008052
 Size: 
 Price: 22.5
-Geneva Stock: 11
+Geneva Stock: 10
 Glen Ellyn Stock: 4
-Total Stock: 15
+Total Stock: 14
 
 ----------------------------------------
 
@@ -1711,9 +1711,9 @@ Brand: Skin For Life
 Barcode: 819069013162
 Size: 1 oz
 Price: 62
-Geneva Stock: 12
+Geneva Stock: 11
 Glen Ellyn Stock: 2
-Total Stock: 14
+Total Stock: 13
 
 ----------------------------------------
 
@@ -1722,9 +1722,9 @@ Brand: Skin For Life
 Barcode: 819069013056
 Size: 1.7 oz
 Price: 62
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 4
-Total Stock: 8
+Total Stock: 7
 
 ----------------------------------------
 
@@ -1733,9 +1733,9 @@ Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
 Price: 44
-Geneva Stock: 38
+Geneva Stock: 37
 Glen Ellyn Stock: 4
-Total Stock: 42
+Total Stock: 41
 
 ----------------------------------------
 
@@ -1744,9 +1744,9 @@ Brand: Skin For Life
 Barcode: 820240139106
 Size: 1 oz
 Price: 36
-Geneva Stock: 8
+Geneva Stock: 7
 Glen Ellyn Stock: 0
-Total Stock: 8
+Total Stock: 7
 
 ----------------------------------------
 
@@ -1810,9 +1810,9 @@ Brand: Skin For Life
 Barcode: 819069013186
 Size: 1.6 oz
 Price: 72
-Geneva Stock: 20
+Geneva Stock: 19
 Glen Ellyn Stock: 4
-Total Stock: 24
+Total Stock: 23
 
 ----------------------------------------
 
@@ -1821,9 +1821,9 @@ Brand: Skin For Life
 Barcode: 819069013148
 Size: 1 oz
 Price: 62
-Geneva Stock: 12
+Geneva Stock: 11
 Glen Ellyn Stock: 3
-Total Stock: 15
+Total Stock: 14
 
 ----------------------------------------
 
@@ -1832,9 +1832,9 @@ Brand: Skin For Life
 Barcode: 819069010093
 Size: 1.6 oz
 Price: 66
-Geneva Stock: 53
+Geneva Stock: 52
 Glen Ellyn Stock: 9
-Total Stock: 62
+Total Stock: 61
 
 ----------------------------------------
 
