@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/3/2026, 12:45:48 PM
+Last Updated: 7/3/2026, 4:45:47 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -1576,12 +1576,12 @@ Total Stock: 2
 
 Product: Body Renew Indulgent Moisturizer | SJolie
 Brand: S. Jolie Spray Tan
-Barcode: unknown-130
+Barcode: 851397008793
 Size: 
 Price: 25
-Geneva Stock: 0
+Geneva Stock: 5
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1598,12 +1598,12 @@ Total Stock: 4
 
 Product: Mineral Defense SPF 30 | SJolie
 Brand: S. Jolie Spray Tan
-Barcode: unknown-127
+Barcode: 851397008823
 Size: 
 Price: 30
-Geneva Stock: 0
+Geneva Stock: 5
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1642,12 +1642,12 @@ Total Stock: 3
 
 Product: Tan Water | SJolie
 Brand: S. Jolie Spray Tan
-Barcode: unknown-128
+Barcode: 851397008861
 Size: 
 Price: 22
-Geneva Stock: 0
+Geneva Stock: 5
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 5
 
 ----------------------------------------
 
