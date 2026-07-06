@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/6/2026, 8:45:48 AM
+Last Updated: 7/6/2026, 12:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -16,7 +16,7 @@ Product: Balance Superfood Mask | Tuel
 Brand: Berodin/Tuel
 Barcode: 252a482f-cb80-4ad0-8362-e9cb69bacc3c
 Size: 2 oz
-Price: 32
+Price: 50
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -93,7 +93,7 @@ Product: Fresh Eyes | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000330
 Size: 0.5 oz
-Price: 30
+Price: 36
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
@@ -137,7 +137,7 @@ Product: Lift Up Firming Mask | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000453
 Size: 2 oz
-Price: 49.6
+Price: 60
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
@@ -148,7 +148,7 @@ Product: Make Amends Healing Moisture Cream | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001498
 Size: 1.7 oz
-Price: 36.8
+Price: 48
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -159,7 +159,7 @@ Product: Moisture Plus Mask | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000446
 Size: 2 oz
-Price: 40
+Price: 50
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
@@ -372,17 +372,6 @@ Price: 34
 Geneva Stock: 3
 Glen Ellyn Stock: 1
 Total Stock: 4
-
-----------------------------------------
-
-Product: Mini Bion Seaweed Mask | Bion
-Brand: BiON
-Barcode: 
-Size: 
-Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
@@ -1274,17 +1263,6 @@ Price: 94
 Geneva Stock: 2
 Glen Ellyn Stock: 1
 Total Stock: 3
-
-----------------------------------------
-
-Product: Masked Up Trio (Holiday)
-Brand: BiON
-Barcode: 
-Size: 
-Price: 25
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
