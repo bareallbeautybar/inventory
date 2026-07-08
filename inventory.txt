@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/7/2026, 4:45:48 PM
+Last Updated: 7/7/2026, 8:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -567,9 +567,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 18
+Geneva Stock: 17
 Glen Ellyn Stock: 11
-Total Stock: 29
+Total Stock: 28
 
 ----------------------------------------
 
@@ -645,8 +645,8 @@ Barcode: 850013444090
 Size: 
 Price: 75
 Geneva Stock: 15
-Glen Ellyn Stock: 8
-Total Stock: 23
+Glen Ellyn Stock: 7
+Total Stock: 22
 
 ----------------------------------------
 
