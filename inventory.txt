@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/9/2026, 4:45:48 PM
+Last Updated: 7/9/2026, 8:45:49 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -1623,9 +1623,9 @@ Brand: S. Jolie Spray Tan
 Barcode: 851397008861
 Size: 
 Price: 22
-Geneva Stock: 5
+Geneva Stock: 4
 Glen Ellyn Stock: 0
-Total Stock: 5
+Total Stock: 4
 
 ----------------------------------------
 
