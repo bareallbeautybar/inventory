@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/14/2026, 12:45:48 PM
+Last Updated: 7/14/2026, 4:45:49 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -722,8 +722,8 @@ Barcode: 857374004093
 Size: 
 Price: 24
 Geneva Stock: 5
-Glen Ellyn Stock: 6
-Total Stock: 11
+Glen Ellyn Stock: 5
+Total Stock: 10
 
 ----------------------------------------
 
@@ -930,9 +930,9 @@ Brand: Glymed
 Barcode: US-GM-38ER
 Size: 1.69 oz
 Price: 155
-Geneva Stock: 2
+Geneva Stock: 6
 Glen Ellyn Stock: 4
-Total Stock: 6
+Total Stock: 10
 
 ----------------------------------------
 
@@ -941,9 +941,9 @@ Brand: Glymed
 Barcode: US-GM-41ER
 Size: 1.69 oz
 Price: 160
-Geneva Stock: 2
+Geneva Stock: 6
 Glen Ellyn Stock: 5
-Total Stock: 7
+Total Stock: 11
 
 ----------------------------------------
 
@@ -952,9 +952,9 @@ Brand: Glymed
 Barcode: US-GM-031R
 Size: 1 oz
 Price: 74
-Geneva Stock: 2
+Geneva Stock: 6
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 9
 
 ----------------------------------------
 
@@ -963,9 +963,9 @@ Brand: Glymed
 Barcode: US-GM-002R
 Size: 4 oz
 Price: 50
-Geneva Stock: 4
-Glen Ellyn Stock: 2
-Total Stock: 6
+Geneva Stock: 6
+Glen Ellyn Stock: 4
+Total Stock: 10
 
 ----------------------------------------
 
@@ -974,9 +974,9 @@ Brand: Glymed
 Barcode: US-GM-39ER
 Size: 1 oz
 Price: 100
-Geneva Stock: 3
+Geneva Stock: 6
 Glen Ellyn Stock: 3
-Total Stock: 6
+Total Stock: 9
 
 ----------------------------------------
 
@@ -985,9 +985,9 @@ Brand: Glymed
 Barcode: US-GM-404R
 Size: 1.69 oz
 Price: 90
-Geneva Stock: 4
-Glen Ellyn Stock: 2
-Total Stock: 6
+Geneva Stock: 6
+Glen Ellyn Stock: 5
+Total Stock: 11
 
 ----------------------------------------
 
@@ -1019,8 +1019,8 @@ Barcode: US-GM-401R
 Size: 0.3 oz
 Price: 70
 Geneva Stock: 4
-Glen Ellyn Stock: 2
-Total Stock: 6
+Glen Ellyn Stock: 5
+Total Stock: 9
 
 ----------------------------------------
 
@@ -1029,9 +1029,9 @@ Brand: Glymed
 Barcode: US-GM-403R
 Size: 4 oz
 Price: 84
-Geneva Stock: 3
+Geneva Stock: 5
 Glen Ellyn Stock: 2
-Total Stock: 5
+Total Stock: 7
 
 ----------------------------------------
 
@@ -1062,9 +1062,9 @@ Brand: Glymed
 Barcode: US-GM-058R
 Size: 1.69 oz
 Price: 88
-Geneva Stock: 0
+Geneva Stock: 6
 Glen Ellyn Stock: 5
-Total Stock: 5
+Total Stock: 11
 
 ----------------------------------------
 
@@ -1073,9 +1073,9 @@ Brand: Glymed
 Barcode: US-GM-27ER
 Size: 6 oz
 Price: 38
-Geneva Stock: 3
+Geneva Stock: 6
 Glen Ellyn Stock: 4
-Total Stock: 7
+Total Stock: 10
 
 ----------------------------------------
 
@@ -1084,9 +1084,9 @@ Brand: Glymed
 Barcode: US-GM-035R
 Size: 0.5 oz
 Price: 16
-Geneva Stock: 0
+Geneva Stock: 12
 Glen Ellyn Stock: 6
-Total Stock: 6
+Total Stock: 18
 
 ----------------------------------------
 
@@ -1095,9 +1095,9 @@ Brand: Glymed
 Barcode: US-GM-74ER
 Size: 8 oz
 Price: 39
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
+Geneva Stock: 10
+Glen Ellyn Stock: 4
+Total Stock: 14
 
 ----------------------------------------
 
@@ -1106,9 +1106,9 @@ Brand: Glymed
 Barcode: US-GM-057R
 Size: 6.75 oz
 Price: 41
-Geneva Stock: 4
+Geneva Stock: 10
 Glen Ellyn Stock: 3
-Total Stock: 7
+Total Stock: 13
 
 ----------------------------------------
 
@@ -1118,8 +1118,8 @@ Barcode: US-GM-029R
 Size: 1.6 oz
 Price: 66
 Geneva Stock: 4
-Glen Ellyn Stock: 1
-Total Stock: 5
+Glen Ellyn Stock: 3
+Total Stock: 7
 
 ----------------------------------------
 
@@ -1139,9 +1139,9 @@ Brand: Glymed
 Barcode: US-GM-28ER
 Size: 2 oz
 Price: 68
-Geneva Stock: 0
+Geneva Stock: 3
 Glen Ellyn Stock: 2
-Total Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1150,9 +1150,9 @@ Brand: Glymed
 Barcode: US-GM-40ER
 Size: 1 oz
 Price: 98
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
+Geneva Stock: 7
+Glen Ellyn Stock: 4
+Total Stock: 11
 
 ----------------------------------------
 
@@ -1161,9 +1161,9 @@ Brand: Glymed
 Barcode: US-GM-026R
 Size: 2 oz
 Price: 48
-Geneva Stock: 1
+Geneva Stock: 6
 Glen Ellyn Stock: 3
-Total Stock: 4
+Total Stock: 9
 
 ----------------------------------------
 
@@ -1172,9 +1172,9 @@ Brand: Glymed
 Barcode: US-GM-73ER
 Size: 1.69 oz
 Price: 84
-Geneva Stock: 2
+Geneva Stock: 6
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 9
 
 ----------------------------------------
 
@@ -1183,9 +1183,9 @@ Brand: Glymed
 Barcode: US-GM-032R
 Size: 1 oz
 Price: 64
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
+Geneva Stock: 10
+Glen Ellyn Stock: 5
+Total Stock: 15
 
 ----------------------------------------
 
@@ -1194,9 +1194,9 @@ Brand: Glymed
 Barcode: US-GM-003R
 Size: 1.69 oz
 Price: 68
-Geneva Stock: 2
+Geneva Stock: 5
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 8
 
 ----------------------------------------
 
@@ -1260,9 +1260,9 @@ Brand: Glymed
 Barcode: US-GM-125R
 Size: 2 oz
 Price: 94
-Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
+Geneva Stock: 6
+Glen Ellyn Stock: 4
+Total Stock: 10
 
 ----------------------------------------
 
