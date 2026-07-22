@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/22/2026, 12:45:48 PM
+Last Updated: 7/22/2026, 4:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -523,9 +523,9 @@ Brand: BiON
 Barcode: Bion-Travel-med1
 Size: 0.5 oz
 Price: 14
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 3
-Total Stock: 7
+Total Stock: 6
 
 ----------------------------------------
 
@@ -567,9 +567,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 7
+Geneva Stock: 6
 Glen Ellyn Stock: 9
-Total Stock: 16
+Total Stock: 15
 
 ----------------------------------------
 
@@ -721,9 +721,9 @@ Brand: BrowGal
 Barcode: 857374004093
 Size: 
 Price: 24
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 5
-Total Stock: 9
+Total Stock: 8
 
 ----------------------------------------
 
@@ -1315,9 +1315,9 @@ Brand: Rowe Casa Organics
 Barcode: unknow-137
 Size: 
 Price: 27
-Geneva Stock: 0
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1337,9 +1337,9 @@ Brand: Rowe Casa Organics
 Barcode: unknown-134
 Size: 
 Price: 29
-Geneva Stock: 0
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1348,9 +1348,9 @@ Brand: Rowe Casa Organics
 Barcode: unknown-140
 Size: 
 Price: 29
-Geneva Stock: 0
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1381,9 +1381,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167451283
 Size: 1 oz
 Price: 63
-Geneva Stock: 3
+Geneva Stock: 4
 Glen Ellyn Stock: 0
-Total Stock: 3
+Total Stock: 4
 
 ----------------------------------------
 
@@ -1425,9 +1425,9 @@ Brand: Rowe Casa Organics
 Barcode: unknown-135
 Size: 
 Price: 33
-Geneva Stock: 0
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1469,9 +1469,9 @@ Brand: Rowe Casa Organics
 Barcode: 850008995811
 Size: 4 oz
 Price: 27
-Geneva Stock: 1
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 1
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1502,9 +1502,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167450804
 Size: 8 oz
 Price: 29
-Geneva Stock: 0
+Geneva Stock: 1
 Glen Ellyn Stock: 2
-Total Stock: 2
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1535,9 +1535,9 @@ Brand: Rowe Casa Organics
 Barcode: unknown-148
 Size: 
 Price: 14
-Geneva Stock: 0
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 0
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1668,8 +1668,8 @@ Barcode: 819069013254
 Size: 6 oz
 Price: 32
 Geneva Stock: 11
-Glen Ellyn Stock: 6
-Total Stock: 17
+Glen Ellyn Stock: 5
+Total Stock: 16
 
 ----------------------------------------
 
@@ -1690,8 +1690,8 @@ Barcode: 819069013162
 Size: 1 oz
 Price: 62
 Geneva Stock: 9
-Glen Ellyn Stock: 5
-Total Stock: 14
+Glen Ellyn Stock: 4
+Total Stock: 13
 
 ----------------------------------------
 
