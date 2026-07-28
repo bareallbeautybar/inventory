@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 7/28/2026, 8:45:49 AM
+Last Updated: 7/28/2026, 12:45:50 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -116,9 +116,9 @@ Brand: Berodin/Tuel
 Barcode: 844206000170
 Size: 16 oz
 Price: 52
-Geneva Stock: 12
+Geneva Stock: 11
 Glen Ellyn Stock: 0
-Total Stock: 12
+Total Stock: 11
 
 ----------------------------------------
 
@@ -1316,8 +1316,8 @@ Barcode: unknow-137
 Size: 
 Price: 27
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1327,8 +1327,8 @@ Barcode: unknown-133
 Size: 
 Price: 39
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1338,8 +1338,8 @@ Barcode: unknown-134
 Size: 
 Price: 29
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1349,8 +1349,8 @@ Barcode: unknown-140
 Size: 
 Price: 29
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1382,8 +1382,8 @@ Barcode: 810167451283
 Size: 1 oz
 Price: 63
 Geneva Stock: 4
-Glen Ellyn Stock: 0
-Total Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1426,8 +1426,8 @@ Barcode: unknown-135
 Size: 
 Price: 33
 Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
+Glen Ellyn Stock: 1
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1437,8 +1437,8 @@ Barcode: 850008995798
 Size: 9 oz
 Price: 30
 Geneva Stock: 4
-Glen Ellyn Stock: 0
-Total Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1459,8 +1459,8 @@ Barcode: 850015728464
 Size: 9 oz
 Price: 44
 Geneva Stock: 4
-Glen Ellyn Stock: 1
-Total Stock: 5
+Glen Ellyn Stock: 2
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1470,8 +1470,8 @@ Barcode: 850008995811
 Size: 4 oz
 Price: 27
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
 
 ----------------------------------------
 
@@ -1481,8 +1481,8 @@ Barcode: unknown-136
 Size: 
 Price: 29
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1514,8 +1514,8 @@ Barcode: 810167450934
 Size: 4 oz
 Price: 18
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1536,8 +1536,8 @@ Barcode: unknown-148
 Size: 
 Price: 14
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1547,8 +1547,8 @@ Barcode: 850040293531
 Size: 9 oz
 Price: 30
 Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
 
 ----------------------------------------
 
