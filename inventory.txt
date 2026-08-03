@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 8/3/2026, 4:45:48 AM
+Last Updated: 8/3/2026, 8:45:50 AM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -1312,8 +1312,8 @@ Total Stock: 1
 
 Product: Age Defying Eye Cream | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknow-137
-Size: 
+Barcode: 810167450613
+Size: 0.5 oz
 Price: 27
 Geneva Stock: 2
 Glen Ellyn Stock: 1
@@ -1323,8 +1323,8 @@ Total Stock: 3
 
 Product: Age Defying Nourishing Face Cleanser | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknown-133
-Size: 
+Barcode: 810167451351
+Size: 6 oz
 Price: 39
 Geneva Stock: 2
 Glen Ellyn Stock: 1
@@ -1334,8 +1334,8 @@ Total Stock: 3
 
 Product: Age Defying Nutrient Face Mist | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknown-134
-Size: 
+Barcode: 810167451368
+Size: 2 oz
 Price: 29
 Geneva Stock: 2
 Glen Ellyn Stock: 1
@@ -1345,8 +1345,8 @@ Total Stock: 3
 
 Product: Bakuchiol + Frankincense Body Lotion | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknown-140
-Size: 
+Barcode: 810167450880
+Size: 8 oz
 Price: 29
 Geneva Stock: 2
 Glen Ellyn Stock: 1
@@ -1422,8 +1422,8 @@ Total Stock: 3
 
 Product: Exfoliating Microderm Scrub | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknown-135
-Size: 
+Barcode: 810167450989
+Size: 2 oz
 Price: 33
 Geneva Stock: 1
 Glen Ellyn Stock: 1
@@ -1477,8 +1477,8 @@ Total Stock: 4
 
 Product: Moisturizing Face Cream | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknown-136
-Size: 
+Barcode: 810167450620
+Size: 1 oz
 Price: 29
 Geneva Stock: 2
 Glen Ellyn Stock: 1
@@ -1532,8 +1532,8 @@ Total Stock: 4
 
 Product: Unscented Deodorant | Rowe Casa Organics
 Brand: Rowe Casa Organics
-Barcode: unknown-148
-Size: 
+Barcode: 850050558125
+Size: 3 oz
 Price: 14
 Geneva Stock: 2
 Glen Ellyn Stock: 1
