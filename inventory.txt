@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 8/18/2026, 8:45:50 AM
+Last Updated: 8/18/2026, 12:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -348,8 +348,8 @@ Barcode: 658580350123
 Size: 
 Price: 28
 Geneva Stock: 5
-Glen Ellyn Stock: 1
-Total Stock: 6
+Glen Ellyn Stock: 4
+Total Stock: 9
 
 ----------------------------------------
 
@@ -425,8 +425,8 @@ Barcode: 837654648001
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 12
-Glen Ellyn Stock: 1
-Total Stock: 13
+Glen Ellyn Stock: 8
+Total Stock: 20
 
 ----------------------------------------
 
@@ -436,8 +436,8 @@ Barcode: 658580350239
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 12
-Glen Ellyn Stock: 6
-Total Stock: 18
+Glen Ellyn Stock: 12
+Total Stock: 24
 
 ----------------------------------------
 
@@ -447,8 +447,8 @@ Barcode: 658580350246
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 11
-Glen Ellyn Stock: 2
-Total Stock: 13
+Glen Ellyn Stock: 12
+Total Stock: 23
 
 ----------------------------------------
 
@@ -458,8 +458,8 @@ Barcode: 837654648018
 Size: 4 oz
 Price: 48
 Geneva Stock: 5
-Glen Ellyn Stock: 1
-Total Stock: 6
+Glen Ellyn Stock: 4
+Total Stock: 9
 
 ----------------------------------------
 
@@ -480,8 +480,8 @@ Barcode: 669185519440
 Size: 1.7 oz
 Price: 30
 Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 5
 
 ----------------------------------------
 
@@ -502,8 +502,8 @@ Barcode: Bion-Travel-fair1
 Size: 0.5 oz
 Price: 14
 Geneva Stock: 10
-Glen Ellyn Stock: 2
-Total Stock: 12
+Glen Ellyn Stock: 9
+Total Stock: 19
 
 ----------------------------------------
 
@@ -513,8 +513,8 @@ Barcode: Bion-Travel-light1
 Size: 0.5 oz
 Price: 14
 Geneva Stock: 10
-Glen Ellyn Stock: 7
-Total Stock: 17
+Glen Ellyn Stock: 10
+Total Stock: 20
 
 ----------------------------------------
 
@@ -524,8 +524,8 @@ Barcode: Bion-Travel-med1
 Size: 0.5 oz
 Price: 14
 Geneva Stock: 10
-Glen Ellyn Stock: 3
-Total Stock: 13
+Glen Ellyn Stock: 10
+Total Stock: 20
 
 ----------------------------------------
 
