@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 8/31/2026, 12:45:48 PM
+Last Updated: 8/31/2026, 4:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -61,9 +61,9 @@ Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
 Price: 40
-Geneva Stock: 10
+Geneva Stock: 9
 Glen Ellyn Stock: 1
-Total Stock: 11
+Total Stock: 10
 
 ----------------------------------------
 
@@ -1656,9 +1656,9 @@ Brand: Skin For Life
 Barcode: 819069013261
 Size: 6 oz
 Price: 32
-Geneva Stock: 9
+Geneva Stock: 8
 Glen Ellyn Stock: 1
-Total Stock: 10
+Total Stock: 9
 
 ----------------------------------------
 
@@ -1678,9 +1678,9 @@ Brand: Skin For Life
 Barcode: 819069013285
 Size: 6 oz
 Price: 36
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 1
-Total Stock: 4
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1711,9 +1711,9 @@ Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
 Price: 44
-Geneva Stock: 34
+Geneva Stock: 33
 Glen Ellyn Stock: 4
-Total Stock: 38
+Total Stock: 37
 
 ----------------------------------------
 
@@ -1788,9 +1788,9 @@ Brand: Skin For Life
 Barcode: 819069013186
 Size: 1.6 oz
 Price: 72
-Geneva Stock: 18
+Geneva Stock: 17
 Glen Ellyn Stock: 4
-Total Stock: 22
+Total Stock: 21
 
 ----------------------------------------
 
