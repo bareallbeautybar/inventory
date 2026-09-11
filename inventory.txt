@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 9/11/2026, 12:45:49 PM
+Last Updated: 9/11/2026, 4:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -436,8 +436,8 @@ Barcode: 658580350239
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 8
-Glen Ellyn Stock: 11
-Total Stock: 19
+Glen Ellyn Stock: 10
+Total Stock: 18
 
 ----------------------------------------
 
@@ -512,9 +512,9 @@ Brand: BiON
 Barcode: Bion-Travel-light1
 Size: 0.5 oz
 Price: 14
-Geneva Stock: 10
+Geneva Stock: 9
 Glen Ellyn Stock: 10
-Total Stock: 20
+Total Stock: 19
 
 ----------------------------------------
 
@@ -568,8 +568,8 @@ Barcode: 5060354224892
 Size: 
 Price: 32
 Geneva Stock: 1
-Glen Ellyn Stock: 14
-Total Stock: 15
+Glen Ellyn Stock: 13
+Total Stock: 14
 
 ----------------------------------------
 
@@ -1315,9 +1315,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167450613
 Size: 0.5 oz
 Price: 27
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 1
-Total Stock: 3
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1689,9 +1689,9 @@ Brand: Skin For Life
 Barcode: 819069013162
 Size: 1 oz
 Price: 62
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 4
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1711,9 +1711,9 @@ Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
 Price: 44
-Geneva Stock: 33
+Geneva Stock: 32
 Glen Ellyn Stock: 4
-Total Stock: 37
+Total Stock: 36
 
 ----------------------------------------
 
