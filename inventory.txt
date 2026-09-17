@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 9/17/2026, 8:45:49 AM
+Last Updated: 9/17/2026, 12:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -1384,17 +1384,6 @@ Price: 63
 Geneva Stock: 4
 Glen Ellyn Stock: 1
 Total Stock: 5
-
-----------------------------------------
-
-Product: Cucumber + Lime Body Lotion | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450866
-Size: 8 oz
-Price: 29
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
