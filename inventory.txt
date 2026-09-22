@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 9/21/2026, 4:45:48 PM
+Last Updated: 9/21/2026, 8:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -644,9 +644,9 @@ Brand: Borboleta
 Barcode: 850013444090
 Size: 
 Price: 75
-Geneva Stock: 10
+Geneva Stock: 9
 Glen Ellyn Stock: 12
-Total Stock: 22
+Total Stock: 21
 
 ----------------------------------------
 
