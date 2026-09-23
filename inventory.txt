@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 9/23/2026, 12:45:49 PM
+Last Updated: 9/23/2026, 4:45:49 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -567,9 +567,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 26
+Geneva Stock: 25
 Glen Ellyn Stock: 12
-Total Stock: 38
+Total Stock: 37
 
 ----------------------------------------
 
@@ -645,8 +645,8 @@ Barcode: 850013444090
 Size: 
 Price: 75
 Geneva Stock: 9
-Glen Ellyn Stock: 12
-Total Stock: 21
+Glen Ellyn Stock: 11
+Total Stock: 20
 
 ----------------------------------------
 
@@ -733,8 +733,8 @@ Barcode: 857374004109
 Size: 
 Price: 24
 Geneva Stock: 10
-Glen Ellyn Stock: 5
-Total Stock: 15
+Glen Ellyn Stock: 4
+Total Stock: 14
 
 ----------------------------------------
 
@@ -1106,9 +1106,9 @@ Brand: Glymed
 Barcode: US-GM-057R
 Size: 6.75 oz
 Price: 41
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 2
-Total Stock: 5
+Total Stock: 4
 
 ----------------------------------------
 
@@ -1118,8 +1118,8 @@ Barcode: US-GM-029R
 Size: 1.6 oz
 Price: 66
 Geneva Stock: 3
-Glen Ellyn Stock: 1
-Total Stock: 4
+Glen Ellyn Stock: 0
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1415,8 +1415,8 @@ Barcode: 810167450989
 Size: 2 oz
 Price: 33
 Geneva Stock: 0
-Glen Ellyn Stock: 1
-Total Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 0
 
 ----------------------------------------
 
@@ -1645,9 +1645,9 @@ Brand: Skin For Life
 Barcode: 819069013261
 Size: 6 oz
 Price: 32
-Geneva Stock: 6
+Geneva Stock: 5
 Glen Ellyn Stock: 0
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1700,9 +1700,9 @@ Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
 Price: 44
-Geneva Stock: 31
+Geneva Stock: 30
 Glen Ellyn Stock: 4
-Total Stock: 35
+Total Stock: 34
 
 ----------------------------------------
 
@@ -1800,8 +1800,8 @@ Barcode: 819069010093
 Size: 1.6 oz
 Price: 66
 Geneva Stock: 37
-Glen Ellyn Stock: 9
-Total Stock: 46
+Glen Ellyn Stock: 8
+Total Stock: 45
 
 ----------------------------------------
 
