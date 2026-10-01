@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 10/1/2026, 8:45:49 AM
+Last Updated: 10/1/2026, 12:45:49 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -61,8 +61,8 @@ Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
 Price: 40
-Geneva Stock: 9
-Glen Ellyn Stock: 1
+Geneva Stock: 7
+Glen Ellyn Stock: 3
 Total Stock: 10
 
 ----------------------------------------
@@ -83,8 +83,8 @@ Brand: Berodin/Tuel
 Barcode: 844206001320
 Size: 0.5 oz
 Price: 70
-Geneva Stock: 4
-Glen Ellyn Stock: 0
+Geneva Stock: 2
+Glen Ellyn Stock: 2
 Total Stock: 4
 
 ----------------------------------------
@@ -105,8 +105,8 @@ Brand: Berodin/Tuel
 Barcode: 844206000811
 Size: 8 oz
 Price: 38
-Geneva Stock: 23
-Glen Ellyn Stock: 5
+Geneva Stock: 20
+Glen Ellyn Stock: 8
 Total Stock: 28
 
 ----------------------------------------
@@ -182,8 +182,8 @@ Brand: Berodin/Tuel
 Barcode: 844206001337
 Size: 1.7 oz
 Price: 46
-Geneva Stock: 6
-Glen Ellyn Stock: 0
+Geneva Stock: 4
+Glen Ellyn Stock: 2
 Total Stock: 6
 
 ----------------------------------------
@@ -226,8 +226,8 @@ Brand: Berodin/Tuel
 Barcode: 844206000521
 Size: 5 oz
 Price: 30
-Geneva Stock: 11
-Glen Ellyn Stock: 2
+Geneva Stock: 9
+Glen Ellyn Stock: 4
 Total Stock: 13
 
 ----------------------------------------
@@ -248,8 +248,8 @@ Brand: Berodin/Tuel
 Barcode: 844206002167
 Size: 0.5 oz
 Price: 20
-Geneva Stock: 15
-Glen Ellyn Stock: 1
+Geneva Stock: 13
+Glen Ellyn Stock: 3
 Total Stock: 16
 
 ----------------------------------------
@@ -358,9 +358,9 @@ Brand: BiON
 Barcode: 837654648131
 Size: 1 oz
 Price: 38
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 2
-Total Stock: 5
+Total Stock: 4
 
 ----------------------------------------
 
@@ -414,8 +414,8 @@ Barcode: Bion-dark1
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 8
-Glen Ellyn Stock: 7
-Total Stock: 15
+Glen Ellyn Stock: 5
+Total Stock: 13
 
 ----------------------------------------
 
@@ -436,8 +436,8 @@ Barcode: 658580350239
 Size: 1.7 oz
 Price: 40
 Geneva Stock: 6
-Glen Ellyn Stock: 10
-Total Stock: 16
+Glen Ellyn Stock: 8
+Total Stock: 14
 
 ----------------------------------------
 
@@ -446,9 +446,9 @@ Brand: BiON
 Barcode: 658580350246
 Size: 1.7 oz
 Price: 40
-Geneva Stock: 8
-Glen Ellyn Stock: 12
-Total Stock: 20
+Geneva Stock: 7
+Glen Ellyn Stock: 10
+Total Stock: 17
 
 ----------------------------------------
 
@@ -567,9 +567,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 22
+Geneva Stock: 21
 Glen Ellyn Stock: 10
-Total Stock: 32
+Total Stock: 31
 
 ----------------------------------------
 
@@ -677,8 +677,8 @@ Brand: BrowGal
 Barcode: 857374004062
 Size: 
 Price: 24
-Geneva Stock: 8
-Glen Ellyn Stock: 2
+Geneva Stock: 6
+Glen Ellyn Stock: 4
 Total Stock: 10
 
 ----------------------------------------
@@ -688,8 +688,8 @@ Brand: BrowGal
 Barcode: 857374004086
 Size: 
 Price: 24
-Geneva Stock: 7
-Glen Ellyn Stock: 2
+Geneva Stock: 5
+Glen Ellyn Stock: 4
 Total Stock: 9
 
 ----------------------------------------
@@ -710,8 +710,8 @@ Brand: BrowGal
 Barcode: 857374004116
 Size: 
 Price: 24
-Geneva Stock: 6
-Glen Ellyn Stock: 1
+Geneva Stock: 4
+Glen Ellyn Stock: 3
 Total Stock: 7
 
 ----------------------------------------
@@ -732,8 +732,8 @@ Brand: BrowGal
 Barcode: 857374004109
 Size: 
 Price: 24
-Geneva Stock: 6
-Glen Ellyn Stock: 3
+Geneva Stock: 4
+Glen Ellyn Stock: 5
 Total Stock: 9
 
 ----------------------------------------
@@ -1161,9 +1161,9 @@ Brand: Glymed
 Barcode: US-GM-026R
 Size: 2 oz
 Price: 48
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 3
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1172,9 +1172,9 @@ Brand: Glymed
 Barcode: US-GM-73ER
 Size: 1.69 oz
 Price: 84
-Geneva Stock: 6
+Geneva Stock: 5
 Glen Ellyn Stock: 3
-Total Stock: 9
+Total Stock: 8
 
 ----------------------------------------
 
@@ -1316,8 +1316,8 @@ Barcode: 810167450613
 Size: 0.5 oz
 Price: 27
 Geneva Stock: 3
-Glen Ellyn Stock: 1
-Total Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1382,8 +1382,8 @@ Barcode: 810167451283
 Size: 1 oz
 Price: 63
 Geneva Stock: 4
-Glen Ellyn Stock: 1
-Total Stock: 5
+Glen Ellyn Stock: 2
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1393,8 +1393,8 @@ Barcode: 810167451306
 Size: 0.88 oz
 Price: 39
 Geneva Stock: 5
-Glen Ellyn Stock: 1
-Total Stock: 6
+Glen Ellyn Stock: 2
+Total Stock: 7
 
 ----------------------------------------
 
@@ -1415,8 +1415,8 @@ Barcode: 810167450989
 Size: 2 oz
 Price: 33
 Geneva Stock: 4
-Glen Ellyn Stock: 0
-Total Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1470,8 +1470,8 @@ Barcode: 810167450620
 Size: 1 oz
 Price: 29
 Geneva Stock: 3
-Glen Ellyn Stock: 1
-Total Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1546,8 +1546,8 @@ Brand: S. Jolie Spray Tan
 Barcode: 851397008793
 Size: 
 Price: 25
-Geneva Stock: 4
-Glen Ellyn Stock: 0
+Geneva Stock: 3
+Glen Ellyn Stock: 1
 Total Stock: 4
 
 ----------------------------------------
@@ -1568,8 +1568,8 @@ Brand: S. Jolie Spray Tan
 Barcode: 851397008823
 Size: 
 Price: 30
-Geneva Stock: 3
-Glen Ellyn Stock: 0
+Geneva Stock: 2
+Glen Ellyn Stock: 1
 Total Stock: 3
 
 ----------------------------------------
@@ -1645,8 +1645,8 @@ Brand: Skin For Life
 Barcode: 819069013261
 Size: 6 oz
 Price: 32
-Geneva Stock: 5
-Glen Ellyn Stock: 0
+Geneva Stock: 2
+Glen Ellyn Stock: 3
 Total Stock: 5
 
 ----------------------------------------
@@ -1711,8 +1711,8 @@ Brand: Skin For Life
 Barcode: 820240139106
 Size: 1 oz
 Price: 36
-Geneva Stock: 4
-Glen Ellyn Stock: 0
+Geneva Stock: 2
+Glen Ellyn Stock: 2
 Total Stock: 4
 
 ----------------------------------------
@@ -1722,8 +1722,8 @@ Brand: Skin For Life
 Barcode: 820240139113
 Size: 1 oz
 Price: 44
-Geneva Stock: 6
-Glen Ellyn Stock: 0
+Geneva Stock: 4
+Glen Ellyn Stock: 2
 Total Stock: 6
 
 ----------------------------------------
@@ -1744,8 +1744,8 @@ Brand: Skin For Life
 Barcode: 819069013292
 Size: 6 oz
 Price: 38
-Geneva Stock: 7
-Glen Ellyn Stock: 1
+Geneva Stock: 5
+Glen Ellyn Stock: 3
 Total Stock: 8
 
 ----------------------------------------
