@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 10/29/2026, 4:45:49 AM
+Last Updated: 10/29/2026, 8:45:49 AM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
@@ -643,7 +643,7 @@ Product: Lash Serum | Borboleta
 Brand: Borboleta
 Barcode: 850013444090
 Size: 
-Price: 75
+Price: 65
 Geneva Stock: 6
 Glen Ellyn Stock: 11
 Total Stock: 17
