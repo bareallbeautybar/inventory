@@ -1,11 +1,11 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/11/2026, 12:46:56 PM
+Last Updated: 11/11/2026, 4:45:48 PM
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
 Barcode: BABBM-FCM-1
 Size: 
-Price: 14
+Price: 5.6
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -61,9 +61,9 @@ Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
 Price: 40
-Geneva Stock: 2
+Geneva Stock: 3
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 6
 
 ----------------------------------------
 
@@ -248,9 +248,9 @@ Brand: Berodin/Tuel
 Barcode: 844206002167
 Size: 0.5 oz
 Price: 20
-Geneva Stock: 9
+Geneva Stock: 8
 Glen Ellyn Stock: 2
-Total Stock: 11
+Total Stock: 10
 
 ----------------------------------------
 
@@ -270,9 +270,9 @@ Brand: BiON
 Barcode: 837654648100
 Size: 1 oz
 Price: 25
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 3
-Total Stock: 7
+Total Stock: 6
 
 ----------------------------------------
 
@@ -291,7 +291,7 @@ Product: Cocoa Mango Body Butter
 Brand: BiON
 Barcode: 658580350215
 Size: 
-Price: 8
+Price: 3.2
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -599,7 +599,7 @@ Product: Angled Cleansing Brush | Borboleta
 Brand: Borboleta
 Barcode: 850013444144
 Size: 
-Price: 12
+Price: 4.8
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -610,7 +610,7 @@ Product: Clean Swoop Cleansing Brush  | Borboleta
 Brand: Borboleta
 Barcode: 850013444038
 Size: 
-Price: 30
+Price: 12
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -621,10 +621,10 @@ Product: Lash Bath Foam Cleanser | Borboleta
 Brand: Borboleta
 Barcode: 850013444045
 Size: 50 ml
-Price: 28
+Price: 11.2
 Geneva Stock: 4
-Glen Ellyn Stock: 4
-Total Stock: 8
+Glen Ellyn Stock: 0
+Total Stock: 4
 
 ----------------------------------------
 
@@ -632,10 +632,10 @@ Product: Lash Bath Gel Cleanser | Borboleta
 Brand: Borboleta
 Barcode: 850013444069
 Size: 15 ml
-Price: 18
+Price: 7.2
 Geneva Stock: 2
-Glen Ellyn Stock: 4
-Total Stock: 6
+Glen Ellyn Stock: 0
+Total Stock: 2
 
 ----------------------------------------
 
@@ -654,7 +654,7 @@ Product: Define & Line Brush  | BrowCode
 Brand: Browcode
 Barcode: 6206589021301
 Size: 
-Price: 28
+Price: 11.2
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -665,7 +665,7 @@ Product: Convertible Brow 01 | BrowGal
 Brand: BrowGal
 Barcode: 857374004864
 Size: 
-Price: 35
+Price: 14
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -721,8 +721,8 @@ Brand: BrowGal
 Barcode: 857374004093
 Size: 
 Price: 24
-Geneva Stock: 0
-Glen Ellyn Stock: 5
+Geneva Stock: 3
+Glen Ellyn Stock: 2
 Total Stock: 5
 
 ----------------------------------------
@@ -732,9 +732,9 @@ Brand: BrowGal
 Barcode: 857374004109
 Size: 
 Price: 24
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 5
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -742,9 +742,9 @@ Product: Highlighter Pencil 01 | BrowGal
 Brand: BrowGal
 Barcode: BG-55
 Size: 
-Price: 20
-Geneva Stock: 1
-Glen Ellyn Stock: 1
+Price: 8
+Geneva Stock: 2
+Glen Ellyn Stock: 0
 Total Stock: 2
 
 ----------------------------------------
@@ -753,9 +753,9 @@ Product: Highlighter Pencil 02 | BrowGal
 Brand: BrowGal
 Barcode: 857374004055
 Size: 
-Price: 20
-Geneva Stock: 1
-Glen Ellyn Stock: 2
+Price: 8
+Geneva Stock: 3
+Glen Ellyn Stock: 0
 Total Stock: 3
 
 ----------------------------------------
@@ -764,7 +764,7 @@ Product: Mini Cherub Highlighter | BrowGal
 Brand: BrowGal
 Barcode: 857374004048
 Size: 
-Price: 10
+Price: 4
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -775,7 +775,7 @@ Product: Mini Gold Shimmer Highlighter | BrowGal
 Brand: BrowGal
 Barcode: 857374004598
 Size: 
-Price: 10
+Price: 4
 Geneva Stock: 6
 Glen Ellyn Stock: 0
 Total Stock: 6
@@ -797,7 +797,7 @@ Product: Eye Am Complete Brow Gel
 Brand: Faire.com
 Barcode: unknown125
 Size: 
-Price: 16
+Price: 6.4
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -808,7 +808,7 @@ Product: Makeup Removing Towel
 Brand: Faire.com
 Barcode: unknown124
 Size: 
-Price: 10
+Price: 4
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -830,7 +830,7 @@ Product: Coconut Smoothie lip balm
 Brand: EarthMama
 Barcode: 
 Size: 0.15 oz
-Price: 4
+Price: 1.6
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -841,7 +841,7 @@ Product: EarthMama Bright Citrus Deodorant
 Brand: EarthMama
 Barcode: 857249001806
 Size: 2.65 oz
-Price: 14.5
+Price: 5.8
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -852,7 +852,7 @@ Product: EarthMama Bright Citrus mini
 Brand: EarthMama
 Barcode: 
 Size: 0.5 oz
-Price: 7
+Price: 2.8
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -874,7 +874,7 @@ Product: EarthMama Ginger Fresh mini
 Brand: EarthMama
 Barcode: 
 Size: 0.5 oz
-Price: 7
+Price: 2.8
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -885,7 +885,7 @@ Product: EarthMama Simply Non-Scents mini
 Brand: EarthMama
 Barcode: 859220010456
 Size: 0.5 oz
-Price: 7
+Price: 2.8
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -896,7 +896,7 @@ Product: Lady Face Mineral Sunscreen Stick-light/medium
 Brand: EarthMama
 Barcode: 859220010340
 Size: 0.74 oz
-Price: 16.48
+Price: 6.6
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
@@ -907,21 +907,10 @@ Product: Lady Face Mineral Sunscreen Stick-medium/dark
 Brand: EarthMama
 Barcode: 859220010777
 Size: 0.74 oz
-Price: 16.48
+Price: 6.6
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
-
-----------------------------------------
-
-Product: Mint Herbal lip balm
-Brand: EarthMama
-Barcode: 859220000150
-Size: 0.15 oz
-Price: 4
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
@@ -1084,9 +1073,9 @@ Brand: Glymed
 Barcode: US-GM-035R
 Size: 0.5 oz
 Price: 16
-Geneva Stock: 8
+Geneva Stock: 10
 Glen Ellyn Stock: 6
-Total Stock: 14
+Total Stock: 16
 
 ----------------------------------------
 
@@ -1266,44 +1255,11 @@ Total Stock: 10
 
 ----------------------------------------
 
-Product: HEMPZ  2.25oz Sweet Pineapple & Honey sanitizer
+Product: HEMPZ lotion 2.25oz
 Brand: Hempz
 Barcode: 
 Size: 
-Price: 6
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: HEMPZ 2.25oz Triple Moisture sanitizer
-Brand: Hempz
-Barcode: 
-Size: 
-Price: 6
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Hempz Apple Cinnamon Shortbread moisturizer
-Brand: Hempz
-Barcode: 676280047143
-Size: 
-Price: 8
-Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
-
-----------------------------------------
-
-Product: HEMPZ mini c b d lotion 2.25oz
-Brand: Hempz
-Barcode: 
-Size: 
-Price: 9
+Price: 3.6
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
@@ -1491,9 +1447,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167453492
 Size: 2 oz
 Price: 13
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 2
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1821,9 +1777,9 @@ Brand: Skin For Life
 Barcode: 819069010093
 Size: 1.6 oz
 Price: 66
-Geneva Stock: 32
+Geneva Stock: 31
 Glen Ellyn Stock: 8
-Total Stock: 40
+Total Stock: 39
 
 ----------------------------------------
 
