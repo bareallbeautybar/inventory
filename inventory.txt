@@ -1,25 +1,36 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/14/2026, 8:45:48 AM
+Last Updated: 11/14/2026, 12:45:48 PM
+
+Product: Instant Soothing Toner | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013285
+Size: 6 oz
+Price: 36
+Geneva Stock: 2
+Glen Ellyn Stock: 3
+Total Stock: 5
+
+----------------------------------------
+
+Product: Salicylic Toner | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013292
+Size: 6 oz
+Price: 38
+Geneva Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
+
+----------------------------------------
 
 Product: French Clay Mask
 Brand: Bare All Beauty by Margie
 Barcode: BABBM-FCM-1
 Size: 
-Price: 5.6
+Price: 32
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
-
-----------------------------------------
-
-Product: Balance Superfood Mask | Tuel
-Brand: Berodin/Tuel
-Barcode: 252a482f-cb80-4ad0-8362-e9cb69bacc3c
-Size: 2 oz
-Price: 50
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
@@ -826,6 +837,39 @@ Total Stock: 6
 
 ----------------------------------------
 
+Product: Gentle Gel Cleanser | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013261
+Size: 6 oz
+Price: 32
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Gentle Milk Cleanser | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013254
+Size: 6 oz
+Price: 32
+Geneva Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
+
+----------------------------------------
+
+Product: Salicylic Gel Cleanser | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013278
+Size: 6 oz
+Price: 38
+Geneva Stock: 5
+Glen Ellyn Stock: 2
+Total Stock: 7
+
+----------------------------------------
+
 Product: Coconut Smoothie lip balm
 Brand: EarthMama
 Barcode: 
@@ -1007,9 +1051,9 @@ Brand: Glymed
 Barcode: US-GM-401R
 Size: 0.3 oz
 Price: 70
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 5
-Total Stock: 7
+Total Stock: 6
 
 ----------------------------------------
 
@@ -1255,6 +1299,39 @@ Total Stock: 10
 
 ----------------------------------------
 
+Product: Antibac Essentials | Skin for Life
+Brand: Skin For Life
+Barcode: Custom-126
+Size: 1.6 oz
+Price: 48
+Geneva Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
+
+----------------------------------------
+
+Product: Moisture Complex | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013056
+Size: 1.7 oz
+Price: 62
+Geneva Stock: 4
+Glen Ellyn Stock: 4
+Total Stock: 8
+
+----------------------------------------
+
+Product: Ultra Performing Complex | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013186
+Size: 1.6 oz
+Price: 72
+Geneva Stock: 9
+Glen Ellyn Stock: 1
+Total Stock: 10
+
+----------------------------------------
+
 Product: HEMPZ lotion 2.25oz
 Brand: Hempz
 Barcode: 
@@ -1263,6 +1340,28 @@ Price: 3.6
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
+
+----------------------------------------
+
+Product: Sol Defense Medium | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013230
+Size: 2 oz
+Price: 52
+Geneva Stock: 6
+Glen Ellyn Stock: 3
+Total Stock: 9
+
+----------------------------------------
+
+Product: Sol Defense Natural | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013223
+Size: 2 oz
+Price: 52
+Geneva Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
 
 ----------------------------------------
 
@@ -1326,9 +1425,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167451511
 Size: 
 Price: 6
-Geneva Stock: 3
+Geneva Stock: 1
 Glen Ellyn Stock: 0
-Total Stock: 3
+Total Stock: 1
 
 ----------------------------------------
 
@@ -1469,9 +1568,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167450804
 Size: 8 oz
 Price: 29
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 2
-Total Stock: 3
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1607,47 +1706,25 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Antibac Essentials | Skin for Life
+Product: Vita C Peptide Serum | Skin for Life
 Brand: Skin For Life
-Barcode: Custom-126
+Barcode: 819069013148
+Size: 1 oz
+Price: 62
+Geneva Stock: 6
+Glen Ellyn Stock: 4
+Total Stock: 10
+
+----------------------------------------
+
+Product: Vital Recovery Concentrate | Skin for Life
+Brand: Skin For Life
+Barcode: 819069010093
 Size: 1.6 oz
-Price: 48
-Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
-
-----------------------------------------
-
-Product: Gentle Gel Cleanser | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013261
-Size: 6 oz
-Price: 32
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
-Product: Gentle Milk Cleanser | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013254
-Size: 6 oz
-Price: 32
-Geneva Stock: 4
-Glen Ellyn Stock: 3
-Total Stock: 7
-
-----------------------------------------
-
-Product: Instant Soothing Toner | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013285
-Size: 6 oz
-Price: 36
-Geneva Stock: 2
-Glen Ellyn Stock: 3
-Total Stock: 5
+Price: 66
+Geneva Stock: 31
+Glen Ellyn Stock: 8
+Total Stock: 39
 
 ----------------------------------------
 
@@ -1656,20 +1733,9 @@ Brand: Skin For Life
 Barcode: 819069013162
 Size: 1 oz
 Price: 62
-Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
-
-----------------------------------------
-
-Product: Moisture Complex | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013056
-Size: 1.7 oz
-Price: 62
-Geneva Stock: 4
-Glen Ellyn Stock: 4
-Total Stock: 8
+Geneva Stock: 1
+Glen Ellyn Stock: 2
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1706,80 +1772,14 @@ Total Stock: 6
 
 ----------------------------------------
 
-Product: Salicylic Gel Cleanser | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013278
-Size: 6 oz
-Price: 38
-Geneva Stock: 5
-Glen Ellyn Stock: 2
-Total Stock: 7
-
-----------------------------------------
-
-Product: Salicylic Toner | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013292
-Size: 6 oz
-Price: 38
-Geneva Stock: 4
-Glen Ellyn Stock: 2
-Total Stock: 6
-
-----------------------------------------
-
-Product: Sol Defense Medium | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013230
+Product: Balance Superfood Mask | Tuel
+Brand: Berodin/Tuel
+Barcode: 252a482f-cb80-4ad0-8362-e9cb69bacc3c
 Size: 2 oz
-Price: 52
-Geneva Stock: 6
-Glen Ellyn Stock: 3
-Total Stock: 9
-
-----------------------------------------
-
-Product: Sol Defense Natural | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013223
-Size: 2 oz
-Price: 52
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
-
-----------------------------------------
-
-Product: Ultra Performing Complex | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013186
-Size: 1.6 oz
-Price: 72
-Geneva Stock: 9
-Glen Ellyn Stock: 2
-Total Stock: 11
-
-----------------------------------------
-
-Product: Vita C Peptide Serum | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013148
-Size: 1 oz
-Price: 62
-Geneva Stock: 6
-Glen Ellyn Stock: 4
-Total Stock: 10
-
-----------------------------------------
-
-Product: Vital Recovery Concentrate | Skin for Life
-Brand: Skin For Life
-Barcode: 819069010093
-Size: 1.6 oz
-Price: 66
-Geneva Stock: 31
-Glen Ellyn Stock: 8
-Total Stock: 39
+Price: 50
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
 
 ----------------------------------------
 
