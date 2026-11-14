@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/14/2026, 12:45:48 PM
+Last Updated: 11/14/2026, 4:45:48 PM
 
 Product: Instant Soothing Toner | Skin for Life
 Brand: Skin For Life
@@ -31,105 +31,6 @@ Price: 32
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
-
-----------------------------------------
-
-Product: Beat The Clock Cleanser | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001160
-Size: 5 oz
-Price: 32
-Geneva Stock: 5
-Glen Ellyn Stock: 1
-Total Stock: 6
-
-----------------------------------------
-
-Product: Body Travel Kit | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001849
-Size: 
-Price: 34
-Geneva Stock: 4
-Glen Ellyn Stock: 1
-Total Stock: 5
-
-----------------------------------------
-
-Product: Botanical Blast Body Lotion | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001450
-Size: 8 oz
-Price: 34
-Geneva Stock: 6
-Glen Ellyn Stock: 1
-Total Stock: 7
-
-----------------------------------------
-
-Product: Clear It Blemish Control Gel | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000361
-Size: 1.7 oz
-Price: 40
-Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
-
-----------------------------------------
-
-Product: Eye Corrector Firm & Lighten Gel | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000200
-Size: 0.5 oz
-Price: 60
-Geneva Stock: 4
-Glen Ellyn Stock: 2
-Total Stock: 6
-
-----------------------------------------
-
-Product: Eye Revive | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001320
-Size: 0.5 oz
-Price: 70
-Geneva Stock: 1
-Glen Ellyn Stock: 2
-Total Stock: 3
-
-----------------------------------------
-
-Product: Fresh Eyes | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000330
-Size: 0.5 oz
-Price: 36
-Geneva Stock: 6
-Glen Ellyn Stock: 3
-Total Stock: 9
-
-----------------------------------------
-
-Product: Green Clean Body Polish Kit | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000811
-Size: 8 oz
-Price: 38
-Geneva Stock: 18
-Glen Ellyn Stock: 8
-Total Stock: 26
-
-----------------------------------------
-
-Product: Green Clean Body Wash LG  | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000170
-Size: 16 oz
-Price: 52
-Geneva Stock: 10
-Glen Ellyn Stock: 8
-Total Stock: 18
 
 ----------------------------------------
 
@@ -562,6 +463,61 @@ Total Stock: 5
 
 ----------------------------------------
 
+Product: Body Travel Kit | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001849
+Size: 
+Price: 34
+Geneva Stock: 4
+Glen Ellyn Stock: 1
+Total Stock: 5
+
+----------------------------------------
+
+Product: Botanical Blast Body Lotion | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001450
+Size: 8 oz
+Price: 34
+Geneva Stock: 6
+Glen Ellyn Stock: 1
+Total Stock: 7
+
+----------------------------------------
+
+Product: Clear It Blemish Control Gel | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000361
+Size: 1.7 oz
+Price: 40
+Geneva Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 6
+
+----------------------------------------
+
+Product: Green Clean Body Polish Kit | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000811
+Size: 8 oz
+Price: 38
+Geneva Stock: 18
+Glen Ellyn Stock: 8
+Total Stock: 26
+
+----------------------------------------
+
+Product: Green Clean Body Wash LG  | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000170
+Size: 16 oz
+Price: 52
+Geneva Stock: 10
+Glen Ellyn Stock: 8
+Total Stock: 18
+
+----------------------------------------
+
 Product: Bomb Mascara | Beautiful Brows & Lashes
 Brand: Beautiful Brows & Lashes
 Barcode: 5060354224885
@@ -837,6 +793,17 @@ Total Stock: 6
 
 ----------------------------------------
 
+Product: Beat The Clock Cleanser | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001160
+Size: 5 oz
+Price: 32
+Geneva Stock: 5
+Glen Ellyn Stock: 1
+Total Stock: 6
+
+----------------------------------------
+
 Product: Gentle Gel Cleanser | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013261
@@ -853,9 +820,9 @@ Brand: Skin For Life
 Barcode: 819069013254
 Size: 6 oz
 Price: 32
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 2
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -955,6 +922,39 @@ Price: 6.6
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
+
+----------------------------------------
+
+Product: Eye Corrector Firm & Lighten Gel | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000200
+Size: 0.5 oz
+Price: 60
+Geneva Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
+
+----------------------------------------
+
+Product: Eye Revive | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001320
+Size: 0.5 oz
+Price: 70
+Geneva Stock: 1
+Glen Ellyn Stock: 2
+Total Stock: 3
+
+----------------------------------------
+
+Product: Fresh Eyes | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000330
+Size: 0.5 oz
+Price: 36
+Geneva Stock: 6
+Glen Ellyn Stock: 3
+Total Stock: 9
 
 ----------------------------------------
 
@@ -1085,8 +1085,8 @@ Barcode: US-GM-089R
 Size: 2 oz
 Price: 57
 Geneva Stock: 1
-Glen Ellyn Stock: 1
-Total Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 1
 
 ----------------------------------------
 
@@ -1558,8 +1558,8 @@ Barcode: 810167453492
 Size: 2 oz
 Price: 
 Geneva Stock: 8
-Glen Ellyn Stock: 7
-Total Stock: 15
+Glen Ellyn Stock: 6
+Total Stock: 14
 
 ----------------------------------------
 
