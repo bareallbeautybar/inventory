@@ -1,5 +1,49 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/15/2026, 4:45:48 AM
+Last Updated: 11/15/2026, 8:45:48 AM
+
+Product: CBD Skin Mist | Glymed+
+Brand: Glymed
+Barcode: US-GM-403R
+Size: 4 oz
+Price: 84
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Skin Recovery Mist | Glymed+
+Brand: Glymed
+Barcode: US-GM-121R
+Size: 4 oz
+Price: 44
+Geneva Stock: 2
+Glen Ellyn Stock: 4
+Total Stock: 6
+
+----------------------------------------
+
+Product: TRAVEL Skin Recovery Mist | Glymed+
+Brand: Glymed
+Barcode: Gl24232
+Size: 2.6 oz
+Price: 32
+Geneva Stock: 3
+Glen Ellyn Stock: 0
+Total Stock: 3
+
+----------------------------------------
+
+Product: Age Defying Nutrient Face Mist | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451368
+Size: 2 oz
+Price: 29
+Geneva Stock: 1
+Glen Ellyn Stock: 1
+Total Stock: 2
+
+----------------------------------------
 
 Product: Instant Soothing Toner | Skin for Life
 Brand: Skin For Life
@@ -27,7 +71,7 @@ Product: French Clay Mask
 Brand: Bare All Beauty by Margie
 Barcode: BABBM-FCM-1
 Size: 
-Price: 32
+Price: 5.6
 Geneva Stock: 4
 Glen Ellyn Stock: 0
 Total Stock: 4
@@ -174,6 +218,226 @@ Price: 34
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
+
+----------------------------------------
+
+Product: Cbd Massage Cream | Glymed+
+Brand: Glymed
+Barcode: US-GM-405R
+Size: 3.3 oz
+Price: 136
+Geneva Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
+
+----------------------------------------
+
+Product: Bakuchiol + Frankincense Body Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450880
+Size: 8 oz
+Price: 29
+Geneva Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
+
+----------------------------------------
+
+Product: Christmas Cheer Beeswax Candle | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850015728358
+Size: 
+Price: 30
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Himalayan Salt + Frankinsence Body Scrub | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850008995798
+Size: 9 oz
+Price: 30
+Geneva Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
+
+----------------------------------------
+
+Product: Lavender + Vanilla Beeswax Candle | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: unknown-132
+Size: 
+Price: 32
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Lymphatic Cream | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850015728464
+Size: 9 oz
+Price: 44
+Geneva Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
+
+----------------------------------------
+
+Product: Magnesium Cream | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850008995811
+Size: 4 oz
+Price: 27
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Pumpkin Spice Hand Lotion
+Brand: Rowe Casa Organics
+Barcode: 810167453492
+Size: 2 oz
+Price: 13
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
+
+----------------------------------------
+
+Product: Pumpkin Spice Hand Lotion (FREE - BAF PROMO)
+Brand: Rowe Casa Organics
+Barcode: 810167453492
+Size: 2 oz
+Price: 
+Geneva Stock: 8
+Glen Ellyn Stock: 6
+Total Stock: 14
+
+----------------------------------------
+
+Product: Rose + Jasmine Body Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450804
+Size: 8 oz
+Price: 29
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Tea Tree + Lemongrass Deodorant | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850050558118
+Size: 3 oz
+Price: 14
+Geneva Stock: 4
+Glen Ellyn Stock: 0
+Total Stock: 4
+
+----------------------------------------
+
+Product: Unscented Deodorant | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850050558125
+Size: 3 oz
+Price: 14
+Geneva Stock: 1
+Glen Ellyn Stock: 1
+Total Stock: 2
+
+----------------------------------------
+
+Product: Vanilla + Cocoa Body Butter | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 850040293531
+Size: 9 oz
+Price: 30
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
+
+----------------------------------------
+
+Product: Body Renew Indulgent Moisturizer | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: 851397008793
+Size: 
+Price: 25
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Bronzing Mousse | SJolie 
+Brand: S. Jolie Spray Tan
+Barcode: 851397008687
+Size: 
+Price: 35
+Geneva Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
+
+----------------------------------------
+
+Product: Shower Gel  | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: 851397008038
+Size: 
+Price: 22.5
+Geneva Stock: 14
+Glen Ellyn Stock: 7
+Total Stock: 21
+
+----------------------------------------
+
+Product: Sugar Scrub | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: 851397008052
+Size: 
+Price: 22.5
+Geneva Stock: 8
+Glen Ellyn Stock: 1
+Total Stock: 9
+
+----------------------------------------
+
+Product: Tan Extender Lotion | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: 851397008021
+Size: 
+Price: 24
+Geneva Stock: 6
+Glen Ellyn Stock: 5
+Total Stock: 11
+
+----------------------------------------
+
+Product: Tan Water | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: 851397008861
+Size: 
+Price: 22
+Geneva Stock: 5
+Glen Ellyn Stock: 5
+Total Stock: 10
+
+----------------------------------------
+
+Product: Tanning Mitt | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: unknown-129
+Size: 
+Price: 8
+Geneva Stock: 5
+Glen Ellyn Stock: 1
+Total Stock: 6
 
 ----------------------------------------
 
@@ -518,6 +782,72 @@ Total Stock: 4
 
 ----------------------------------------
 
+Product: Foaming Cleanser with Amino Acids | Glymed+
+Brand: Glymed
+Barcode: US-GM-27ER
+Size: 6 oz
+Price: 38
+Geneva Stock: 5
+Glen Ellyn Stock: 4
+Total Stock: 9
+
+----------------------------------------
+
+Product: Idyllic Cleanser with 3% Mandelic Acid | Glymed+
+Brand: Glymed
+Barcode: US-GM-74ER
+Size: 8 oz
+Price: 39
+Geneva Stock: 8
+Glen Ellyn Stock: 3
+Total Stock: 11
+
+----------------------------------------
+
+Product: Mega Cream Cleanser | Glymed+
+Brand: Glymed
+Barcode: US-GM-057R
+Size: 6.75 oz
+Price: 41
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: TRAVEL Vitamin C Cleanser | Glymed+
+Brand: Glymed
+Barcode: GI126R
+Size: 1 oz
+Price: 12
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Vitamin C Cleanser | Glymed+
+Brand: Glymed
+Barcode: US-GM-126R
+Size: 8 oz
+Price: 44
+Geneva Stock: 2
+Glen Ellyn Stock: 3
+Total Stock: 5
+
+----------------------------------------
+
+Product: Age Defying Nourishing Face Cleanser | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451351
+Size: 6 oz
+Price: 39
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
 Product: Gentle Gel Cleanser | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013261
@@ -675,7 +1005,7 @@ Total Stock: 9
 Product: Intense Eye Moisturizing Cream | Bion
 Brand: BiON
 Barcode: 658580350178
-Size: 
+Size: 1 oz
 Price: 26
 Geneva Stock: 3
 Glen Ellyn Stock: 3
@@ -691,6 +1021,105 @@ Price: 34
 Geneva Stock: 2
 Glen Ellyn Stock: 3
 Total Stock: 5
+
+----------------------------------------
+
+Product: Cbd Regenerative Eye Cream | Glymed+
+Brand: Glymed
+Barcode: US-GM-401R
+Size: 0.3 oz
+Price: 70
+Geneva Stock: 1
+Glen Ellyn Stock: 5
+Total Stock: 6
+
+----------------------------------------
+
+Product: Hydrating Lip Balm | Glymed+
+Brand: Glymed
+Barcode: US-GM-035R
+Size: 0.5 oz
+Price: 16
+Geneva Stock: 10
+Glen Ellyn Stock: 6
+Total Stock: 16
+
+----------------------------------------
+
+Product: Age Defying Eye Cream | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450613
+Size: 0.5 oz
+Price: 27
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
+
+----------------------------------------
+
+Product: Clear Lip Balm | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451511
+Size: 
+Price: 6
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Exfoliating Lip Scrub | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451399
+Size: 1 oz
+Price: 17
+Geneva Stock: 3
+Glen Ellyn Stock: 0
+Total Stock: 3
+
+----------------------------------------
+
+Product: Pink Shimmer Lip Balm | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450972
+Size: 
+Price: 6
+Geneva Stock: 3
+Glen Ellyn Stock: 0
+Total Stock: 3
+
+----------------------------------------
+
+Product: Make Amends Healing Moisture Cream | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001498
+Size: 1.7 oz
+Price: 48
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Bio-Essense Nighttime Calcium Complex | Bion
+Brand: BiON
+Barcode: 837654648100
+Size: 1 oz
+Price: 25
+Geneva Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 6
+
+----------------------------------------
+
+Product: Restorative Balm | Bion
+Brand: BiON
+Barcode: 658580350208
+Size: 2 oz
+Price: 30
+Geneva Stock: 2
+Glen Ellyn Stock: 4
+Total Stock: 6
 
 ----------------------------------------
 
@@ -727,83 +1156,6 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: Beta Gel with 10% Glycolic Acid | Glymed+
-Brand: Glymed
-Barcode: US-GM-002R
-Size: 4 oz
-Price: 50
-Geneva Stock: 5
-Glen Ellyn Stock: 4
-Total Stock: 9
-
-----------------------------------------
-
-Product: Bio Renewal Serum | Glymed+
-Brand: Glymed
-Barcode: US-GM-39ER
-Size: 1 oz
-Price: 100
-Geneva Stock: 5
-Glen Ellyn Stock: 3
-Total Stock: 8
-
-----------------------------------------
-
-Product: Cbd Age Delay Dew | Glymed+
-Brand: Glymed
-Barcode: US-GM-404R
-Size: 1.69 oz
-Price: 90
-Geneva Stock: 4
-Glen Ellyn Stock: 4
-Total Stock: 8
-
-----------------------------------------
-
-Product: Cbd Hydratherapy Masque with Micro-Silver | Glymed+
-Brand: Glymed
-Barcode: US-GM-407R
-Size: 1 oz
-Price: 60
-Geneva Stock: 1
-Glen Ellyn Stock: 4
-Total Stock: 5
-
-----------------------------------------
-
-Product: Cbd Massage Cream | Glymed+
-Brand: Glymed
-Barcode: US-GM-405R
-Size: 3.3 oz
-Price: 136
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
-
-----------------------------------------
-
-Product: Cbd Regenerative Eye Cream | Glymed+
-Brand: Glymed
-Barcode: US-GM-401R
-Size: 0.3 oz
-Price: 70
-Geneva Stock: 1
-Glen Ellyn Stock: 5
-Total Stock: 6
-
-----------------------------------------
-
-Product: CBD Skin Mist | Glymed+
-Brand: Glymed
-Barcode: US-GM-403R
-Size: 4 oz
-Price: 84
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
 Product: Cell Protection Balm | Glymed+
 Brand: Glymed
 Barcode: US-GM-088R
@@ -812,17 +1164,6 @@ Price: 31
 Geneva Stock: 0
 Glen Ellyn Stock: 4
 Total Stock: 4
-
-----------------------------------------
-
-Product: Chocolate Masque with Enzymes | Glymed+
-Brand: Glymed
-Barcode: US-GM-089R
-Size: 2 oz
-Price: 57
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
 
 ----------------------------------------
 
@@ -837,50 +1178,6 @@ Total Stock: 5
 
 ----------------------------------------
 
-Product: Foaming Cleanser with Amino Acids | Glymed+
-Brand: Glymed
-Barcode: US-GM-27ER
-Size: 6 oz
-Price: 38
-Geneva Stock: 5
-Glen Ellyn Stock: 4
-Total Stock: 9
-
-----------------------------------------
-
-Product: Hydrating Lip Balm | Glymed+
-Brand: Glymed
-Barcode: US-GM-035R
-Size: 0.5 oz
-Price: 16
-Geneva Stock: 10
-Glen Ellyn Stock: 6
-Total Stock: 16
-
-----------------------------------------
-
-Product: Idyllic Cleanser with 3% Mandelic Acid | Glymed+
-Brand: Glymed
-Barcode: US-GM-74ER
-Size: 8 oz
-Price: 39
-Geneva Stock: 8
-Glen Ellyn Stock: 3
-Total Stock: 11
-
-----------------------------------------
-
-Product: Mega Cream Cleanser | Glymed+
-Brand: Glymed
-Barcode: US-GM-057R
-Size: 6.75 oz
-Price: 41
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
 Product: Oxygen Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-029R
@@ -889,72 +1186,6 @@ Price: 66
 Geneva Stock: 2
 Glen Ellyn Stock: 0
 Total Stock: 2
-
-----------------------------------------
-
-Product: Oxygen Deep Pore Masque | Glymed+
-Brand: Glymed
-Barcode: US-GM-016R
-Size: 1.69 oz
-Price: 58
-Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
-
-----------------------------------------
-
-Product: Peptide Micro Scrub | Glymed+
-Brand: Glymed
-Barcode: US-GM-28ER
-Size: 2 oz
-Price: 68
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Peptide Serum | Glymed+
-Brand: Glymed
-Barcode: US-GM-40ER
-Size: 1 oz
-Price: 98
-Geneva Stock: 4
-Glen Ellyn Stock: 4
-Total Stock: 8
-
-----------------------------------------
-
-Product: Pigment Brightening Serum | Glymed+
-Brand: Glymed
-Barcode: US-GM-026R
-Size: 2 oz
-Price: 48
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
-
-----------------------------------------
-
-Product: Radiant Serum with 1% Mandelic Acid | Glymed+
-Brand: Glymed
-Barcode: US-GM-73ER
-Size: 1.69 oz
-Price: 84
-Geneva Stock: 5
-Glen Ellyn Stock: 3
-Total Stock: 8
-
-----------------------------------------
-
-Product: Restoring Fulvic Elixir | Glymed+
-Brand: Glymed
-Barcode: US-GM-032R
-Size: 1 oz
-Price: 64
-Geneva Stock: 9
-Glen Ellyn Stock: 5
-Total Stock: 14
 
 ----------------------------------------
 
@@ -969,61 +1200,6 @@ Total Stock: 7
 
 ----------------------------------------
 
-Product: Retinol Rejuvination Serum | Glymed+
-Brand: Glymed
-Barcode: US-GM-091R
-Size: 1 oz
-Price: 114
-Geneva Stock: 3
-Glen Ellyn Stock: 1
-Total Stock: 4
-
-----------------------------------------
-
-Product: Skin Recovery Mist | Glymed+
-Brand: Glymed
-Barcode: US-GM-121R
-Size: 4 oz
-Price: 44
-Geneva Stock: 2
-Glen Ellyn Stock: 4
-Total Stock: 6
-
-----------------------------------------
-
-Product: TRAVEL Skin Recovery Mist | Glymed+
-Brand: Glymed
-Barcode: Gl24232
-Size: 2.6 oz
-Price: 28
-Geneva Stock: 3
-Glen Ellyn Stock: 0
-Total Stock: 3
-
-----------------------------------------
-
-Product: TRAVEL Vitamin C Cleanser | Glymed+
-Brand: Glymed
-Barcode: GI126R
-Size: 1 oz
-Price: 12
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
-Product: Vitamin C Cleanser | Glymed+
-Brand: Glymed
-Barcode: US-GM-126R
-Size: 8 oz
-Price: 44
-Geneva Stock: 2
-Glen Ellyn Stock: 3
-Total Stock: 5
-
-----------------------------------------
-
 Product: Vitamin C Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-125R
@@ -1035,36 +1211,25 @@ Total Stock: 10
 
 ----------------------------------------
 
-Product: Make Amends Healing Moisture Cream | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001498
-Size: 1.7 oz
-Price: 48
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Bio-Essense Nighttime Calcium Complex | Bion
-Brand: BiON
-Barcode: 837654648100
-Size: 1 oz
-Price: 25
+Product: Depuffing Face Oil | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451306
+Size: 0.88 oz
+Price: 39
 Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
+Glen Ellyn Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
-Product: Restorative Balm | Bion
-Brand: BiON
-Barcode: 658580350208
-Size: 2 oz
-Price: 30
-Geneva Stock: 2
-Glen Ellyn Stock: 4
-Total Stock: 6
+Product: Moisturizing Face Cream | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450620
+Size: 1 oz
+Price: 29
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1255,6 +1420,28 @@ Total Stock: 19
 
 ----------------------------------------
 
+Product: Sun Lotion | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450934
+Size: 4 oz
+Price: 18
+Geneva Stock: 1
+Glen Ellyn Stock: 1
+Total Stock: 2
+
+----------------------------------------
+
+Product: Mineral Defense SPF 30 | SJolie
+Brand: S. Jolie Spray Tan
+Barcode: 851397008823
+Size: 
+Price: 30
+Geneva Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
+
+----------------------------------------
+
 Product: Sol Defense Medium | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013230
@@ -1274,347 +1461,6 @@ Price: 52
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
-
-----------------------------------------
-
-Product: Age Defying Eye Cream | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450613
-Size: 0.5 oz
-Price: 27
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Age Defying Nourishing Face Cleanser | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167451351
-Size: 6 oz
-Price: 39
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Age Defying Nutrient Face Mist | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167451368
-Size: 2 oz
-Price: 29
-Geneva Stock: 1
-Glen Ellyn Stock: 1
-Total Stock: 2
-
-----------------------------------------
-
-Product: Bakuchiol + Frankincense Body Lotion | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450880
-Size: 8 oz
-Price: 29
-Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
-
-----------------------------------------
-
-Product: Christmas Cheer Beeswax Candle | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850015728358
-Size: 
-Price: 30
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Clear Lip Balm | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167451511
-Size: 
-Price: 6
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Copper Peptide Face Serum | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167451283
-Size: 1 oz
-Price: 63
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Depuffing Face Oil | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167451306
-Size: 0.88 oz
-Price: 39
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Exfoliating Lip Scrub | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167451399
-Size: 1 oz
-Price: 17
-Geneva Stock: 3
-Glen Ellyn Stock: 0
-Total Stock: 3
-
-----------------------------------------
-
-Product: Exfoliating Microderm Scrub | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450989
-Size: 2 oz
-Price: 33
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Himalayan Salt + Frankinsence Body Scrub | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850008995798
-Size: 9 oz
-Price: 30
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
-
-----------------------------------------
-
-Product: Lavender + Vanilla Beeswax Candle | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: unknown-132
-Size: 
-Price: 32
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Lymphatic Cream | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850015728464
-Size: 9 oz
-Price: 44
-Geneva Stock: 2
-Glen Ellyn Stock: 2
-Total Stock: 4
-
-----------------------------------------
-
-Product: Magnesium Cream | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850008995811
-Size: 4 oz
-Price: 27
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
-Product: Moisturizing Face Cream | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450620
-Size: 1 oz
-Price: 29
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Pink Shimmer Lip Balm | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450972
-Size: 
-Price: 6
-Geneva Stock: 3
-Glen Ellyn Stock: 0
-Total Stock: 3
-
-----------------------------------------
-
-Product: Pumpkin Spice Hand Lotion
-Brand: Rowe Casa Organics
-Barcode: 810167453492
-Size: 2 oz
-Price: 13
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Pumpkin Spice Hand Lotion (FREE - BAF PROMO)
-Brand: Rowe Casa Organics
-Barcode: 810167453492
-Size: 2 oz
-Price: 
-Geneva Stock: 8
-Glen Ellyn Stock: 6
-Total Stock: 14
-
-----------------------------------------
-
-Product: Rose + Jasmine Body Lotion | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450804
-Size: 8 oz
-Price: 29
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
-Product: Sun Lotion | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 810167450934
-Size: 4 oz
-Price: 18
-Geneva Stock: 1
-Glen Ellyn Stock: 1
-Total Stock: 2
-
-----------------------------------------
-
-Product: Tea Tree + Lemongrass Deodorant | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850050558118
-Size: 3 oz
-Price: 14
-Geneva Stock: 4
-Glen Ellyn Stock: 0
-Total Stock: 4
-
-----------------------------------------
-
-Product: Unscented Deodorant | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850050558125
-Size: 3 oz
-Price: 14
-Geneva Stock: 1
-Glen Ellyn Stock: 1
-Total Stock: 2
-
-----------------------------------------
-
-Product: Vanilla + Cocoa Body Butter | Rowe Casa Organics
-Brand: Rowe Casa Organics
-Barcode: 850040293531
-Size: 9 oz
-Price: 30
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Body Renew Indulgent Moisturizer | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: 851397008793
-Size: 
-Price: 25
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Bronzing Mousse | SJolie 
-Brand: S. Jolie Spray Tan
-Barcode: 851397008687
-Size: 
-Price: 35
-Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
-
-----------------------------------------
-
-Product: Mineral Defense SPF 30 | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: 851397008823
-Size: 
-Price: 30
-Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
-
-----------------------------------------
-
-Product: Shower Gel  | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: 851397008038
-Size: 
-Price: 22.5
-Geneva Stock: 14
-Glen Ellyn Stock: 7
-Total Stock: 21
-
-----------------------------------------
-
-Product: Sugar Scrub | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: 851397008052
-Size: 
-Price: 22.5
-Geneva Stock: 8
-Glen Ellyn Stock: 1
-Total Stock: 9
-
-----------------------------------------
-
-Product: Tan Extender Lotion | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: 851397008021
-Size: 
-Price: 24
-Geneva Stock: 6
-Glen Ellyn Stock: 5
-Total Stock: 11
-
-----------------------------------------
-
-Product: Tan Water | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: 851397008861
-Size: 
-Price: 22
-Geneva Stock: 5
-Glen Ellyn Stock: 5
-Total Stock: 10
-
-----------------------------------------
-
-Product: Tanning Mitt | SJolie
-Brand: S. Jolie Spray Tan
-Barcode: unknown-129
-Size: 
-Price: 8
-Geneva Stock: 5
-Glen Ellyn Stock: 1
-Total Stock: 6
 
 ----------------------------------------
 
@@ -1670,6 +1516,105 @@ Price: 38
 Geneva Stock: 1
 Glen Ellyn Stock: 2
 Total Stock: 3
+
+----------------------------------------
+
+Product: Beta Gel with 10% Glycolic Acid | Glymed+
+Brand: Glymed
+Barcode: US-GM-002R
+Size: 4 oz
+Price: 50
+Geneva Stock: 5
+Glen Ellyn Stock: 4
+Total Stock: 9
+
+----------------------------------------
+
+Product: Bio Renewal Serum | Glymed+
+Brand: Glymed
+Barcode: US-GM-39ER
+Size: 1 oz
+Price: 100
+Geneva Stock: 5
+Glen Ellyn Stock: 3
+Total Stock: 8
+
+----------------------------------------
+
+Product: Cbd Age Delay Dew | Glymed+
+Brand: Glymed
+Barcode: US-GM-404R
+Size: 1.69 oz
+Price: 90
+Geneva Stock: 4
+Glen Ellyn Stock: 4
+Total Stock: 8
+
+----------------------------------------
+
+Product: Peptide Serum | Glymed+
+Brand: Glymed
+Barcode: US-GM-40ER
+Size: 1 oz
+Price: 98
+Geneva Stock: 4
+Glen Ellyn Stock: 4
+Total Stock: 8
+
+----------------------------------------
+
+Product: Pigment Brightening Serum | Glymed+
+Brand: Glymed
+Barcode: US-GM-026R
+Size: 2 oz
+Price: 48
+Geneva Stock: 2
+Glen Ellyn Stock: 2
+Total Stock: 4
+
+----------------------------------------
+
+Product: Radiant Serum with 1% Mandelic Acid | Glymed+
+Brand: Glymed
+Barcode: US-GM-73ER
+Size: 1.69 oz
+Price: 84
+Geneva Stock: 5
+Glen Ellyn Stock: 3
+Total Stock: 8
+
+----------------------------------------
+
+Product: Restoring Fulvic Elixir | Glymed+
+Brand: Glymed
+Barcode: US-GM-032R
+Size: 1 oz
+Price: 64
+Geneva Stock: 9
+Glen Ellyn Stock: 5
+Total Stock: 14
+
+----------------------------------------
+
+Product: Retinol Rejuvination Serum | Glymed+
+Brand: Glymed
+Barcode: US-GM-091R
+Size: 1 oz
+Price: 114
+Geneva Stock: 3
+Glen Ellyn Stock: 1
+Total Stock: 4
+
+----------------------------------------
+
+Product: Copper Peptide Face Serum | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167451283
+Size: 1 oz
+Price: 63
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1769,6 +1714,61 @@ Price: 28
 Geneva Stock: 4
 Glen Ellyn Stock: 3
 Total Stock: 7
+
+----------------------------------------
+
+Product: Cbd Hydratherapy Masque with Micro-Silver | Glymed+
+Brand: Glymed
+Barcode: US-GM-407R
+Size: 1 oz
+Price: 60
+Geneva Stock: 1
+Glen Ellyn Stock: 4
+Total Stock: 5
+
+----------------------------------------
+
+Product: Chocolate Masque with Enzymes | Glymed+
+Brand: Glymed
+Barcode: US-GM-089R
+Size: 2 oz
+Price: 57
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Oxygen Deep Pore Masque | Glymed+
+Brand: Glymed
+Barcode: US-GM-016R
+Size: 1.69 oz
+Price: 58
+Geneva Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 6
+
+----------------------------------------
+
+Product: Peptide Micro Scrub | Glymed+
+Brand: Glymed
+Barcode: US-GM-28ER
+Size: 2 oz
+Price: 68
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Exfoliating Microderm Scrub | Rowe Casa Organics
+Brand: Rowe Casa Organics
+Barcode: 810167450989
+Size: 2 oz
+Price: 33
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
 
 ----------------------------------------
 
