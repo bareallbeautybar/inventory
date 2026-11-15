@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/14/2026, 4:45:48 PM
+Last Updated: 11/14/2026, 8:45:48 PM
 
 Product: Instant Soothing Toner | Skin for Life
 Brand: Skin For Life
@@ -34,171 +34,6 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Green Clean Body Wash SM | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000705
-Size: 8 oz
-Price: 34
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Lift Up Firming Mask | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000453
-Size: 2 oz
-Price: 60
-Geneva Stock: 0
-Glen Ellyn Stock: 1
-Total Stock: 1
-
-----------------------------------------
-
-Product: Make Amends Healing Moisture Cream | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001498
-Size: 1.7 oz
-Price: 48
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
-Product: Moisture Plus Mask | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000446
-Size: 2 oz
-Price: 50
-Geneva Stock: 5
-Glen Ellyn Stock: 1
-Total Stock: 6
-
-----------------------------------------
-
-Product: Post Wax Essential Oil | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001290
-Size: 1 oz
-Price: 66
-Geneva Stock: 4
-Glen Ellyn Stock: 2
-Total Stock: 6
-
-----------------------------------------
-
-Product: Post Wax Soothing Cream | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001337
-Size: 1.7 oz
-Price: 46
-Geneva Stock: 3
-Glen Ellyn Stock: 2
-Total Stock: 5
-
-----------------------------------------
-
-Product: Power Peel Serum | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000248
-Size: 2 oz
-Price: 36
-Geneva Stock: 2
-Glen Ellyn Stock: 4
-Total Stock: 6
-
-----------------------------------------
-
-Product: Power Scrub | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000439
-Size: 1.7 oz
-Price: 35
-Geneva Stock: 8
-Glen Ellyn Stock: 2
-Total Stock: 10
-
-----------------------------------------
-
-Product: Pumice Gloves | Tuel
-Brand: Berodin/Tuel
-Barcode: unknown-155
-Size: 
-Price: 8
-Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
-
-----------------------------------------
-
-Product: Say Goodbye To Dry Cleanser | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000521
-Size: 5 oz
-Price: 30
-Geneva Stock: 9
-Glen Ellyn Stock: 4
-Total Stock: 13
-
-----------------------------------------
-
-Product: Shape Shifter | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206001030
-Size: 4.4 oz
-Price: 30
-Geneva Stock: 1
-Glen Ellyn Stock: 1
-Total Stock: 2
-
-----------------------------------------
-
-Product: TRAVEL Clear It Blemish Control | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206002167
-Size: 0.5 oz
-Price: 20
-Geneva Stock: 8
-Glen Ellyn Stock: 2
-Total Stock: 10
-
-----------------------------------------
-
-Product: Triple Splash Hydrating Body Serum | Tuel
-Brand: Berodin/Tuel
-Barcode: 844206000712
-Size: 8 oz
-Price: 34
-Geneva Stock: 1
-Glen Ellyn Stock: 2
-Total Stock: 3
-
-----------------------------------------
-
-Product: Bio-Essense Nighttime Calcium Complex | Bion
-Brand: BiON
-Barcode: 837654648100
-Size: 1 oz
-Price: 25
-Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
-
-----------------------------------------
-
-Product: Cleanser for Normal Skin | Bion
-Brand: BiON
-Barcode: 658580350017
-Size: 4 oz
-Price: 22
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
 Product: Cocoa Mango Body Butter
 Brand: BiON
 Barcode: 658580350215
@@ -207,259 +42,6 @@ Price: 3.2
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
-
-----------------------------------------
-
-Product: Gentle Cream Cleanser | Bion
-Brand: BiON
-Barcode: 658580349967
-Size: 4 oz
-Price: 26
-Geneva Stock: 1
-Glen Ellyn Stock: 2
-Total Stock: 3
-
-----------------------------------------
-
-Product: Glycolic Cleanser | Bion
-Brand: BiON
-Barcode: 658580349950
-Size: 4 oz
-Price: 30
-Geneva Stock: 2
-Glen Ellyn Stock: 1
-Total Stock: 3
-
-----------------------------------------
-
-Product: Intense Eye Moisturizing Cream | Bion
-Brand: BiON
-Barcode: 658580350178
-Size: 
-Price: 26
-Geneva Stock: 3
-Glen Ellyn Stock: 3
-Total Stock: 6
-
-----------------------------------------
-
-Product: Mandelic 15% | Bion
-Brand: BiON
-Barcode: 837654648117
-Size: 1 oz
-Price: 42
-Geneva Stock: 8
-Glen Ellyn Stock: 4
-Total Stock: 12
-
-----------------------------------------
-
-Product: Mandelic 5% Toner Pads | Bion
-Brand: BiON
-Barcode: 658580350123
-Size: 
-Price: 28
-Geneva Stock: 4
-Glen Ellyn Stock: 3
-Total Stock: 7
-
-----------------------------------------
-
-Product: Mandelic 8% | Bion
-Brand: BiON
-Barcode: 837654648131
-Size: 1 oz
-Price: 38
-Geneva Stock: 1
-Glen Ellyn Stock: 2
-Total Stock: 3
-
-----------------------------------------
-
-Product: Mineral Cream Exfoliating Cleanser | Bion
-Brand: BiON
-Barcode: 658580349998
-Size: 4 oz
-Price: 34
-Geneva Stock: 3
-Glen Ellyn Stock: 1
-Total Stock: 4
-
-----------------------------------------
-
-Product: Pure Mineral Sunscreen SPF 30 LG | Bion
-Brand: BiON
-Barcode: unknown-150
-Size: 4 oz
-Price: 61
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Pure Mineral Sunscreen SPF 30 SM | Bion
-Brand: BiON
-Barcode: unknown-142
-Size: 1.7 oz
-Price: 33
-Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
-
-----------------------------------------
-
-Product: Restorative Balm | Bion
-Brand: BiON
-Barcode: 658580350208
-Size: 2 oz
-Price: 30
-Geneva Stock: 2
-Glen Ellyn Stock: 4
-Total Stock: 6
-
-----------------------------------------
-
-Product: Tinted Dark/Tan Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: Bion-dark1
-Size: 1.7 oz
-Price: 40
-Geneva Stock: 9
-Glen Ellyn Stock: 5
-Total Stock: 14
-
-----------------------------------------
-
-Product: Tinted Fair Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: 837654648001
-Size: 1.7 oz
-Price: 40
-Geneva Stock: 10
-Glen Ellyn Stock: 8
-Total Stock: 18
-
-----------------------------------------
-
-Product: Tinted Light Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: 658580350239
-Size: 1.7 oz
-Price: 40
-Geneva Stock: 2
-Glen Ellyn Stock: 8
-Total Stock: 10
-
-----------------------------------------
-
-Product: Tinted Medium Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: 658580350246
-Size: 1.7 oz
-Price: 40
-Geneva Stock: 4
-Glen Ellyn Stock: 10
-Total Stock: 14
-
-----------------------------------------
-
-Product: Titanium Dioxide SPF 35 LG | Bion
-Brand: BiON
-Barcode: 837654648018
-Size: 4 oz
-Price: 48
-Geneva Stock: 5
-Glen Ellyn Stock: 4
-Total Stock: 9
-
-----------------------------------------
-
-Product: Titanium Dioxide SPF 35 PRO | Bion
-Brand: BiON
-Barcode: unknown57
-Size: 8 oz
-Price: 80
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
-
-----------------------------------------
-
-Product: Titanium Dioxide SPF 35 SM | Bion
-Brand: BiON
-Barcode: 669185519440
-Size: 1.7 oz
-Price: 30
-Geneva Stock: 1
-Glen Ellyn Stock: 3
-Total Stock: 4
-
-----------------------------------------
-
-Product: TRAVEL Dark/Tan Tinted Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: Bion-Travel-dark1
-Size: 0.5 oz
-Price: 14
-Geneva Stock: 7
-Glen Ellyn Stock: 7
-Total Stock: 14
-
-----------------------------------------
-
-Product: TRAVEL Fair Tinted Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: Bion-Travel-fair1
-Size: 0.5 oz
-Price: 14
-Geneva Stock: 10
-Glen Ellyn Stock: 9
-Total Stock: 19
-
-----------------------------------------
-
-Product: TRAVEL Light Tinted Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: Bion-Travel-light1
-Size: 0.5 oz
-Price: 14
-Geneva Stock: 8
-Glen Ellyn Stock: 10
-Total Stock: 18
-
-----------------------------------------
-
-Product: TRAVEL Medium Tinted Mineral SPF 35 | Bion
-Brand: BiON
-Barcode: Bion-Travel-med1
-Size: 0.5 oz
-Price: 14
-Geneva Stock: 9
-Glen Ellyn Stock: 10
-Total Stock: 19
-
-----------------------------------------
-
-Product: TRAVEL Naturally Soft Body Lotion | Bion
-Brand: BiON
-Barcode: 
-Size: 1.7 oz
-Price: 8
-Geneva Stock: 0
-Glen Ellyn Stock: 2
-Total Stock: 2
-
-----------------------------------------
-
-Product: Youthful Eyes Peptide Cream | Bion
-Brand: BiON
-Barcode: 837654648049
-Size: 1 oz
-Price: 34
-Geneva Stock: 2
-Glen Ellyn Stock: 3
-Total Stock: 5
 
 ----------------------------------------
 
@@ -515,6 +97,83 @@ Price: 52
 Geneva Stock: 10
 Glen Ellyn Stock: 8
 Total Stock: 18
+
+----------------------------------------
+
+Product: Green Clean Body Wash SM | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000705
+Size: 8 oz
+Price: 34
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Post Wax Essential Oil | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001290
+Size: 1 oz
+Price: 66
+Geneva Stock: 4
+Glen Ellyn Stock: 2
+Total Stock: 6
+
+----------------------------------------
+
+Product: Post Wax Soothing Cream | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001337
+Size: 1.7 oz
+Price: 46
+Geneva Stock: 3
+Glen Ellyn Stock: 2
+Total Stock: 5
+
+----------------------------------------
+
+Product: Pumice Gloves | Tuel
+Brand: Berodin/Tuel
+Barcode: unknown-155
+Size: 
+Price: 8
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Shape Shifter | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001030
+Size: 4.4 oz
+Price: 30
+Geneva Stock: 1
+Glen Ellyn Stock: 1
+Total Stock: 2
+
+----------------------------------------
+
+Product: TRAVEL Clear It Blemish Control | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206002167
+Size: 0.5 oz
+Price: 20
+Geneva Stock: 8
+Glen Ellyn Stock: 2
+Total Stock: 10
+
+----------------------------------------
+
+Product: Triple Splash Hydrating Body Serum | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000712
+Size: 8 oz
+Price: 34
+Geneva Stock: 1
+Glen Ellyn Stock: 2
+Total Stock: 3
 
 ----------------------------------------
 
@@ -804,6 +463,61 @@ Total Stock: 6
 
 ----------------------------------------
 
+Product: Say Goodbye To Dry Cleanser | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000521
+Size: 5 oz
+Price: 30
+Geneva Stock: 9
+Glen Ellyn Stock: 4
+Total Stock: 13
+
+----------------------------------------
+
+Product: Cleanser for Normal Skin | Bion
+Brand: BiON
+Barcode: 658580350017
+Size: 4 oz
+Price: 22
+Geneva Stock: 0
+Glen Ellyn Stock: 2
+Total Stock: 2
+
+----------------------------------------
+
+Product: Gentle Cream Cleanser | Bion
+Brand: BiON
+Barcode: 658580349967
+Size: 4 oz
+Price: 26
+Geneva Stock: 1
+Glen Ellyn Stock: 2
+Total Stock: 3
+
+----------------------------------------
+
+Product: Glycolic Cleanser | Bion
+Brand: BiON
+Barcode: 658580349950
+Size: 4 oz
+Price: 30
+Geneva Stock: 2
+Glen Ellyn Stock: 1
+Total Stock: 3
+
+----------------------------------------
+
+Product: Mineral Cream Exfoliating Cleanser | Bion
+Brand: BiON
+Barcode: 658580349998
+Size: 4 oz
+Price: 34
+Geneva Stock: 3
+Glen Ellyn Stock: 1
+Total Stock: 4
+
+----------------------------------------
+
 Product: Gentle Gel Cleanser | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013261
@@ -955,6 +669,28 @@ Price: 36
 Geneva Stock: 6
 Glen Ellyn Stock: 3
 Total Stock: 9
+
+----------------------------------------
+
+Product: Intense Eye Moisturizing Cream | Bion
+Brand: BiON
+Barcode: 658580350178
+Size: 
+Price: 26
+Geneva Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 6
+
+----------------------------------------
+
+Product: Youthful Eyes Peptide Cream | Bion
+Brand: BiON
+Barcode: 837654648049
+Size: 1 oz
+Price: 34
+Geneva Stock: 2
+Glen Ellyn Stock: 3
+Total Stock: 5
 
 ----------------------------------------
 
@@ -1299,6 +1035,39 @@ Total Stock: 10
 
 ----------------------------------------
 
+Product: Make Amends Healing Moisture Cream | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206001498
+Size: 1.7 oz
+Price: 48
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Bio-Essense Nighttime Calcium Complex | Bion
+Brand: BiON
+Barcode: 837654648100
+Size: 1 oz
+Price: 25
+Geneva Stock: 3
+Glen Ellyn Stock: 3
+Total Stock: 6
+
+----------------------------------------
+
+Product: Restorative Balm | Bion
+Brand: BiON
+Barcode: 658580350208
+Size: 2 oz
+Price: 30
+Geneva Stock: 2
+Glen Ellyn Stock: 4
+Total Stock: 6
+
+----------------------------------------
+
 Product: Antibac Essentials | Skin for Life
 Brand: Skin For Life
 Barcode: Custom-126
@@ -1340,6 +1109,149 @@ Price: 3.6
 Geneva Stock: 1
 Glen Ellyn Stock: 0
 Total Stock: 1
+
+----------------------------------------
+
+Product: Pure Mineral Sunscreen SPF 30 LG | Bion
+Brand: BiON
+Barcode: unknown-150
+Size: 4 oz
+Price: 61
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Pure Mineral Sunscreen SPF 30 SM | Bion
+Brand: BiON
+Barcode: unknown-142
+Size: 1.7 oz
+Price: 33
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Tinted Dark/Tan Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: Bion-dark1
+Size: 1.7 oz
+Price: 40
+Geneva Stock: 9
+Glen Ellyn Stock: 5
+Total Stock: 14
+
+----------------------------------------
+
+Product: Tinted Fair Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: 837654648001
+Size: 1.7 oz
+Price: 40
+Geneva Stock: 10
+Glen Ellyn Stock: 8
+Total Stock: 18
+
+----------------------------------------
+
+Product: Tinted Light Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: 658580350239
+Size: 1.7 oz
+Price: 40
+Geneva Stock: 2
+Glen Ellyn Stock: 8
+Total Stock: 10
+
+----------------------------------------
+
+Product: Tinted Medium Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: 658580350246
+Size: 1.7 oz
+Price: 40
+Geneva Stock: 4
+Glen Ellyn Stock: 10
+Total Stock: 14
+
+----------------------------------------
+
+Product: Titanium Dioxide SPF 35 LG | Bion
+Brand: BiON
+Barcode: 837654648018
+Size: 4 oz
+Price: 48
+Geneva Stock: 5
+Glen Ellyn Stock: 4
+Total Stock: 9
+
+----------------------------------------
+
+Product: Titanium Dioxide SPF 35 PRO | Bion
+Brand: BiON
+Barcode: unknown57
+Size: 8 oz
+Price: 80
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Titanium Dioxide SPF 35 SM | Bion
+Brand: BiON
+Barcode: 669185519440
+Size: 1.7 oz
+Price: 30
+Geneva Stock: 1
+Glen Ellyn Stock: 3
+Total Stock: 4
+
+----------------------------------------
+
+Product: TRAVEL Dark/Tan Tinted Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: Bion-Travel-dark1
+Size: 0.5 oz
+Price: 14
+Geneva Stock: 7
+Glen Ellyn Stock: 7
+Total Stock: 14
+
+----------------------------------------
+
+Product: TRAVEL Fair Tinted Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: Bion-Travel-fair1
+Size: 0.5 oz
+Price: 14
+Geneva Stock: 10
+Glen Ellyn Stock: 9
+Total Stock: 19
+
+----------------------------------------
+
+Product: TRAVEL Light Tinted Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: Bion-Travel-light1
+Size: 0.5 oz
+Price: 14
+Geneva Stock: 8
+Glen Ellyn Stock: 10
+Total Stock: 18
+
+----------------------------------------
+
+Product: TRAVEL Medium Tinted Mineral SPF 35 | Bion
+Brand: BiON
+Barcode: Bion-Travel-med1
+Size: 0.5 oz
+Price: 14
+Geneva Stock: 9
+Glen Ellyn Stock: 10
+Total Stock: 19
 
 ----------------------------------------
 
@@ -1728,6 +1640,39 @@ Total Stock: 39
 
 ----------------------------------------
 
+Product: Power Peel Serum | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000248
+Size: 2 oz
+Price: 36
+Geneva Stock: 2
+Glen Ellyn Stock: 4
+Total Stock: 6
+
+----------------------------------------
+
+Product: Mandelic 15% | Bion
+Brand: BiON
+Barcode: 837654648117
+Size: 1 oz
+Price: 42
+Geneva Stock: 8
+Glen Ellyn Stock: 4
+Total Stock: 12
+
+----------------------------------------
+
+Product: Mandelic 8% | Bion
+Brand: BiON
+Barcode: 837654648131
+Size: 1 oz
+Price: 38
+Geneva Stock: 1
+Glen Ellyn Stock: 2
+Total Stock: 3
+
+----------------------------------------
+
 Product: Moisture Booster | Skin for Life
 Brand: Skin For Life
 Barcode: 819069013162
@@ -1780,6 +1725,50 @@ Price: 50
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
+
+----------------------------------------
+
+Product: Lift Up Firming Mask | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000453
+Size: 2 oz
+Price: 60
+Geneva Stock: 0
+Glen Ellyn Stock: 1
+Total Stock: 1
+
+----------------------------------------
+
+Product: Moisture Plus Mask | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000446
+Size: 2 oz
+Price: 50
+Geneva Stock: 5
+Glen Ellyn Stock: 1
+Total Stock: 6
+
+----------------------------------------
+
+Product: Power Scrub | Tuel
+Brand: Berodin/Tuel
+Barcode: 844206000439
+Size: 1.7 oz
+Price: 35
+Geneva Stock: 8
+Glen Ellyn Stock: 2
+Total Stock: 10
+
+----------------------------------------
+
+Product: Mandelic 5% Toner Pads | Bion
+Brand: BiON
+Barcode: 658580350123
+Size: 
+Price: 28
+Geneva Stock: 4
+Glen Ellyn Stock: 3
+Total Stock: 7
 
 ----------------------------------------
 
