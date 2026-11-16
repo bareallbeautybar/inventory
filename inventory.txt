@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/16/2026, 8:45:49 AM
+Last Updated: 11/16/2026, 12:45:48 PM
 
 Product: CBD Skin Mist | Glymed+
 Brand: Glymed
@@ -705,17 +705,6 @@ Total Stock: 3
 
 ----------------------------------------
 
-Product: Dry Brush
-Brand: Massage Warehouse
-Barcode: 
-Size: 
-Price: 9.6
-Geneva Stock: 0
-Glen Ellyn Stock: 6
-Total Stock: 6
-
-----------------------------------------
-
 Product: Beat The Clock Cleanser | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206001160
@@ -1266,6 +1255,17 @@ Total Stock: 10
 
 ----------------------------------------
 
+Product: Vital Recovery Concentrate | Skin for Life
+Brand: Skin For Life
+Barcode: 819069010093
+Size: 1.6 oz
+Price: 66
+Geneva Stock: 31
+Glen Ellyn Stock: 8
+Total Stock: 39
+
+----------------------------------------
+
 Product: HEMPZ lotion 2.25oz
 Brand: Hempz
 Barcode: 
@@ -1464,28 +1464,6 @@ Total Stock: 4
 
 ----------------------------------------
 
-Product: Vita C Peptide Serum | Skin for Life
-Brand: Skin For Life
-Barcode: 819069013148
-Size: 1 oz
-Price: 62
-Geneva Stock: 6
-Glen Ellyn Stock: 4
-Total Stock: 10
-
-----------------------------------------
-
-Product: Vital Recovery Concentrate | Skin for Life
-Brand: Skin For Life
-Barcode: 819069010093
-Size: 1.6 oz
-Price: 66
-Geneva Stock: 31
-Glen Ellyn Stock: 8
-Total Stock: 39
-
-----------------------------------------
-
 Product: Power Peel Serum | Tuel
 Brand: Berodin/Tuel
 Barcode: 844206000248
@@ -1659,6 +1637,17 @@ Price: 44
 Geneva Stock: 4
 Glen Ellyn Stock: 2
 Total Stock: 6
+
+----------------------------------------
+
+Product: Vita C Peptide Serum | Skin for Life
+Brand: Skin For Life
+Barcode: 819069013148
+Size: 1 oz
+Price: 62
+Geneva Stock: 6
+Glen Ellyn Stock: 4
+Total Stock: 10
 
 ----------------------------------------
 
