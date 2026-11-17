@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/17/2026, 12:45:50 PM
+Last Updated: 11/17/2026, 4:45:48 PM
 
 Product: CBD Skin Mist | Glymed+
 Brand: Glymed
@@ -116,9 +116,9 @@ Brand: Berodin/Tuel
 Barcode: 844206000361
 Size: 1.7 oz
 Price: 40
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 3
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -314,9 +314,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167453492
 Size: 2 oz
 Price: 
-Geneva Stock: 8
+Geneva Stock: 7
 Glen Ellyn Stock: 6
-Total Stock: 14
+Total Stock: 13
 
 ----------------------------------------
 
@@ -446,9 +446,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224885
 Size: 
 Price: 32
-Geneva Stock: 5
+Geneva Stock: 4
 Glen Ellyn Stock: 4
-Total Stock: 9
+Total Stock: 8
 
 ----------------------------------------
 
@@ -1073,9 +1073,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167450972
 Size: 
 Price: 6
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 3
+Total Stock: 2
 
 ----------------------------------------
 
