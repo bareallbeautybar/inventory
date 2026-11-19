@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/19/2026, 8:45:48 AM
+Last Updated: 11/19/2026, 12:45:48 PM
 
 Product: CBD Skin Mist | Glymed+
 Brand: Glymed
@@ -688,9 +688,9 @@ Brand: Faire.com
 Barcode: unknown125
 Size: 
 Price: 6.4
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 0
-Total Stock: 1
+Total Stock: 0
 
 ----------------------------------------
 
@@ -1612,9 +1612,9 @@ Brand: Skin For Life
 Barcode: 819069013155
 Size: 1 oz
 Price: 44
-Geneva Stock: 29
+Geneva Stock: 28
 Glen Ellyn Stock: 4
-Total Stock: 33
+Total Stock: 32
 
 ----------------------------------------
 
