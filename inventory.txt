@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/20/2026, 4:45:49 AM
+Last Updated: 11/20/2026, 8:45:49 AM
 
 Product: CBD Skin Mist | Glymed+
 Brand: Glymed
@@ -471,17 +471,6 @@ Price: 20
 Geneva Stock: 4
 Glen Ellyn Stock: 1
 Total Stock: 5
-
-----------------------------------------
-
-Product: Lash Cleanser Mini | Beautiful Brows & Lashes
-Brand: Beautiful Brows & Lashes
-Barcode: 5060354224427
-Size: 
-Price: 10
-Geneva Stock: 0
-Glen Ellyn Stock: 0
-Total Stock: 0
 
 ----------------------------------------
 
