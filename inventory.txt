@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/20/2026, 12:45:48 PM
+Last Updated: 11/20/2026, 4:45:48 PM
 
 Product: CBD Skin Mist | Glymed+
 Brand: Glymed
@@ -50,9 +50,9 @@ Brand: Skin For Life
 Barcode: 819069013285
 Size: 6 oz
 Price: 36
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 4
 
 ----------------------------------------
 
@@ -457,9 +457,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 0
+Geneva Stock: 10
 Glen Ellyn Stock: 2
-Total Stock: 2
+Total Stock: 12
 
 ----------------------------------------
 
@@ -523,9 +523,9 @@ Brand: Borboleta
 Barcode: 850013444090
 Size: 
 Price: 65
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 11
-Total Stock: 13
+Total Stock: 12
 
 ----------------------------------------
 
@@ -809,9 +809,9 @@ Brand: Glymed
 Barcode: US-GM-126R
 Size: 8 oz
 Price: 44
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 4
 
 ----------------------------------------
 
