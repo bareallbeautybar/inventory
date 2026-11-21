@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/21/2026, 12:45:48 PM
+Last Updated: 11/21/2026, 4:45:48 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -309,6 +309,17 @@ Total Stock: 1
 
 ----------------------------------------
 
+Product: makeup removing towel
+Brand: Lemon & Lavender
+Barcode: 722950337394
+Size: 
+Price: 4
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
 Product: Bakuchiol + Frankincense Body Lotion | Rowe Casa Organics
 Brand: Rowe Casa Organics
 Barcode: 810167450880
@@ -534,9 +545,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 10
+Geneva Stock: 9
 Glen Ellyn Stock: 2
-Total Stock: 12
+Total Stock: 11
 
 ----------------------------------------
 
