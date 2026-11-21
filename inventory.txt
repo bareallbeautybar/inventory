@@ -1,5 +1,16 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/21/2026, 8:45:49 AM
+Last Updated: 11/21/2026, 12:45:48 PM
+
+Product: mini highlighter (cherub)
+Brand: BrowGal
+Barcode: 857374004918
+Size: 
+Price: 4
+Geneva Stock: 3
+Glen Ellyn Stock: 0
+Total Stock: 3
+
+----------------------------------------
 
 Product: CBD Skin Mist | Glymed+
 Brand: Glymed
@@ -16,7 +27,7 @@ Product: Skin Recovery Mist | Glymed+
 Brand: Glymed
 Barcode: US-GM-121R
 Size: 4 oz
-Price: 44
+Price: 32
 Geneva Stock: 2
 Glen Ellyn Stock: 4
 Total Stock: 6
@@ -27,7 +38,7 @@ Product: TRAVEL Skin Recovery Mist | Glymed+
 Brand: Glymed
 Barcode: Gl24232
 Size: 2.6 oz
-Price: 32
+Price: 28
 Geneva Stock: 3
 Glen Ellyn Stock: 0
 Total Stock: 3
@@ -221,6 +232,39 @@ Total Stock: 3
 
 ----------------------------------------
 
+Product: earth mama- mini deodorant
+Brand: Earth Mama
+Barcode: 859220010463
+Size: 
+Price: 2.8
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Earth Mama-mini deodorant
+Brand: Earth Mama
+Barcode: 859220010449
+Size: 
+Price: 2.8
+Geneva Stock: 0
+Glen Ellyn Stock: 0
+Total Stock: 0
+
+----------------------------------------
+
+Product: Earth Mama -mini deodorant
+Brand: EarthMama
+Barcode: 859220010470
+Size: 
+Price: 2.8
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
 Product: Cbd Massage Cream | Glymed+
 Brand: Glymed
 Barcode: US-GM-405R
@@ -229,6 +273,39 @@ Price: 136
 Geneva Stock: 2
 Glen Ellyn Stock: 2
 Total Stock: 4
+
+----------------------------------------
+
+Product: Hempz ( CBD )
+Brand: Hempz
+Barcode: 676280042711
+Size: 
+Price: 3.6
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
+Product: Hempz (Apple Cinnamon Shortbread)
+Brand: Hempz
+Barcode: 676280047143
+Size: 
+Price: 3.6
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Hempz (pumpkin spice vanilla chai)
+Brand: Hempz
+Barcode: 676280047754
+Size: 
+Price: 3.6
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
 
 ----------------------------------------
 
@@ -281,9 +358,9 @@ Brand: Rowe Casa Organics
 Barcode: 850015728464
 Size: 9 oz
 Price: 44
-Geneva Stock: 2
+Geneva Stock: 1
 Glen Ellyn Stock: 2
-Total Stock: 4
+Total Stock: 3
 
 ----------------------------------------
 
@@ -870,6 +947,39 @@ Total Stock: 3
 
 ----------------------------------------
 
+Product: Deodorant Bright Citrus mini
+Brand: EarthMama
+Barcode: 
+Size: 0.5 oz
+Price: 2.8
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Deodorant Ginger Fresh mini
+Brand: EarthMama
+Barcode: 
+Size: 0.5 oz
+Price: 2.8
+Geneva Stock: 2
+Glen Ellyn Stock: 0
+Total Stock: 2
+
+----------------------------------------
+
+Product: Deodorant Simply Non-Scents mini
+Brand: EarthMama
+Barcode: 859220010456
+Size: 0.5 oz
+Price: 2.8
+Geneva Stock: 1
+Glen Ellyn Stock: 0
+Total Stock: 1
+
+----------------------------------------
+
 Product: EarthMama Bright Citrus Deodorant
 Brand: EarthMama
 Barcode: 857249001806
@@ -878,17 +988,6 @@ Price: 5.8
 Geneva Stock: 0
 Glen Ellyn Stock: 0
 Total Stock: 0
-
-----------------------------------------
-
-Product: EarthMama Bright Citrus mini
-Brand: EarthMama
-Barcode: 
-Size: 0.5 oz
-Price: 2.8
-Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
 
 ----------------------------------------
 
@@ -903,36 +1002,14 @@ Total Stock: 1
 
 ----------------------------------------
 
-Product: EarthMama Ginger Fresh mini
-Brand: EarthMama
-Barcode: 
-Size: 0.5 oz
-Price: 2.8
-Geneva Stock: 2
-Glen Ellyn Stock: 0
-Total Stock: 2
-
-----------------------------------------
-
-Product: EarthMama Simply Non-Scents mini
-Brand: EarthMama
-Barcode: 859220010456
-Size: 0.5 oz
-Price: 2.8
-Geneva Stock: 1
-Glen Ellyn Stock: 0
-Total Stock: 1
-
-----------------------------------------
-
 Product: Lady Face Mineral Sunscreen Stick-light/medium
 Brand: EarthMama
 Barcode: 859220010340
 Size: 0.74 oz
-Price: 6.6
-Geneva Stock: 2
+Price: 16.48
+Geneva Stock: 0
 Glen Ellyn Stock: 0
-Total Stock: 2
+Total Stock: 0
 
 ----------------------------------------
 
@@ -974,9 +1051,9 @@ Brand: Berodin/Tuel
 Barcode: 844206000330
 Size: 0.5 oz
 Price: 36
-Geneva Stock: 6
+Geneva Stock: 5
 Glen Ellyn Stock: 3
-Total Stock: 9
+Total Stock: 8
 
 ----------------------------------------
 
