@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/22/2026, 12:45:48 PM
+Last Updated: 11/22/2026, 4:45:48 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -930,9 +930,9 @@ Brand: Skin For Life
 Barcode: 819069013254
 Size: 6 oz
 Price: 32
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 2
-Total Stock: 3
+Total Stock: 2
 
 ----------------------------------------
 
@@ -1337,9 +1337,9 @@ Brand: Skin For Life
 Barcode: 819069010093
 Size: 1.6 oz
 Price: 66
-Geneva Stock: 30
+Geneva Stock: 29
 Glen Ellyn Stock: 8
-Total Stock: 38
+Total Stock: 37
 
 ----------------------------------------
 
@@ -1645,9 +1645,9 @@ Brand: Glymed
 Barcode: US-GM-032R
 Size: 1 oz
 Price: 64
-Geneva Stock: 9
+Geneva Stock: 8
 Glen Ellyn Stock: 5
-Total Stock: 14
+Total Stock: 13
 
 ----------------------------------------
 
