@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/23/2026, 12:45:48 PM
+Last Updated: 11/23/2026, 4:45:58 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -611,9 +611,9 @@ Brand: Borboleta
 Barcode: 850013444090
 Size: 
 Price: 65
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 11
-Total Stock: 12
+Total Stock: 11
 
 ----------------------------------------
 
@@ -864,9 +864,9 @@ Brand: Glymed
 Barcode: US-GM-74ER
 Size: 8 oz
 Price: 39
-Geneva Stock: 8
+Geneva Stock: 7
 Glen Ellyn Stock: 3
-Total Stock: 11
+Total Stock: 10
 
 ----------------------------------------
 
@@ -908,9 +908,9 @@ Brand: Rowe Casa Organics
 Barcode: 810167451351
 Size: 6 oz
 Price: 39
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 0
-Total Stock: 1
+Total Stock: 0
 
 ----------------------------------------
 
@@ -1447,9 +1447,9 @@ Brand: BiON
 Barcode: 669185519440
 Size: 1.7 oz
 Price: 30
-Geneva Stock: 1
+Geneva Stock: 0
 Glen Ellyn Stock: 3
-Total Stock: 4
+Total Stock: 3
 
 ----------------------------------------
 
@@ -1722,9 +1722,9 @@ Brand: Skin For Life
 Barcode: 819069013148
 Size: 1 oz
 Price: 62
-Geneva Stock: 6
+Geneva Stock: 5
 Glen Ellyn Stock: 4
-Total Stock: 10
+Total Stock: 9
 
 ----------------------------------------
 
