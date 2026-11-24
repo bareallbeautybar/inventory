@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/24/2026, 12:45:49 PM
+Last Updated: 11/24/2026, 4:45:51 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -546,8 +546,8 @@ Barcode: 5060354224892
 Size: 
 Price: 32
 Geneva Stock: 9
-Glen Ellyn Stock: 2
-Total Stock: 11
+Glen Ellyn Stock: 1
+Total Stock: 10
 
 ----------------------------------------
 
@@ -612,8 +612,8 @@ Barcode: 850013444090
 Size: 
 Price: 65
 Geneva Stock: 0
-Glen Ellyn Stock: 11
-Total Stock: 11
+Glen Ellyn Stock: 10
+Total Stock: 10
 
 ----------------------------------------
 
@@ -644,9 +644,9 @@ Brand: BrowGal
 Barcode: 857374004062
 Size: 
 Price: 24
-Geneva Stock: 5
+Geneva Stock: 11
 Glen Ellyn Stock: 4
-Total Stock: 9
+Total Stock: 15
 
 ----------------------------------------
 
@@ -655,9 +655,9 @@ Brand: BrowGal
 Barcode: 857374004086
 Size: 
 Price: 24
-Geneva Stock: 2
+Geneva Stock: 14
 Glen Ellyn Stock: 4
-Total Stock: 6
+Total Stock: 18
 
 ----------------------------------------
 
@@ -677,9 +677,9 @@ Brand: BrowGal
 Barcode: 857374004116
 Size: 
 Price: 24
-Geneva Stock: 2
+Geneva Stock: 14
 Glen Ellyn Stock: 3
-Total Stock: 5
+Total Stock: 17
 
 ----------------------------------------
 
@@ -688,9 +688,9 @@ Brand: BrowGal
 Barcode: 857374004093
 Size: 
 Price: 24
-Geneva Stock: 3
+Geneva Stock: 15
 Glen Ellyn Stock: 2
-Total Stock: 5
+Total Stock: 17
 
 ----------------------------------------
 
@@ -699,9 +699,9 @@ Brand: BrowGal
 Barcode: 857374004109
 Size: 
 Price: 24
-Geneva Stock: 0
+Geneva Stock: 24
 Glen Ellyn Stock: 5
-Total Stock: 5
+Total Stock: 29
 
 ----------------------------------------
 
