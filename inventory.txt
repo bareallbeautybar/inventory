@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/24/2026, 4:45:51 PM
+Last Updated: 11/24/2026, 8:45:49 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -776,9 +776,9 @@ Brand: Faire.com
 Barcode: unknown124
 Size: 
 Price: 4
-Geneva Stock: 3
+Geneva Stock: 0
 Glen Ellyn Stock: 0
-Total Stock: 3
+Total Stock: 0
 
 ----------------------------------------
 
@@ -1029,9 +1029,9 @@ Brand: EarthMama
 Barcode: 859220010777
 Size: 0.74 oz
 Price: 6.6
-Geneva Stock: 2
+Geneva Stock: 0
 Glen Ellyn Stock: 0
-Total Stock: 2
+Total Stock: 0
 
 ----------------------------------------
 
