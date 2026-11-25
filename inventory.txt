@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/25/2026, 8:45:48 AM
+Last Updated: 11/25/2026, 12:45:49 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -171,9 +171,9 @@ Brand: Berodin/Tuel
 Barcode: 844206001290
 Size: 1 oz
 Price: 66
-Geneva Stock: 4
+Geneva Stock: 3
 Glen Ellyn Stock: 2
-Total Stock: 6
+Total Stock: 5
 
 ----------------------------------------
 
@@ -254,14 +254,14 @@ Total Stock: 0
 
 ----------------------------------------
 
-Product: Earth Mama -mini deodorant
+Product: Earth Mama -mini deodorant ginger fresh
 Brand: EarthMama
 Barcode: 859220010470
 Size: 
 Price: 2.8
-Geneva Stock: 1
+Geneva Stock: 2
 Glen Ellyn Stock: 0
-Total Stock: 1
+Total Stock: 2
 
 ----------------------------------------
 
