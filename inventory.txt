@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/25/2026, 4:45:48 PM
+Last Updated: 11/25/2026, 8:45:48 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -1656,9 +1656,9 @@ Brand: Glymed
 Barcode: US-GM-091R
 Size: 1 oz
 Price: 114
-Geneva Stock: 3
+Geneva Stock: 2
 Glen Ellyn Stock: 1
-Total Stock: 4
+Total Stock: 3
 
 ----------------------------------------
 
