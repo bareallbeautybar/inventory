@@ -1,5 +1,5 @@
 BARE ALL BEAUTY BAR INVENTORY
-Last Updated: 11/27/2026, 12:45:49 PM
+Last Updated: 11/27/2026, 4:45:49 PM
 
 Product: mini highlighter (cherub)
 Brand: BrowGal
@@ -545,9 +545,9 @@ Brand: Beautiful Brows & Lashes
 Barcode: 5060354224892
 Size: 
 Price: 32
-Geneva Stock: 9
+Geneva Stock: 239
 Glen Ellyn Stock: 4
-Total Stock: 13
+Total Stock: 243
 
 ----------------------------------------
 
@@ -1535,9 +1535,9 @@ Brand: Skin For Life
 Barcode: 819069013223
 Size: 2 oz
 Price: 52
-Geneva Stock: 2
+Geneva Stock: 0
 Glen Ellyn Stock: 2
-Total Stock: 4
+Total Stock: 2
 
 ----------------------------------------
 
